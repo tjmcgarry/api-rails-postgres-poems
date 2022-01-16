@@ -68,7 +68,7 @@ Poem.create!([
   },
   {
     "title": "Monody to the Memory of Chatterton",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Chill penury repress'd his noble rage,",
       "And froze the genial current of his soul.",
@@ -193,7 +193,7 @@ Poem.create!([
   },
   {
     "title": "Stanzas to the Rose",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "SWEET PICTURE of Life's chequer'd hour!",
       "Ah, wherefore droop thy blushing head?",
@@ -234,7 +234,7 @@ Poem.create!([
   },
   {
     "title": "The Deserted Cottage",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Who dwelt in yonder lonely Cot,",
       "Why is it thus forsaken?",
@@ -359,7 +359,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXVI: Where Antique Woods",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Where antique woods o'er-hang the mountains's crest,",
       "And mid-day glooms in solemn silence lour;",
@@ -380,7 +380,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet X: Dang'rous to Hear",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Dang'rous to hear, is that melodious tongue,",
       "And fatal to the sense those murd'rous eyes,",
@@ -401,7 +401,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXVII: Oh! Ye Bright Stars",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Oh! ye bright Stars! that on the Ebon fields",
       "Of Heav'n's empire, trembling seems to stand;",
@@ -422,7 +422,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet. Inscribed to Her Grace the Duchess of Devonshire",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "'TIS NOT thy flowing hair of orient gold,",
       "Nor those bright eyes, like sapphire gems that glow;",
@@ -445,7 +445,7 @@ Poem.create!([
   },
   {
     "title": "Stanzas Written under an Oak in Windsor Forest",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "\"HERE POPE FIRST SUNG!\" O, hallow'd Tree !",
       "Such is the boast thy bark displays;",
@@ -542,7 +542,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXXVIII: Oh Sigh",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Oh Sigh! thou steal'st, the herald of the breast,",
       "The lover's fears, the lover's pangs to tell;",
@@ -563,7 +563,7 @@ Poem.create!([
   },
   {
     "title": "Ode to Beauty",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "EXULTING BEAUTY,­phantom of an hour,",
       "Whose magic spells enchain the heart,",
@@ -638,7 +638,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XVI: Delusive Hope",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Delusive Hope! more transient than the ray",
       "That leads pale twilight to her dusky bed,",
@@ -659,7 +659,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XV: Now, Round My Favour'd Grot",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Now, round my favor'd grot let roses rise,",
       "To strew the bank where Phaon wakes from rest;",
@@ -680,7 +680,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XVII: Love Steals Unheeded",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Love steals unheeded o'er the tranquil mind,",
       "As Summer breezes fan the sleeping main,",
@@ -701,7 +701,7 @@ Poem.create!([
   },
   {
     "title": "Ode to the Moon",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "PALE GODDESS of the witching hour;",
       "Blest Contemplation's placid friend;",
@@ -778,7 +778,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXIX: Farewell, Ye Tow'ring Cedars",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Farewell, ye tow'ring Cedars, in whose shade,",
       "Lull'd by the Nightingale, I sunk to rest,",
@@ -799,7 +799,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXXIV: Venus! To Thee",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Venus! to thee, the Lesbian Muse shall sing,",
       "The song, which Myttellenian youths admir'd,",
@@ -820,7 +820,7 @@ Poem.create!([
   },
   {
     "title": "Lines on Hearing it Declared that No Women Were So Handsome as the English",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "BEAUTY, the attribute of Heaven!",
       "In various forms to mortals given,",
@@ -886,7 +886,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXXV: What Means the Mist",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "What means the mist opaque that veils these eyes;",
       "Why does yon threat'ning tempest shroud the day?",
@@ -907,7 +907,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XLIV: Here Droops the Muse",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Here droops the muse! while from her glowing mind,",
       "Celestial Sympathy, with humid eye,",
@@ -928,7 +928,7 @@ Poem.create!([
   },
   {
     "title": "Elegy to the Memory of Werter",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "\"With female Fairies will thy tomb be haunted",
       "\"And worms will not come to thee.\" SHAKSPERE.",
@@ -979,7 +979,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XLIII: While From the Dizzy Precipice",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "While from the dizzy precipice I gaze,",
       "The world receding from my pensive eyes,",
@@ -1000,7 +1000,7 @@ Poem.create!([
   },
   {
     "title": "Ode to Despair",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "TERRIFIC FIEND! thou Monster fell,",
       "Condemn'd in haunts profane to dwell,",
@@ -1134,7 +1134,7 @@ Poem.create!([
   },
   {
     "title": "The Widow's Home",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Close on the margin of a brawling brook",
       "That bathes the low dell's bosom, stands a Cot;",
@@ -1253,7 +1253,7 @@ Poem.create!([
   },
   {
     "title": "Life",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "\"What is this world?­thy school, O misery!",
       "\"Our only lesson is to learn to suffer.\"",
@@ -1304,7 +1304,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXXVII: When, in the Gloomy Mansion",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "When, in the gloomy mansion of the dead,",
       "This with'ring heart, this faded form shall sleep;",
@@ -1325,7 +1325,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXII: Wild Is the Foaming Sea",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Wild is the foaming Sea! The surges roar!",
       "And nimbly dart the livid lightnings round!",
@@ -1346,7 +1346,7 @@ Poem.create!([
   },
   {
     "title": "The Bee and the Butterfly",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "UPON a garden's perfum'd bed",
       "With various gaudy colours spread,",
@@ -1414,7 +1414,7 @@ Poem.create!([
   },
   {
     "title": "The Adieu to Love",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "LOVE, I renounce thy tyrant sway,",
       "I mock thy fascinating art,",
@@ -1597,7 +1597,7 @@ Poem.create!([
   },
   {
     "title": "Elegy to the Memory of David Garrick, Esq.",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "DEAR SHADE OF HIM, who grac'd the mimick scene,",
       "And charm'd attention with resistless pow'r;",
@@ -1683,7 +1683,7 @@ Poem.create!([
   },
   {
     "title": "Ode to the Nightingale",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "SWEET BIRD OF SORROW! ­why complain",
       "In such soft melody of Song,",
@@ -1770,7 +1770,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXXIII: I Wake",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "I wake! delusive phantoms hence, away!",
       "Tempt not the weakness of a lover's breast;",
@@ -1791,7 +1791,7 @@ Poem.create!([
   },
   {
     "title": "Absence",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "WHEN from the craggy mountain's pathless steep,",
       "Whose flinty brow hangs o'er the raging sea,",
@@ -1851,7 +1851,7 @@ Poem.create!([
   },
   {
     "title": "Lines Written by the Side of a River",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "FLOW soft RIVER, gently stray,",
       "Still a silent waving tide",
@@ -1917,7 +1917,7 @@ Poem.create!([
   },
   {
     "title": "January, 1795",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Pavement slipp'ry, people sneezing,",
       "Lords in ermine, beggars freezing ;",
@@ -1978,7 +1978,7 @@ Poem.create!([
   },
   {
     "title": "Lines to the memory of Richard Boyle, Esq.",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "\"Fate snatch'd him early to the pitying sky.\"",
       "",
@@ -2028,7 +2028,7 @@ Poem.create!([
   },
   {
     "title": "Elegy on the Death of Lady Middleton",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "THE knell of death, that on the twilight gale,",
       "Swells its deep murmur to the pensive ear;",
@@ -2089,7 +2089,7 @@ Poem.create!([
   },
   {
     "title": "The Mistletoe (A Christmas Tale)",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "A farmer's wife, both young and gay,",
       "And fresh as op'ning buds of May;",
@@ -2219,7 +2219,7 @@ Poem.create!([
   },
   {
     "title": "The Shepherd's Dog",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "I.",
       "",
@@ -2463,7 +2463,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXX: O'er the Tall Cliff",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "O'er the tall cliff that bounds the billowy main",
       "Shad'wing the surge that sweeps the lonely strand,",
@@ -2484,7 +2484,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXVIII: Weak Is the Sophistry",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Weak is the sophistry, and vain the art",
       "That whispers patience to the mind's despair!",
@@ -2505,7 +2505,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet to the Memory of Miss Maria Linley",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "So bends beneath the storm yon balmy flow'r,",
       "Whose spicy blossoms once perfum'd the gale;",
@@ -2528,7 +2528,7 @@ Poem.create!([
   },
   {
     "title": "Stanzas to a Friend",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "AH! think no more that Life's delusive joys,",
       "Can charm my thoughts from FRIENDSHIP'S dearer claim;",
@@ -2589,7 +2589,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXXII: Blest As the Gods",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Blest as the Gods! Sicilian Maid is he,",
       "The youth whose soul thy yielding graces charm;",
@@ -2610,7 +2610,7 @@ Poem.create!([
   },
   {
     "title": "The Reply to Time",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "O TIME, forgive the mournful song",
       "That on thy pinions stole along,",
@@ -2671,7 +2671,7 @@ Poem.create!([
   },
   {
     "title": "Stanzas",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "WHEN fragrant gales and summer show'rs",
       "Call'd forth the sweetly scented flow'rs;",
@@ -2710,7 +2710,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XIX: Farewell, Ye Coral Caves",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Farewell, ye coral caves, ye pearly sands,",
       "Ye waving woods that crown yon lofty steep;",
@@ -2731,7 +2731,7 @@ Poem.create!([
   },
   {
     "title": "Elegy to the Memory of Richard Boyle, Esq.",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "NEAR yon bleak mountain's dizzy height,",
       "That hangs o'er AVON's silent wave;",
@@ -2822,7 +2822,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXXIX: Prepare Your Wreaths",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Prepare your wreaths, Aonian maids divine,",
       "To strew the tranquil bed where I shall sleep;",
@@ -2843,7 +2843,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XVIII: Why Art Thou Chang'd?",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Why art thou chang'd? O Phaon! tell me why?",
       "Love flies reproach, when passion feels decay;",
@@ -2864,7 +2864,7 @@ Poem.create!([
   },
   {
     "title": "Ainsi Va le Monde",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "[As a Tribute of Esteem and Admiration this Poem is inscribed to ROBERT MERRY, Esq. A. M. Member of the Royal Academy at Florence, and Author of the Laurel of Liberty, and the Della Crusca Poems.]",
       "",
@@ -3229,7 +3229,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXV: Can'st Thou Forget",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Can'st thou forget, O! Idol of my Soul!",
       "Thy Sappho's voice, her form, her dulcet Lyre!",
@@ -3250,7 +3250,7 @@ Poem.create!([
   },
   {
     "title": "Ode to the Muse",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "O, let me seize thy pen sublime",
       "That paints, in melting dulcet rhyme,",
@@ -3398,7 +3398,7 @@ Poem.create!([
   },
   {
     "title": "The Haunted Beach",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "Upon a lonely desart Beach",
       "Where the white foam was scatter'd,",
@@ -3494,7 +3494,7 @@ Poem.create!([
   },
   {
     "title": "Sonnet XXIII: To Aetna's Scorching Sands",
-    "author": "Robinson",
+    "author": "Mary Robinson",
     "lines": [
       "To AEtna's scorching sands my Phaon flies!",
       "False Youth! can other charms attractive prove?",
