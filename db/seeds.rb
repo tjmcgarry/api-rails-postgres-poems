@@ -43,7 +43,15 @@ Poem.create!([
       "Nearer, my God, to Thee,",
       "Nearer to Thee."
     ],
-    "linecount": "35"
+    "linecount": "35",
+    "text_characters": "753",
+    "score": "0.563685",
+    "label": "positive",
+    "sadness": "0.518592",
+    "joy": "0.703743",
+    "fear": "0.087525",
+    "disgust": "0.043199",
+    "anger": "0.064651"
   },
   {
     "title": "Part In Peace: Is Day Before Us?",
@@ -64,7 +72,15 @@ Poem.create!([
       "Such the worship that upraises",
       "Human hearts to heavenly rest."
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "400",
+    "score": "0.913675",
+    "label": "positive",
+    "sadness": "0.107863",
+    "joy": "0.87849",
+    "fear": "0.002067",
+    "disgust": "0.001369",
+    "anger": "0.004601"
   },
   {
     "title": "Monody to the Memory of Chatterton",
@@ -189,7 +205,15 @@ Poem.create!([
       "Still shall thy verse in dazzling lustre live,",
       "And claim a brighter wreath THAN WEALTH CAN GIVE."
     ],
-    "linecount": "107"
+    "linecount": "107",
+    "text_characters": "4695",
+    "score": "-0.394247",
+    "label": "negative",
+    "sadness": "0.640896",
+    "joy": "0.622812",
+    "fear": "0.074618",
+    "disgust": "0.114567",
+    "anger": "0.152517"
   },
   {
     "title": "Stanzas to the Rose",
@@ -230,7 +254,15 @@ Poem.create!([
       "If such thy virtues, ROSE DIVINE!",
       "OH ! MAY THY ENVIED FATE BE MINE."
     ],
-    "linecount": "30"
+    "linecount": "30",
+    "text_characters": "1088",
+    "score": "0.608666",
+    "label": "positive",
+    "sadness": "0.168348",
+    "joy": "0.664473",
+    "fear": "0.461232",
+    "disgust": "0.039101",
+    "anger": "0.076951"
   },
   {
     "title": "The Deserted Cottage",
@@ -355,7 +387,15 @@ Poem.create!([
       "A tear --to bid thy VIRTUES live!",
       "Then--Smile, AND BE CONTENTED!"
     ],
-    "linecount": "102"
+    "linecount": "102",
+    "text_characters": "3430",
+    "score": "0.358517",
+    "label": "positive",
+    "sadness": "0.618208",
+    "joy": "0.640951",
+    "fear": "0.12273",
+    "disgust": "0.07267",
+    "anger": "0.440717"
   },
   {
     "title": "Sonnet XXVI: Where Antique Woods",
@@ -376,7 +416,15 @@ Poem.create!([
       "Be these thy pleasures, dull Philosophy!",
       "Nor vaunt the balm, to heal a lover's wound."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "646",
+    "score": "-0.578371",
+    "label": "negative",
+    "sadness": "0.74509",
+    "joy": "0.186554",
+    "fear": "0.107598",
+    "disgust": "0.01238",
+    "anger": "0.056622"
   },
   {
     "title": "Sonnet X: Dang'rous to Hear",
@@ -397,7 +445,15 @@ Poem.create!([
       "Warm as his beams this sensate heart shall glow,",
       "Till life's last hour, with Phaon's self decays!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "638",
+    "score": "0.800813",
+    "label": "positive",
+    "sadness": "0.079458",
+    "joy": "0.848907",
+    "fear": "0.046725",
+    "disgust": "0.008041",
+    "anger": "0.034866"
   },
   {
     "title": "Sonnet XXVII: Oh! Ye Bright Stars",
@@ -418,7 +474,15 @@ Poem.create!([
       "If bliss from coldness, pain from passion flows,",
       "Ah! who would wish to feel, or learn to love?"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "640",
+    "score": "0.555762",
+    "label": "positive",
+    "sadness": "0.124309",
+    "joy": "0.667425",
+    "fear": "0.028725",
+    "disgust": "0.068719",
+    "anger": "0.015766"
   },
   {
     "title": "Sonnet. Inscribed to Her Grace the Duchess of Devonshire",
@@ -441,7 +505,15 @@ Poem.create!([
       "Shall, like the Brilliant, scorn each borrow'd aid,",
       "And deck'd with native lustre NEVER FADE!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "637",
+    "score": "0.883727",
+    "label": "positive",
+    "sadness": "0.061615",
+    "joy": "0.788474",
+    "fear": "0.012837",
+    "disgust": "0.060457",
+    "anger": "0.110916"
   },
   {
     "title": "Stanzas Written under an Oak in Windsor Forest",
@@ -538,7 +610,15 @@ Poem.create!([
       "For every grateful MUSE shall twine",
       "A votive Wreath to deck THY SHRINE."
     ],
-    "linecount": "78"
+    "linecount": "78",
+    "text_characters": "2899",
+    "score": "0.374681",
+    "label": "positive",
+    "sadness": "0.136737",
+    "joy": "0.717305",
+    "fear": "0.098029",
+    "disgust": "0.084755",
+    "anger": "0.0708"
   },
   {
     "title": "Sonnet XXXVIII: Oh Sigh",
@@ -559,7 +639,15 @@ Poem.create!([
       "For Love the tyrant plays, when hope is near,",
       "And she who flies the lover, chains the soul!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "616",
+    "score": "-0.772857",
+    "label": "negative",
+    "sadness": "0.611929",
+    "joy": "0.59639",
+    "fear": "0.489649",
+    "disgust": "0.043152",
+    "anger": "0.111619"
   },
   {
     "title": "Ode to Beauty",
@@ -634,7 +722,15 @@ Poem.create!([
       "Shrinks from the sultry glare of noon,",
       "Droops its enamell'd brow, and blushing, dies away."
     ],
-    "linecount": "64"
+    "linecount": "64",
+    "text_characters": "2319",
+    "score": "-0.324043",
+    "label": "negative",
+    "sadness": "0.581862",
+    "joy": "0.638319",
+    "fear": "0.117781",
+    "disgust": "0.095285",
+    "anger": "0.483361"
   },
   {
     "title": "Sonnet XVI: Delusive Hope",
@@ -655,7 +751,15 @@ Poem.create!([
       "To hide, where meditation loves to dwell,",
       "And feed my soul, with luxury of woe!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "603",
+    "score": "0.354871",
+    "label": "positive",
+    "sadness": "0.184547",
+    "joy": "0.651657",
+    "fear": "0.13743",
+    "disgust": "0.126158",
+    "anger": "0.072026"
   },
   {
     "title": "Sonnet XV: Now, Round My Favour'd Grot",
@@ -676,7 +780,15 @@ Poem.create!([
       "And let the Grecian Lyre its aid bestow,",
       "In songs of triumph, to proclaim him mine!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "613",
+    "score": "0.734601",
+    "label": "positive",
+    "sadness": "0.450562",
+    "joy": "0.719482",
+    "fear": "0.113159",
+    "disgust": "0.097465",
+    "anger": "0.065036"
   },
   {
     "title": "Sonnet XVII: Love Steals Unheeded",
@@ -697,7 +809,15 @@ Poem.create!([
       "Then nymphs beware how ye profane my name,",
       "Nor blame my weakness, till like me ye love!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "627",
+    "score": "0.604183",
+    "label": "positive",
+    "sadness": "0.699916",
+    "joy": "0.617883",
+    "fear": "0.09588",
+    "disgust": "0.0428",
+    "anger": "0.057739"
   },
   {
     "title": "Ode to the Moon",
@@ -774,7 +894,15 @@ Poem.create!([
       "And when the toilsome pilgrimage shall end,",
       "To greet the tyrant, as a welcome friend."
     ],
-    "linecount": "64"
+    "linecount": "64",
+    "text_characters": "2354",
+    "score": "-0.40291",
+    "label": "negative",
+    "sadness": "0.560433",
+    "joy": "0.670325",
+    "fear": "0.09728",
+    "disgust": "0.093315",
+    "anger": "0.105568"
   },
   {
     "title": "Sonnet XXIX: Farewell, Ye Tow'ring Cedars",
@@ -795,7 +923,15 @@ Poem.create!([
       "As erst, when Venus in her sparry cell",
       "Wept, to behold a brighter goddess there!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "618",
+    "score": "-0.29841",
+    "label": "negative",
+    "sadness": "0.019584",
+    "joy": "0.747788",
+    "fear": "0.039739",
+    "disgust": "0.225696",
+    "anger": "0.01692"
   },
   {
     "title": "Sonnet XXXIV: Venus! To Thee",
@@ -816,7 +952,15 @@ Poem.create!([
       "For Venus, Sappho shall a wreath prepare,",
       "And Love be crown'd, immortal as the Nine!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "625",
+    "score": "0.735859",
+    "label": "positive",
+    "sadness": "0.440999",
+    "joy": "0.616404",
+    "fear": "0.062986",
+    "disgust": "0.062463",
+    "anger": "0.043419"
   },
   {
     "title": "Lines on Hearing it Declared that No Women Were So Handsome as the English",
@@ -882,7 +1026,15 @@ Poem.create!([
       "With various charms delight the mind,",
       "For FANCY governs ALL MANKIND."
     ],
-    "linecount": "54"
+    "linecount": "54",
+    "text_characters": "1879",
+    "score": "0.795373",
+    "label": "positive",
+    "sadness": "0.086702",
+    "joy": "0.785954",
+    "fear": "0.043312",
+    "disgust": "0.095828",
+    "anger": "0.056865"
   },
   {
     "title": "Sonnet XXXV: What Means the Mist",
@@ -903,7 +1055,15 @@ Poem.create!([
       "The gentle thought had sooth'd my wand'ring shade,",
       "From life's dark valley, and its thorns remov'd!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "625",
+    "score": "-0.640063",
+    "label": "negative",
+    "sadness": "0.694362",
+    "joy": "0.597859",
+    "fear": "0.632426",
+    "disgust": "0.082501",
+    "anger": "0.124632"
   },
   {
     "title": "Sonnet XLIV: Here Droops the Muse",
@@ -924,7 +1084,15 @@ Poem.create!([
       "Yet shalt thou more than mortal raptures claim,",
       "The brightest planet of th' ETERNAL SPHERE!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "631",
+    "score": "0.560682",
+    "label": "positive",
+    "sadness": "0.535662",
+    "joy": "0.577126",
+    "fear": "0.072399",
+    "disgust": "0.063313",
+    "anger": "0.0714"
   },
   {
     "title": "Elegy to the Memory of Werter",
@@ -975,7 +1143,15 @@ Poem.create!([
       "There shall the sparkling dews of Evening shine,",
       "AND HEAVEN'S OWN INCENSE CONSECRATE THE SHRINE."
     ],
-    "linecount": "38"
+    "linecount": "38",
+    "text_characters": "1772",
+    "score": "0.336653",
+    "label": "positive",
+    "sadness": "0.63961",
+    "joy": "0.574911",
+    "fear": "0.106415",
+    "disgust": "0.049203",
+    "anger": "0.094605"
   },
   {
     "title": "Sonnet XLIII: While From the Dizzy Precipice",
@@ -996,7 +1172,15 @@ Poem.create!([
       "Then shall my Lyre disdain love's dread control,",
       "And loftier passions, prompt the loftier theme!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "621",
+    "score": "0.442897",
+    "label": "positive",
+    "sadness": "0.097305",
+    "joy": "0.849305",
+    "fear": "0.043873",
+    "disgust": "0.004632",
+    "anger": "0.017673"
   },
   {
     "title": "Ode to Despair",
@@ -1130,7 +1314,15 @@ Poem.create!([
       "Where, from each restless Passion free,",
       "I give my noiseless hours, BLESS'D POETRY, TO THEE."
     ],
-    "linecount": "118"
+    "linecount": "118",
+    "text_characters": "4321",
+    "score": "-0.518546",
+    "label": "negative",
+    "sadness": "0.579201",
+    "joy": "0.58314",
+    "fear": "0.581297",
+    "disgust": "0.080746",
+    "anger": "0.150034"
   },
   {
     "title": "The Widow's Home",
@@ -1249,7 +1441,15 @@ Poem.create!([
       "The proud inheritor of Heav'n's best gifts--",
       "The mind unshackled--and the guiltless Soul!"
     ],
-    "linecount": "110"
+    "linecount": "110",
+    "text_characters": "4599",
+    "score": "0.409139",
+    "label": "positive",
+    "sadness": "0.53829",
+    "joy": "0.664617",
+    "fear": "0.106844",
+    "disgust": "0.087348",
+    "anger": "0.111913"
   },
   {
     "title": "Life",
@@ -1300,7 +1500,15 @@ Poem.create!([
       "Till DEATH appears, a welcome friend,",
       "To bid the scene of sorrow end."
     ],
-    "linecount": "39"
+    "linecount": "39",
+    "text_characters": "1283",
+    "score": "-0.488705",
+    "label": "negative",
+    "sadness": "0.604087",
+    "joy": "0.660315",
+    "fear": "0.682537",
+    "disgust": "0.041967",
+    "anger": "0.046969"
   },
   {
     "title": "Sonnet XXXVII: When, in the Gloomy Mansion",
@@ -1321,7 +1529,15 @@ Poem.create!([
       "Ah! no!my restless shade would still deplore,",
       "Nor taste that bliss, which Phaon did not share."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "638",
+    "score": "-0.523615",
+    "label": "negative",
+    "sadness": "0.409948",
+    "joy": "0.546562",
+    "fear": "0.016802",
+    "disgust": "0.035219",
+    "anger": "0.037322"
   },
   {
     "title": "Sonnet XXII: Wild Is the Foaming Sea",
@@ -1342,7 +1558,15 @@ Poem.create!([
       "For howling winds, and foaming seas, in vain",
       "Assail the breast, when passion rages there!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "619",
+    "score": "-0.564946",
+    "label": "negative",
+    "sadness": "0.136507",
+    "joy": "0.532954",
+    "fear": "0.108181",
+    "disgust": "0.077842",
+    "anger": "0.581105"
   },
   {
     "title": "The Bee and the Butterfly",
@@ -1410,7 +1634,15 @@ Poem.create!([
       "E'en GENIUS must to PRIDE submit",
       "When ENVY wings the shaft of WIT."
     ],
-    "linecount": "58"
+    "linecount": "58",
+    "text_characters": "1993",
+    "score": "0.67525",
+    "label": "positive",
+    "sadness": "0.018274",
+    "joy": "0.717917",
+    "fear": "0.005987",
+    "disgust": "0.0126",
+    "anger": "0.294044"
   },
   {
     "title": "The Adieu to Love",
@@ -1593,7 +1825,15 @@ Poem.create!([
       "No more on ME thy arrows show'r,",
       "Capricious Love­! I BRAVE THY POW'R."
     ],
-    "linecount": "168"
+    "linecount": "168",
+    "text_characters": "6004",
+    "score": "0.577763",
+    "label": "positive",
+    "sadness": "0.520423",
+    "joy": "0.702113",
+    "fear": "0.099878",
+    "disgust": "0.037708",
+    "anger": "0.07729"
   },
   {
     "title": "Elegy to the Memory of David Garrick, Esq.",
@@ -1679,7 +1919,15 @@ Poem.create!([
       "And the same wreath thy hand for SHAKSPERE made,",
       "Gemm'd with her tears about THY GRAVE SHALL TWINE."
     ],
-    "linecount": "64"
+    "linecount": "64",
+    "text_characters": "2882",
+    "score": "0.568862",
+    "label": "positive",
+    "sadness": "0.603462",
+    "joy": "0.675996",
+    "fear": "0.079426",
+    "disgust": "0.059702",
+    "anger": "0.120935"
   },
   {
     "title": "Ode to the Nightingale",
@@ -1766,7 +2014,15 @@ Poem.create!([
       "Sweet BIRD, not e'en THY melting Strains",
       "Can calm the Heart, where TYRANT SORROW REIGNS."
     ],
-    "linecount": "77"
+    "linecount": "77",
+    "text_characters": "2821",
+    "score": "-0.478954",
+    "label": "negative",
+    "sadness": "0.589642",
+    "joy": "0.603962",
+    "fear": "0.117623",
+    "disgust": "0.05253",
+    "anger": "0.067171"
   },
   {
     "title": "Sonnet XXXIII: I Wake",
@@ -1787,7 +2043,15 @@ Poem.create!([
       "Can find no balm, love's arrows to beguile;",
       "Ah! Sorrows known too soon! and felt too long!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "628",
+    "score": "0.489914",
+    "label": "positive",
+    "sadness": "0.596759",
+    "joy": "0.629341",
+    "fear": "0.671866",
+    "disgust": "0.061121",
+    "anger": "0.055799"
   },
   {
     "title": "Absence",
@@ -1847,7 +2111,15 @@ Poem.create!([
       "Nor shall its aching fibres cease to smart,",
       "'Till DEATH's cold SPELL is twin'd about my HEART."
     ],
-    "linecount": "48"
+    "linecount": "48",
+    "text_characters": "2113",
+    "score": "0.353644",
+    "label": "positive",
+    "sadness": "0.679502",
+    "joy": "0.650963",
+    "fear": "0.138638",
+    "disgust": "0.054754",
+    "anger": "0.089453"
   },
   {
     "title": "Lines Written by the Side of a River",
@@ -1913,7 +2185,15 @@ Poem.create!([
       "Homeward now I'll bend my way,",
       "AND CHAUNT MY PLAINTIVE ROUNDELAY."
     ],
-    "linecount": "56"
+    "linecount": "56",
+    "text_characters": "1739",
+    "score": "0.387179",
+    "label": "positive",
+    "sadness": "0.642253",
+    "joy": "0.593439",
+    "fear": "0.097945",
+    "disgust": "0.12927",
+    "anger": "0.161331"
   },
   {
     "title": "January, 1795",
@@ -1974,7 +2254,15 @@ Poem.create!([
       "Ruin hasten'd, peace retarded ;",
       "Candour spurn'd, and art rewarded."
     ],
-    "linecount": "44"
+    "linecount": "44",
+    "text_characters": "1477",
+    "score": "-0.468385",
+    "label": "negative",
+    "sadness": "0.574488",
+    "joy": "0.545141",
+    "fear": "0.154214",
+    "disgust": "0.170449",
+    "anger": "0.15129"
   },
   {
     "title": "Lines to the memory of Richard Boyle, Esq.",
@@ -2024,7 +2312,15 @@ Poem.create!([
       "While in her pensive form the world should view",
       "The ONLY PARENT that thy SORROWS knew."
     ],
-    "linecount": "38"
+    "linecount": "38",
+    "text_characters": "1653",
+    "score": "-0.363086",
+    "label": "negative",
+    "sadness": "0.651322",
+    "joy": "0.591133",
+    "fear": "0.076477",
+    "disgust": "0.06932",
+    "anger": "0.109393"
   },
   {
     "title": "Elegy on the Death of Lady Middleton",
@@ -2085,7 +2381,15 @@ Poem.create!([
       "Where 'midst the glories of TH' ETERNAL's throne,",
       "She tastes celestial bliss THAT NEVER DIES!"
     ],
-    "linecount": "44"
+    "linecount": "44",
+    "text_characters": "1911",
+    "score": "0.435847",
+    "label": "positive",
+    "sadness": "0.62988",
+    "joy": "0.624156",
+    "fear": "0.085994",
+    "disgust": "0.547733",
+    "anger": "0.128047"
   },
   {
     "title": "The Mistletoe (A Christmas Tale)",
@@ -2215,7 +2519,15 @@ Poem.create!([
       "While VANITY, alone, pursuing,",
       "They rashly prove, their own undoing."
     ],
-    "linecount": "111"
+    "linecount": "111",
+    "text_characters": "3939",
+    "score": "0.438596",
+    "label": "positive",
+    "sadness": "0.566017",
+    "joy": "0.644705",
+    "fear": "0.121126",
+    "disgust": "0.558773",
+    "anger": "0.633733"
   },
   {
     "title": "The Shepherd's Dog",
@@ -2459,7 +2771,15 @@ Poem.create!([
       "And though they ne'er another spring may see;",
       "The Shepherd, and his Dog, are chearful company."
     ],
-    "linecount": "180"
+    "linecount": "180",
+    "text_characters": "6266",
+    "score": "0.305387",
+    "label": "positive",
+    "sadness": "0.559965",
+    "joy": "0.530915",
+    "fear": "0.099477",
+    "disgust": "0.063058",
+    "anger": "0.467502"
   },
   {
     "title": "Sonnet XXX: O'er the Tall Cliff",
@@ -2480,7 +2800,15 @@ Poem.create!([
       "Lesbos; these eyes shall meet thy sands no more:",
       "I fly, to seek my Lover, or my Grave!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "637",
+    "score": "-0.618334",
+    "label": "negative",
+    "sadness": "0.589268",
+    "joy": "0.285944",
+    "fear": "0.161304",
+    "disgust": "0.067451",
+    "anger": "0.141955"
   },
   {
     "title": "Sonnet XXVIII: Weak Is the Sophistry",
@@ -2501,7 +2829,15 @@ Poem.create!([
       "When, on its banks he watch'd the speaking eye,",
       "And one sweet smile o'erpaid an age of fears!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "632",
+    "score": "0.3785",
+    "label": "positive",
+    "sadness": "0.129109",
+    "joy": "0.81285",
+    "fear": "0.068666",
+    "disgust": "0.002644",
+    "anger": "0.008331"
   },
   {
     "title": "Sonnet to the Memory of Miss Maria Linley",
@@ -2524,7 +2860,15 @@ Poem.create!([
       "STILL, STILL, melodious maid, thy dulcet song",
       "Shall breathe, immortal, on an ANGEL'S TONGUE!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "639",
+    "score": "-0.535705",
+    "label": "negative",
+    "sadness": "0.333986",
+    "joy": "0.520072",
+    "fear": "0.071689",
+    "disgust": "0.017824",
+    "anger": "0.132997"
   },
   {
     "title": "Stanzas to a Friend",
@@ -2585,7 +2929,15 @@ Poem.create!([
       "Oh! may kind FRIENDSHIP catch my parting sigh,",
       "And cheer with HOPE the terrors of the TOMB."
     ],
-    "linecount": "44"
+    "linecount": "44",
+    "text_characters": "1981",
+    "score": "0.560078",
+    "label": "positive",
+    "sadness": "0.557346",
+    "joy": "0.670504",
+    "fear": "0.549013",
+    "disgust": "0.051037",
+    "anger": "0.083507"
   },
   {
     "title": "Sonnet XXXII: Blest As the Gods",
@@ -2606,7 +2958,15 @@ Poem.create!([
       "The Bee flies sicken'd from the sweetest flow'r;",
       "The lightning's shaft, but dazzles to destroy!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "630",
+    "score": "0.769675",
+    "label": "positive",
+    "sadness": "0.097185",
+    "joy": "0.75736",
+    "fear": "0.124224",
+    "disgust": "0.098786",
+    "anger": "0.089119"
   },
   {
     "title": "The Reply to Time",
@@ -2667,7 +3027,15 @@ Poem.create!([
       "Fade in oblivion's torpid hour",
       "The victims of thy TYRANT POW'R!"
     ],
-    "linecount": "52"
+    "linecount": "52",
+    "text_characters": "1859",
+    "score": "-0.516367",
+    "label": "negative",
+    "sadness": "0.645439",
+    "joy": "0.657041",
+    "fear": "0.065667",
+    "disgust": "0.088698",
+    "anger": "0.130349"
   },
   {
     "title": "Stanzas",
@@ -2706,7 +3074,15 @@ Poem.create!([
       "But when capricious FORTUNE flies,",
       "Then FRIENDSHIP fades;­and PASSION dies."
     ],
-    "linecount": "30"
+    "linecount": "30",
+    "text_characters": "1120",
+    "score": "0.339076",
+    "label": "positive",
+    "sadness": "0.021285",
+    "joy": "0.92249",
+    "fear": "0.006327",
+    "disgust": "0.040195",
+    "anger": "0.023091"
   },
   {
     "title": "Sonnet XIX: Farewell, Ye Coral Caves",
@@ -2727,7 +3103,15 @@ Poem.create!([
       "While Sappho's lips, to paly ashes fade,",
       "And sorrow's cank'ring worm her heart devours!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "639",
+    "score": "-0.965695",
+    "label": "negative",
+    "sadness": "0.217594",
+    "joy": "0.507169",
+    "fear": "0.153805",
+    "disgust": "0.047924",
+    "anger": "0.213065"
   },
   {
     "title": "Elegy to the Memory of Richard Boyle, Esq.",
@@ -2818,7 +3202,15 @@ Poem.create!([
       "Sublime in death, thy spirit fled,",
       "To seek its best reward IN HEAVEN!"
     ],
-    "linecount": "68"
+    "linecount": "68",
+    "text_characters": "2446",
+    "score": "-0.435182",
+    "label": "negative",
+    "sadness": "0.639007",
+    "joy": "0.660111",
+    "fear": "0.120517",
+    "disgust": "0.064215",
+    "anger": "0.120978"
   },
   {
     "title": "Sonnet XXXIX: Prepare Your Wreaths",
@@ -2839,7 +3231,15 @@ Poem.create!([
       "And there shall Phaon pearls of pity shed,",
       "To gem the vanquish'd heart he scorn'd to save!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "623",
+    "score": "0.440997",
+    "label": "positive",
+    "sadness": "0.498017",
+    "joy": "0.372424",
+    "fear": "0.069429",
+    "disgust": "0.093371",
+    "anger": "0.048425"
   },
   {
     "title": "Sonnet XVIII: Why Art Thou Chang'd?",
@@ -2860,7 +3260,15 @@ Poem.create!([
       "And yet no bliss this sensate Being knows;",
       "Ah! why is rapture so allied to pain?"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "613",
+    "score": "-0.334174",
+    "label": "negative",
+    "sadness": "0.578158",
+    "joy": "0.573786",
+    "fear": "0.102249",
+    "disgust": "0.031728",
+    "anger": "0.075946"
   },
   {
     "title": "Ainsi Va le Monde",
@@ -3225,7 +3633,15 @@ Poem.create!([
       "The Goddess speaks! O mark the blest decree,­",
       "TYRANTS SHALL FALL, ­TRIUMPHANT MAN BE FREE!"
     ],
-    "linecount": "341"
+    "linecount": "341",
+    "text_characters": "15248",
+    "score": "0.471651",
+    "label": "positive",
+    "sadness": "0.517967",
+    "joy": "0.675035",
+    "fear": "0.080517",
+    "disgust": "0.104061",
+    "anger": "0.102493"
   },
   {
     "title": "Sonnet XXV: Can'st Thou Forget",
@@ -3246,7 +3662,15 @@ Poem.create!([
       "Shews 'midst the waste a solitary urn,",
       "A blighted laurel, and a mould'ring tomb!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "613",
+    "score": "0.295055",
+    "label": "positive",
+    "sadness": "0.182923",
+    "joy": "0.533598",
+    "fear": "0.09333",
+    "disgust": "0.048286",
+    "anger": "0.52719"
   },
   {
     "title": "Ode to the Muse",
@@ -3394,7 +3818,15 @@ Poem.create!([
       "Oh! keep thy gifts, and let me fly,",
       "In APATHY's cold arms to die."
     ],
-    "linecount": "134"
+    "linecount": "134",
+    "text_characters": "4749",
+    "score": "0.691575",
+    "label": "positive",
+    "sadness": "0.589998",
+    "joy": "0.702527",
+    "fear": "0.08274",
+    "disgust": "0.08002",
+    "anger": "0.068165"
   },
   {
     "title": "The Haunted Beach",
@@ -3490,7 +3922,15 @@ Poem.create!([
       "He wastes, in Solitude and Pain--",
       "A loathsome life away."
     ],
-    "linecount": "81"
+    "linecount": "81",
+    "text_characters": "2648",
+    "score": "-0.456987",
+    "label": "negative",
+    "sadness": "0.622821",
+    "joy": "0.592118",
+    "fear": "0.117948",
+    "disgust": "0.476035",
+    "anger": "0.123495"
   },
   {
     "title": "Sonnet XXIII: To Aetna's Scorching Sands",
@@ -3511,7 +3951,15 @@ Poem.create!([
       "Let one kind word my weary woes repay,",
       "Or, in eternal slumbers bid them rest."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "634",
+    "score": "-0.583762",
+    "label": "negative",
+    "sadness": "0.535433",
+    "joy": "0.504205",
+    "fear": "0.13325",
+    "disgust": "0.137613",
+    "anger": "0.065006"
   },
   {
     "title": "Niobe in Distress",
@@ -3758,7 +4206,15 @@ Poem.create!([
       "\"A marble statue now the queen appears,",
       "\"But from the marble steal the silent tears.\""
     ],
-    "linecount": "224"
+    "linecount": "224",
+    "text_characters": "9696",
+    "score": "-0.452644",
+    "label": "negative",
+    "sadness": "0.595747",
+    "joy": "0.601941",
+    "fear": "0.512866",
+    "disgust": "0.098545",
+    "anger": "0.152257"
   },
   {
     "title": "An Hymn To Humanity (To S.P.G. Esp)",
@@ -3816,7 +4272,15 @@ Poem.create!([
       "The smiling Graces all surround",
       "    With ev'ry heav'nly Art."
     ],
-    "linecount": "41"
+    "linecount": "41",
+    "text_characters": "1162",
+    "score": "0.790549",
+    "label": "positive",
+    "sadness": "0.441136",
+    "joy": "0.624613",
+    "fear": "0.076152",
+    "disgust": "0.058879",
+    "anger": "0.053769"
   },
   {
     "title": "To The Honourable T. H. Esq; On the Death Of His Daughter",
@@ -3864,7 +4328,15 @@ Poem.create!([
       "\"Let brighter scenes your ev'ning-hours employ:",
       "\"Converse with heav'n, and taste the promis'd joy\""
     ],
-    "linecount": "41"
+    "linecount": "41",
+    "text_characters": "1763",
+    "score": "0.392863",
+    "label": "positive",
+    "sadness": "0.617049",
+    "joy": "0.657667",
+    "fear": "0.632051",
+    "disgust": "0.058392",
+    "anger": "0.582505"
   },
   {
     "title": "A Funeral Poem on the Death of C.E.",
@@ -3921,7 +4393,15 @@ Poem.create!([
       "Prepare to join your dearest infant friend",
       "In pleasures without measure, without end."
     ],
-    "linecount": "46"
+    "linecount": "46",
+    "text_characters": "2011",
+    "score": "0.364258",
+    "label": "positive",
+    "sadness": "0.614068",
+    "joy": "0.067496",
+    "fear": "0.0704",
+    "disgust": "0.044634",
+    "anger": "0.064868"
   },
   {
     "title": "To a Gentleman and Lady on the Death of the Lady's Brother and Sister",
@@ -3964,7 +4444,15 @@ Poem.create!([
       "With tow'ring hopes, and growing grace arise,",
       "And seek beatitude beyond the skies."
     ],
-    "linecount": "34"
+    "linecount": "34",
+    "text_characters": "1464",
+    "score": "0.291818",
+    "label": "positive",
+    "sadness": "0.624538",
+    "joy": "0.652742",
+    "fear": "0.08022",
+    "disgust": "0.094308",
+    "anger": "0.056444"
   },
   {
     "title": " Thoughts On The Works Of Providence",
@@ -4102,7 +4590,15 @@ Poem.create!([
       "To him, whose works arry'd with mercy shine,",
       "What songs should rise, how constant, how divine!"
     ],
-    "linecount": "131"
+    "linecount": "131",
+    "text_characters": "5715",
+    "score": "0.619799",
+    "label": "positive",
+    "sadness": "0.180663",
+    "joy": "0.681098",
+    "fear": "0.103465",
+    "disgust": "0.061995",
+    "anger": "0.112746"
   },
   {
     "title": "Goliath Of Gath",
@@ -4335,7 +4831,15 @@ Poem.create!([
       "\"Knit to my soul for ever thou remain",
       "\"With me, nor quit my regal roof again.\""
     ],
-    "linecount": "225"
+    "linecount": "225",
+    "text_characters": "9652",
+    "score": "-0.256597",
+    "label": "negative",
+    "sadness": "0.511804",
+    "joy": "0.5737",
+    "fear": "0.149592",
+    "disgust": "0.134641",
+    "anger": "0.155066"
   },
   {
     "title": "On the Death of the Rev. Dr. Sewell",
@@ -4398,7 +4902,15 @@ Poem.create!([
       "\"O when shall we to his blest state arrive?",
       "\"When the same graces in our bosoms thrive.\""
     ],
-    "linecount": "51"
+    "linecount": "51",
+    "text_characters": "2178",
+    "score": "0.414719",
+    "label": "positive",
+    "sadness": "0.592547",
+    "joy": "0.645854",
+    "fear": "0.121464",
+    "disgust": "0.086891",
+    "anger": "0.108593"
   },
   {
     "title": "To A Lady On The Death Of The Three Relations",
@@ -4436,7 +4948,15 @@ Poem.create!([
       "To strains extatic. Thou the chorus join,",
       "And to thy father tune the praise divine."
     ],
-    "linecount": "31"
+    "linecount": "31",
+    "text_characters": "1369",
+    "score": "-0.408045",
+    "label": "negative",
+    "sadness": "0.614664",
+    "joy": "0.59514",
+    "fear": "0.136106",
+    "disgust": "0.107613",
+    "anger": "0.121033"
   },
   {
     "title": "To A Lady On The Death Of Her Husband",
@@ -4477,7 +4997,15 @@ Poem.create!([
       "He welcomes thee to pleasures more refin'd,",
       "And better suited to th' immortal mind."
     ],
-    "linecount": "34"
+    "linecount": "34",
+    "text_characters": "1495",
+    "score": "-0.492567",
+    "label": "negative",
+    "sadness": "0.657824",
+    "joy": "0.717511",
+    "fear": "0.140188",
+    "disgust": "0.044397",
+    "anger": "0.112116"
   },
   {
     "title": "To a Lady and Her Children",
@@ -4516,7 +5044,15 @@ Poem.create!([
       "On harps of gold to tune immortal lays,",
       "And to your God immortal anthems raise."
     ],
-    "linecount": "30"
+    "linecount": "30",
+    "text_characters": "1324",
+    "score": "-0.568569",
+    "label": "negative",
+    "sadness": "0.688616",
+    "joy": "0.557989",
+    "fear": "0.110916",
+    "disgust": "0.07111",
+    "anger": "0.114484"
   },
   {
     "title": "On The Death Of J. C. An Infant",
@@ -4566,7 +5102,15 @@ Poem.create!([
       "Cheerful resign at the divine command:",
       "Not at your bar must sov'reign Wisdom stand."
     ],
-    "linecount": "43"
+    "linecount": "43",
+    "text_characters": "1894",
+    "score": "-0.429737",
+    "label": "negative",
+    "sadness": "0.67375",
+    "joy": "0.61407",
+    "fear": "0.432074",
+    "disgust": "0.112829",
+    "anger": "0.465566"
   },
   {
     "title": "Come Home!",
@@ -4586,7 +5130,15 @@ Poem.create!([
       "And I will make thee Queen among",
       "The Queens of summer and of song."
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "400",
+    "score": "0.910623",
+    "label": "positive",
+    "sadness": "0.028036",
+    "joy": "0.922002",
+    "fear": "0.035232",
+    "disgust": "0.001187",
+    "anger": "0.024712"
   },
   {
     "title": "To Memory",
@@ -4606,7 +5158,15 @@ Poem.create!([
       "And on my brow I feel a kiss",
       "That I would rather die than miss."
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "401",
+    "score": "-0.63983",
+    "label": "negative",
+    "sadness": "0.362672",
+    "joy": "0.308628",
+    "fear": "0.250353",
+    "disgust": "0.038523",
+    "anger": "0.254092"
   },
   {
     "title": "We Never Said Farewell",
@@ -4622,7 +5182,15 @@ Poem.create!([
       "Two islands that the roaring seas divide",
       "Are not more far apart."
     ],
-    "linecount": "8"
+    "linecount": "8",
+    "text_characters": "295",
+    "score": "-0.53998",
+    "label": "negative",
+    "sadness": "0.524911",
+    "joy": "0.309808",
+    "fear": "0.073792",
+    "disgust": "0.120609",
+    "anger": "0.074571"
   },
   {
     "title": "From The Short Story A Christmas Dream, And How It Came True",
@@ -4656,7 +5224,15 @@ Poem.create!([
       "All creatures say,",
       "For Christmas-tide is here."
     ],
-    "linecount": "24"
+    "linecount": "24",
+    "text_characters": "540",
+    "score": "0.938048",
+    "label": "positive",
+    "sadness": "0.046595",
+    "joy": "0.935917",
+    "fear": "0.016333",
+    "disgust": "0.001824",
+    "anger": "0.003349"
   },
   {
     "title": "The Rose Family - Song II",
@@ -4680,7 +5256,15 @@ Poem.create!([
       "Your grief has been our punishment,",
       "Your love has led us home."
     ],
-    "linecount": "16"
+    "linecount": "16",
+    "text_characters": "474",
+    "score": "0.674917",
+    "label": "positive",
+    "sadness": "0.218038",
+    "joy": "0.686682",
+    "fear": "0.075371",
+    "disgust": "0.029857",
+    "anger": "0.058121"
   },
   {
     "title": "The Rose Family - Song 1",
@@ -4738,7 +5322,15 @@ Poem.create!([
       "The sun shines fair without,",
       "And we are gay within."
     ],
-    "linecount": "48"
+    "linecount": "48",
+    "text_characters": "1303",
+    "score": "0.779122",
+    "label": "positive",
+    "sadness": "0.115655",
+    "joy": "0.738333",
+    "fear": "0.092522",
+    "disgust": "0.032405",
+    "anger": "0.038863"
   },
   {
     "title": "From The Short Story Shadow-Children",
@@ -4780,7 +5372,15 @@ Poem.create!([
       "As they climb and cling and whisper,",
       "\"Mother dear, good night! good night!\""
     ],
-    "linecount": "32"
+    "linecount": "32",
+    "text_characters": "1038",
+    "score": "0.672863",
+    "label": "positive",
+    "sadness": "0.458516",
+    "joy": "0.650433",
+    "fear": "0.186743",
+    "disgust": "0.067977",
+    "anger": "0.087609"
   },
   {
     "title": "From The Ladies Defence",
@@ -4864,7 +5464,15 @@ Poem.create!([
       "And to themselves the best Companions prove,",
       "And neither fear their Malice, nor desire their Love."
     ],
-    "linecount": "77"
+    "linecount": "77",
+    "text_characters": "3350",
+    "score": "0.411308",
+    "label": "positive",
+    "sadness": "0.520894",
+    "joy": "0.679433",
+    "fear": "0.053478",
+    "disgust": "0.117822",
+    "anger": "0.105452"
   },
   {
     "title": "Friendships Mystery, To My Dearest Lucasia",
@@ -4906,7 +5514,15 @@ Poem.create!([
       "And each Heart which thus kindly dies,",
       "Grows deathless by the Sacrifice."
     ],
-    "linecount": "30"
+    "linecount": "30",
+    "text_characters": "1009",
+    "score": "0.332564",
+    "label": "positive",
+    "sadness": "0.176321",
+    "joy": "0.79515",
+    "fear": "0.00549",
+    "disgust": "0.016789",
+    "anger": "0.017158"
   },
   {
     "title": "Content, To My Dearest Lucasia",
@@ -4996,7 +5612,15 @@ Poem.create!([
       "Whose thoughts and persons chang'd and mixt are one,",
       "Enjoy Content, or else the World hath none."
     ],
-    "linecount": "72"
+    "linecount": "72",
+    "text_characters": "2790",
+    "score": "0.435025",
+    "label": "positive",
+    "sadness": "0.497208",
+    "joy": "0.701408",
+    "fear": "0.080912",
+    "disgust": "0.059898",
+    "anger": "0.534191"
   },
   {
     "title": "In memory of that excellent person Mrs. Mary Lloyd of Bodidrist in Denbigh-shire",
@@ -5107,7 +5731,15 @@ Poem.create!([
       "A Royal Birth had less advantage been.",
       "'Tis more to die a Saint than live a Queen."
     ],
-    "linecount": "104"
+    "linecount": "104",
+    "text_characters": "4343",
+    "score": "-0.280793",
+    "label": "negative",
+    "sadness": "0.596782",
+    "joy": "0.649738",
+    "fear": "0.103753",
+    "disgust": "0.055607",
+    "anger": "0.087705"
   },
   {
     "title": "To my dear Sister, Mrs. C. P. on her Nuptial",
@@ -5144,7 +5776,15 @@ Poem.create!([
       "While every day like this may Sacred prove",
       "To Friendship, Gratitude, and Strictest Love."
     ],
-    "linecount": "27"
+    "linecount": "27",
+    "text_characters": "1034",
+    "score": "0.485563",
+    "label": "positive",
+    "sadness": "0.093591",
+    "joy": "0.719653",
+    "fear": "0.061864",
+    "disgust": "0.04418",
+    "anger": "0.059246"
   },
   {
     "title": "A Retir'd Friendship",
@@ -5195,7 +5835,15 @@ Poem.create!([
       "With quiet souls, and unconfin'd,",
       "Enjoy what princes wish in vain."
     ],
-    "linecount": "36"
+    "linecount": "36",
+    "text_characters": "1258",
+    "score": "0.434729",
+    "label": "positive",
+    "sadness": "0.085649",
+    "joy": "0.760089",
+    "fear": "0.103965",
+    "disgust": "0.046644",
+    "anger": "0.089803"
   },
   {
     "title": "Epitaph on her Son H. P.",
@@ -5224,7 +5872,15 @@ Poem.create!([
       "Like this Infant, takes a shrowd,",
       "Buried in a morning Cloud."
     ],
-    "linecount": "22"
+    "linecount": "22",
+    "text_characters": "706",
+    "score": "0.427849",
+    "label": "positive",
+    "sadness": "0.669918",
+    "joy": "0.647154",
+    "fear": "0.094636",
+    "disgust": "0.051493",
+    "anger": "0.106834"
   },
   {
     "title": "6th April 1651 L'Amitie: To Mrs. M. Awbrey",
@@ -5253,7 +5909,15 @@ Poem.create!([
       "Since we that sacred union have engrost,",
       "Which they and all the sullen world have lost."
     ],
-    "linecount": "22"
+    "linecount": "22",
+    "text_characters": "948",
+    "score": "0.499176",
+    "label": "positive",
+    "sadness": "0.537959",
+    "joy": "0.707726",
+    "fear": "0.106228",
+    "disgust": "067122",
+    "anger": "0.1318"
   },
   {
     "title": "To One Persuading A Lady To Marriage",
@@ -5277,7 +5941,15 @@ Poem.create!([
       "To strive to fix her beams which are",
       "  More bright and large than his."
     ],
-    "linecount": "16"
+    "linecount": "16",
+    "text_characters": "460",
+    "score": "0.40524",
+    "label": "positive",
+    "sadness": "0.105622",
+    "joy": "0.808128",
+    "fear": "0.041453",
+    "disgust": "0.011249",
+    "anger": "0.034705"
   },
   {
     "title": "In Memory of F.P.",
@@ -5320,7 +5992,15 @@ Poem.create!([
       "For such a loss as thine, bright soule, is not",
       "Ever to be repaired, or forgot."
     ],
-    "linecount": "36"
+    "linecount": "36",
+    "text_characters": "1527",
+    "score": "0.315043",
+    "label": "positive",
+    "sadness": "0.631345",
+    "joy": "0.532914",
+    "fear": "0.093236",
+    "disgust": "0.667939",
+    "anger": "0.53521"
   },
   {
     "title": "Mother's Day Proclamation",
@@ -5361,7 +6041,15 @@ Poem.create!([
       "The amicable settlement of international questions,",
       "The great and general interests of peace."
     ],
-    "linecount": "33"
+    "linecount": "33",
+    "text_characters": "1533",
+    "score": "0.394789",
+    "label": "positive",
+    "sadness": "0.482891",
+    "joy": "0.58864",
+    "fear": "0.09514",
+    "disgust": "0.162731",
+    "anger": "0.123906"
   },
   {
     "title": "Mother Mind",
@@ -5408,7 +6096,15 @@ Poem.create!([
       "Yet not unconsecrate, dear friend,",
       "Baptismal rites they claim of thee."
     ],
-    "linecount": "34"
+    "linecount": "34",
+    "text_characters": "1172",
+    "score": "0.53374",
+    "label": "positive",
+    "sadness": "0.223749",
+    "joy": "0.700589",
+    "fear": "0.08118",
+    "disgust": "0.445625",
+    "anger": "0.069002"
   },
   {
     "title": "My Last Dance",
@@ -5470,7 +6166,15 @@ Poem.create!([
       "While all the host of the departed said,",
       "`Tread lightly--thou art ashes, even as we.'"
     ],
-    "linecount": "48"
+    "linecount": "48",
+    "text_characters": "2124",
+    "score": "0.503495",
+    "label": "positive",
+    "sadness": "0.154853",
+    "joy": "0.751834",
+    "fear": "0.077963",
+    "disgust": "0.089175",
+    "anger": "0.069958"
   },
   {
     "title": "Little Girls Must Not Fret",
@@ -5491,7 +6195,15 @@ Poem.create!([
       "That's right, for I thought you quite naughty before.",
       "Good night, my dear child, but don't fret any more."
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "581",
+    "score": "0.29541",
+    "label": "positive",
+    "sadness": "0.622512",
+    "joy": "0.601559",
+    "fear": "0.092078",
+    "disgust": "0.06569",
+    "anger": "0.078129"
   },
   {
     "title": "The Holidays",
@@ -5532,7 +6244,15 @@ Poem.create!([
       "He felt no aversion to books or exertion,",
       "Nor yet for the holidays sigh'd."
     ],
-    "linecount": "28"
+    "linecount": "28",
+    "text_characters": "1141",
+    "score": "0.493564",
+    "label": "positive",
+    "sadness": "0.162259",
+    "joy": "0.662531",
+    "fear": "0.083348",
+    "disgust": "0.499638",
+    "anger": "0.044322"
   },
   {
     "title": "The Apple-Tree",
@@ -5573,7 +6293,15 @@ Poem.create!([
       "Writes down every crime we commit, in His book;",
       "Nor forgets what we try to conceal."
     ],
-    "linecount": "30"
+    "linecount": "30",
+    "text_characters": "1281",
+    "score": "0.412074",
+    "label": "positive",
+    "sadness": "0.457845",
+    "joy": "0.703492",
+    "fear": "0.193592",
+    "disgust": "0.127729",
+    "anger": "0.097529"
   },
   {
     "title": "The Good-Natured Girls",
@@ -5604,7 +6332,15 @@ Poem.create!([
       "Then now let us try their example to mind,",
       "And always, like them, be obliging and kind."
     ],
-    "linecount": "20"
+    "linecount": "20",
+    "text_characters": "910",
+    "score": "-0.381916",
+    "label": "negative",
+    "sadness": "0.163804",
+    "joy": "0.581858",
+    "fear": "0.093796",
+    "disgust": "0.164212",
+    "anger": "0.264293"
   },
   {
     "title": "To the Memory of Mrs. Lefroy who died Dec:r 16 -- my Birthday.",
@@ -5674,7 +6410,15 @@ Poem.create!([
       "From this connection in our Earthly date.",
       "Indulge the harmless weakness--Reason, spare.--"
     ],
-    "linecount": "52"
+    "linecount": "52",
+    "text_characters": "2195",
+    "score": "0.56082",
+    "label": "positive",
+    "sadness": "0.514271",
+    "joy": "0.673498",
+    "fear": "0.073949",
+    "disgust": "0.047321",
+    "anger": "0.096837"
   },
   {
     "title": "I've a Pain in my Head",
@@ -5700,7 +6444,15 @@ Poem.create!([
       "'You shall have such a potion",
       "And so will I too Ma'am.'"
     ],
-    "linecount": "16"
+    "linecount": "16",
+    "text_characters": "424",
+    "score": "-0.388663",
+    "label": "negative",
+    "sadness": "0.638003",
+    "joy": "0.071975",
+    "fear": "0.566641",
+    "disgust": "0.108415",
+    "anger": "0.079802"
   },
   {
     "title": "Happy the Lab'rer",
@@ -5719,7 +6471,15 @@ Poem.create!([
       "Lists to the sermon in a softening doze,",
       "And rouses joyous at the welcome close."
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "526",
+    "score": "0.762509",
+    "label": "positive",
+    "sadness": "0.105039",
+    "joy": "0.825662",
+    "fear": "0.027936",
+    "disgust": "0.02334",
+    "anger": "0.036488"
   },
   {
     "title": "A Calendar of Sonnets: March",
@@ -5740,7 +6500,15 @@ Poem.create!([
       "And hidden, sacred, in her breast doth bear",
       "Annunciation lilies for the year."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "621",
+    "score": "0.47088",
+    "label": "positive",
+    "sadness": "0.076339",
+    "joy": "0.742676",
+    "fear": "0.100215",
+    "disgust": "0.010252",
+    "anger": "0.121235"
   },
   {
     "title": "Death",
@@ -5806,7 +6574,15 @@ Poem.create!([
       "Take all there is -- take hand and heart;",
       "There must be somewhere work to do."
     ],
-    "linecount": "48"
+    "linecount": "48",
+    "text_characters": "1733",
+    "score": "-0.528426",
+    "label": "negative",
+    "sadness": "0.583279",
+    "joy": "0.583869",
+    "fear": "0.129013",
+    "disgust": "0.121648",
+    "anger": "0.116169"
   },
   {
     "title": "Freedom",
@@ -5827,7 +6603,15 @@ Poem.create!([
       "The wise man watching with a heart that feels",
       "Says: \"Cure for freedom's harms is freedom still.\""
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "642",
+    "score": "0.790056",
+    "label": "positive",
+    "sadness": "0.516046",
+    "joy": "0.307881",
+    "fear": "0.086386",
+    "disgust": "0.191055",
+    "anger": "0.019905"
   },
   {
     "title": "The Fir-Tree and the Brook",
@@ -5878,7 +6662,15 @@ Poem.create!([
       "Eternally, brave love, will I caress thee,",
       "Dead for the love of me!\""
     ],
-    "linecount": "40"
+    "linecount": "40",
+    "text_characters": "1571",
+    "score": "0.317949",
+    "label": "positive",
+    "sadness": "0.634625",
+    "joy": "0.668746",
+    "fear": "0.112467",
+    "disgust": "0.035889",
+    "anger": "0.456223"
   },
   {
     "title": "A Calendar of Sonnets: April",
@@ -5899,7 +6691,15 @@ Poem.create!([
       "When Christ ascended, in the time of birth",
       "Of spring anemones, in Palestine."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "586",
+    "score": "0.771879",
+    "label": "positive",
+    "sadness": "0.190885",
+    "joy": "0.730409",
+    "fear": "0.01687",
+    "disgust": "0.003422",
+    "anger": "0.081263"
   },
   {
     "title": "A Calendar of Sonnets: July",
@@ -5919,7 +6719,15 @@ Poem.create!([
       "Unharmed she lifts her queenly face and head;",
       "She drinks of living waters and keeps fair."
     ],
-    "linecount": "13"
+    "linecount": "13",
+    "text_characters": "585",
+    "score": "-0.669269",
+    "label": "negative",
+    "sadness": "0.089098",
+    "joy": "0.476645",
+    "fear": "0.003741",
+    "disgust": "0.497478",
+    "anger": "0.04895"
   },
   {
     "title": "A Calendar of Sonnets: November",
@@ -5940,7 +6748,15 @@ Poem.create!([
       "What joy sufficient hath November felt?",
       "What profit from the violet's day of pain?"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "633",
+    "score": "-0.327644",
+    "label": "negative",
+    "sadness": "0.532684",
+    "joy": "0.703258",
+    "fear": "0.095745",
+    "disgust": "0.054203",
+    "anger": "0.11249"
   },
   {
     "title": "A Calendar of Sonnets: January",
@@ -5962,7 +6778,15 @@ Poem.create!([
       "Walk boldly on the white untrodden snows,",
       "The winter is the winter's own release."
     ],
-    "linecount": "15"
+    "linecount": "15",
+    "text_characters": "620",
+    "score": "-0.419967",
+    "label": "negative",
+    "sadness": "0.647193",
+    "joy": "0.597877",
+    "fear": "0.115578",
+    "disgust": "0.045386",
+    "anger": "0.08612"
   },
   {
     "title": "A Calendar of Sonnets: June",
@@ -5983,7 +6807,15 @@ Poem.create!([
       "Germs for thy future summers on the earth.",
       "A joy which is but joy soon comes to dearth."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "618",
+    "score": "0.714864",
+    "label": "positive",
+    "sadness": "0.578654",
+    "joy": "0.714556",
+    "fear": "0.090349",
+    "disgust": "0.048817",
+    "anger": "0.075096"
   },
   {
     "title": "A Calendar of Sonnets: May",
@@ -6004,7 +6836,15 @@ Poem.create!([
       "In aged hearts which in thy sunshine lie,",
       "To sun themselves once more before they die."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "609",
+    "score": "0.897425",
+    "label": "positive",
+    "sadness": "0.051501",
+    "joy": "0.926664",
+    "fear": "0.010024",
+    "disgust": "0.006961",
+    "anger": "0.008536"
   },
   {
     "title": "A Dream",
@@ -6040,7 +6880,15 @@ Poem.create!([
       "The ranks of angels looked away from me",
       "(Beneath my feet the golden pavements burned)."
     ],
-    "linecount": "24"
+    "linecount": "24",
+    "text_characters": "1061",
+    "score": "-0.636274",
+    "label": "negative",
+    "sadness": "1.0",
+    "joy": "0.073416",
+    "fear": "0.538609",
+    "disgust": "0.113995",
+    "anger": "0.087022"
   },
   {
     "title": "God Needs Antonio",
@@ -6133,7 +6981,15 @@ Poem.create!([
       "Antonio Stradivari's violins",
       "Without Antonio. Get thee to thy easel.\""
     ],
-    "linecount": "77"
+    "linecount": "77",
+    "text_characters": "2901",
+    "score": "0.32978",
+    "label": "positive",
+    "sadness": "0.519958",
+    "joy": "0.651683",
+    "fear": "0.111861",
+    "disgust": "0.063188",
+    "anger": "0.11612"
   },
   {
     "title": "Roses",
@@ -6147,7 +7003,15 @@ Poem.create!([
       "As feathers, smelling sweet; and it would be",
       "Like sleeping and like waking, all at once!"
     ],
-    "linecount": "7"
+    "linecount": "7",
+    "text_characters": "303",
+    "score": "0.387891",
+    "label": "positive",
+    "sadness": "0.025659",
+    "joy": "0.761781",
+    "fear": "0.177389",
+    "disgust": "0.060555",
+    "anger": "0.02091"
   },
   {
     "title": "Marriage Bells",
@@ -6168,7 +7032,15 @@ Poem.create!([
       "His soul unto her service, to repay",
       "Richly the sacrifice she yields this day."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "606",
+    "score": "0.902633",
+    "label": "positive",
+    "sadness": "0.023724",
+    "joy": "0.894811",
+    "fear": "0.082178",
+    "disgust": "0.005794",
+    "anger": "0.010611"
   },
   {
     "title": "Sympathy",
@@ -6189,7 +7061,15 @@ Poem.create!([
       "This woman my soul's need can understand,",
       "Stretching o'er silent gulfs her sister hand.\""
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "572",
+    "score": "-0.433056",
+    "label": "negative",
+    "sadness": "0.586321",
+    "joy": "0.167879",
+    "fear": "0.278056",
+    "disgust": "0.019207",
+    "anger": "0.160227"
   },
   {
     "title": "Success",
@@ -6210,7 +7090,15 @@ Poem.create!([
       "'Midst flippant, feeble crowds of spectres wan,",
       "The bold, significant, successful man."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "611",
+    "score": "0.520037",
+    "label": "positive",
+    "sadness": "0.593201",
+    "joy": "0.671051",
+    "fear": "0.096341",
+    "disgust": "0.022672",
+    "anger": "0.087245"
   },
   {
     "title": "Life and Art",
@@ -6231,7 +7119,15 @@ Poem.create!([
       "Enter and clasp his hand and kiss his brow.",
       "Then his lips ope to sing--as mine do now."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "627",
+    "score": "0.505368",
+    "label": "positive",
+    "sadness": "0.359035",
+    "joy": "0.626997",
+    "fear": "0.012779",
+    "disgust": "0.001403",
+    "anger": "0.011168"
   },
   {
     "title": "Death",
@@ -6277,7 +7173,15 @@ Poem.create!([
       "Thus, at least, its mouldering corpse will nourish",
       "That from which it sprung - Eternity."
     ],
-    "linecount": "32"
+    "linecount": "32",
+    "text_characters": "1369",
+    "score": "0.394813",
+    "label": "positive",
+    "sadness": "0.646538",
+    "joy": "0.632879",
+    "fear": "0.626548",
+    "disgust": "0.669225",
+    "anger": "0.676023"
   },
   {
     "title": "Faith and Despondency",
@@ -6362,7 +7266,15 @@ Poem.create!([
       "To reach, at last, the eternal home,",
       "The steadfast, changeless, shore!'"
     ],
-    "linecount": "70"
+    "linecount": "70",
+    "text_characters": "2500",
+    "score": "-0.520506",
+    "label": "negative",
+    "sadness": "0.61563",
+    "joy": "0.56908",
+    "fear": "0.098129",
+    "disgust": "0.036053",
+    "anger": "0.109842"
   },
   {
     "title": "The Night is Darkening Around Me",
@@ -6383,28 +7295,15 @@ Poem.create!([
       "But nothing drear can move me :",
       "I will not, cannot go."
     ],
-    "linecount": "12"
-  },
-  {
-    "title": "Night is Darkening Around Me, The",
-    "author": "Emily Bronte",
-    "lines": [
-      "The night is darkening round me,",
-      "The wild winds coldly blow ;",
-      "But a tyrant spell has bound me,",
-      "And I cannot, cannot go.",
-      "",
-      "The giant trees are bending",
-      "Their bare boughs weighed with snow ;",
-      "The storm is fast descending,",
-      "And yet I cannot go.",
-      "",
-      "Clouds beyond clouds above me,",
-      "Wastes beyond wastes below ;",
-      "But nothing drear can move me :",
-      "I will not, cannot go."
-    ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "351",
+    "score": "-0.78625",
+    "label": "negative",
+    "sadness": "0.257997",
+    "joy": "0.285327",
+    "fear": "0.431737",
+    "disgust": "0.103646",
+    "anger": "0.120451"
   },
   {
     "title": "A Day Dream",
@@ -6500,7 +7399,15 @@ Poem.create!([
       "But Fancy, still, will sometimes deem",
       "Her fond creation true."
     ],
-    "linecount": "72"
+    "linecount": "72",
+    "text_characters": "2184",
+    "score": "-0.342131",
+    "label": "negative",
+    "sadness": "0.667223",
+    "joy": "0.654843",
+    "fear": "0.687025",
+    "disgust": "0.068465",
+    "anger": "0.678996"
   },
   {
     "title": "Hope",
@@ -6531,7 +7438,15 @@ Poem.create!([
       "Stretched her wings, and soared to heaven,",
       "Went, and ne'er returned again!"
     ],
-    "linecount": "20"
+    "linecount": "20",
+    "text_characters": "666",
+    "score": "-0.653344",
+    "label": "negative",
+    "sadness": "0.644074",
+    "joy": "0.027532",
+    "fear": "0.344558",
+    "disgust": "0.248381",
+    "anger": "0.061666"
   },
   {
     "title": "'Tis moonlight, summer moonlight",
@@ -6552,7 +7467,15 @@ Poem.create!([
       "Green grass and dew-steeped flowers",
       "Wave gently round her head."
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "358",
+    "score": "0.787555",
+    "label": "positive",
+    "sadness": "0.075382",
+    "joy": "0.771",
+    "fear": "0.072318",
+    "disgust": "0.113205",
+    "anger": "0.010451"
   },
   {
     "title": "How still, how happy!",
@@ -6598,7 +7521,15 @@ Poem.create!([
       "Then let us sit and watch the while",
       "The blue ice curdling on the stream -"
     ],
-    "linecount": "32"
+    "linecount": "32",
+    "text_characters": "1177",
+    "score": "0.835121",
+    "label": "positive",
+    "sadness": "0.088634",
+    "joy": "0.8002",
+    "fear": "0.080603",
+    "disgust": "0.02292",
+    "anger": "0.063173"
   },
   {
     "title": "Come hither, child",
@@ -6644,7 +7575,15 @@ Poem.create!([
       "But still the words and still the tone",
       "Dwell round my heart when all alone."
     ],
-    "linecount": "32"
+    "linecount": "32",
+    "text_characters": "1111",
+    "score": "-0.487553",
+    "label": "negative",
+    "sadness": "0.654151",
+    "joy": "0.534674",
+    "fear": "0.495757",
+    "disgust": "0.424884",
+    "anger": "0.084582"
   },
   {
     "title": "Stars",
@@ -6710,7 +7649,15 @@ Poem.create!([
       "Let me sleep through his blinding reign,",
       "And only wake with you!"
     ],
-    "linecount": "48"
+    "linecount": "48",
+    "text_characters": "1587",
+    "score": "0.472977",
+    "label": "positive",
+    "sadness": "0.539051",
+    "joy": "0.673823",
+    "fear": "0.130287",
+    "disgust": "0.050955",
+    "anger": "0.07238"
   },
   {
     "title": "Sympathy",
@@ -6734,7 +7681,15 @@ Poem.create!([
       "Then journey on, if not elate,",
       "Still, never broken-hearted!"
     ],
-    "linecount": "16"
+    "linecount": "16",
+    "text_characters": "528",
+    "score": "-0.561945",
+    "label": "negative",
+    "sadness": "0.787852",
+    "joy": "0.196525",
+    "fear": "0.060779",
+    "disgust": "0.00982",
+    "anger": "0.013356"
   },
   {
     "title": "A Little Budding Rose",
@@ -6761,28 +7716,15 @@ Poem.create!([
       "Yes, that last breath of balmy scent",
       "With alien breezes sadly blent!"
     ],
-    "linecount": "18"
-  },
-  {
-    "title": "Moonlight, summer moonlight",
-    "author": "Emily Bronte",
-    "lines": [
-      "'Tis moonlight, summer moonlight,",
-      "All soft and still and fair;",
-      "The solemn hour of midnight",
-      "Breathes sweet thoughts everywhere,",
-      "",
-      "But most where trees are sending",
-      "Their breezy boughs on high,",
-      "Or stooping low are lending",
-      "A shelter from the sky.",
-      "",
-      "And there in those wild bowers",
-      "A lovely form is laid;",
-      "Green grass and dew-steeped flowers",
-      "Wave gently round her head."
-    ],
-    "linecount": "12"
+    "linecount": "18",
+    "text_characters": "595",
+    "score": "-0.504466",
+    "label": "negative",
+    "sadness": "0.409729",
+    "joy": "0.46195",
+    "fear": "0.053369",
+    "disgust": "0.137776",
+    "anger": "0.042667"
   },
   {
     "title": "Love and Friendship",
@@ -6801,7 +7743,15 @@ Poem.create!([
       "That when December blights thy brow",
       "He may still leave thy garland green."
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "448",
+    "score": "0.795597",
+    "label": "positive",
+    "sadness": "0.052648",
+    "joy": "0.820111",
+    "fear": "0.084851",
+    "disgust": "0.026155",
+    "anger": "0.046837"
   },
   {
     "title": "Human Life’s Mystery",
@@ -6877,7 +7827,15 @@ Poem.create!([
       "And widen, so, the broad life-wound",
       "Which soon is large enough for death."
     ],
-    "linecount": "60"
+    "linecount": "60",
+    "text_characters": "2023",
+    "score": "0.460919",
+    "label": "positive",
+    "sadness": "0.515055",
+    "joy": "0.682268",
+    "fear": "0.523133",
+    "disgust": "0.072706",
+    "anger": "0.107432"
   },
   {
     "title": "Sonnet 32 - The first time that the sun rose on thine oath",
@@ -6898,7 +7856,15 @@ Poem.create!([
       "'Neath master-hands, from instruments defaced,—",
       "And great souls, at one stroke, may do and doat."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "640",
+    "score": "0.519567",
+    "label": "positive",
+    "sadness": "0.055156",
+    "joy": "0.881242",
+    "fear": "0.052342",
+    "disgust": "0.005944",
+    "anger": "0.020827"
   },
   {
     "title": "Mother and Poet",
@@ -7048,7 +8014,15 @@ Poem.create!([
       "",
       "[This was Laura Savio, of Turin, a poetess and patriot, whose sonswere killed at Ancona and Gaeta.]"
     ],
-    "linecount": "121"
+    "linecount": "121",
+    "text_characters": "4698",
+    "score": "-0.395958",
+    "label": "negative",
+    "sadness": "0.614388",
+    "joy": "0.570237",
+    "fear": "0.632963",
+    "disgust": "0.68165",
+    "anger": "0.681842"
   },
   {
     "title": "Sonnet 34 - With the same heart, I said, I'll answer thee",
@@ -7069,7 +8043,15 @@ Poem.create!([
       "Lay thy hand on it, best one, and allow",
       "That no child's foot could run fast as this blood."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "611",
+    "score": "0.545581",
+    "label": "positive",
+    "sadness": "0.343771",
+    "joy": "0.503675",
+    "fear": "0.188124",
+    "disgust": "0.01381",
+    "anger": "0.072928"
   },
   {
     "title": "To Flush, My Dog",
@@ -7124,7 +8106,15 @@ Poem.create!([
       "After—platforming his chin",
       "On the palm left open."
     ],
-    "linecount": "42"
+    "linecount": "42",
+    "text_characters": "1184",
+    "score": "-0.488771",
+    "label": "negative",
+    "sadness": "0.554978",
+    "joy": "0.604746",
+    "fear": "0.510165",
+    "disgust": "0.150448",
+    "anger": "0.112533"
   },
   {
     "title": "Aurora Leigh (excerpts)",
@@ -7362,7 +8352,15 @@ Poem.create!([
       "Deal with us nobly, women though we be.",
       "And honour us with truth if not with praise."
     ],
-    "linecount": "229"
+    "linecount": "229",
+    "text_characters": "9825",
+    "score": "0.314357",
+    "label": "positive",
+    "sadness": "0.567219",
+    "joy": "0.630427",
+    "fear": "0.130644",
+    "disgust": "0.112983",
+    "anger": "0.110962"
   },
   {
     "title": "A Dead Rose",
@@ -7408,7 +8406,15 @@ Poem.create!([
       "As Julia wears at dances, smiling cold!---",
       "Lie still upon this heart---which breaks below thee!"
     ],
-    "linecount": "32"
+    "linecount": "32",
+    "text_characters": "1385",
+    "score": "0.462564",
+    "label": "positive",
+    "sadness": "0.547546",
+    "joy": "0.638539",
+    "fear": "0.094242",
+    "disgust": "0.087645",
+    "anger": "0.109391"
   },
   {
     "title": "Pain In Pleasure",
@@ -7429,7 +8435,15 @@ Poem.create!([
       "Your best and gladdest thoughts but long enough,",
       "And they will all prove sad enough to sting !"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "629",
+    "score": "-0.607112",
+    "label": "negative",
+    "sadness": "0.279548",
+    "joy": "0.593026",
+    "fear": "0.165011",
+    "disgust": "0.002668",
+    "anger": "0.026067"
   },
   {
     "title": "Sonnet 16 - And yet, because thou overcomest so",
@@ -7450,7 +8464,15 @@ Poem.create!([
       "I rise above abasement at the word.",
       "Make thy love larger to enlarge my worth."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "592",
+    "score": "0.326081",
+    "label": "positive",
+    "sadness": "0.127446",
+    "joy": "0.579768",
+    "fear": "0.294066",
+    "disgust": "0.026973",
+    "anger": "0.076351"
   },
   {
     "title": "The Cry Of The Children",
@@ -7629,7 +8651,15 @@ Poem.create!([
       "But the child's sob in the silence curses deeper",
       "Than the strong man in his wrath.\""
     ],
-    "linecount": "160"
+    "linecount": "160",
+    "text_characters": "6660",
+    "score": "-0.442117",
+    "label": "negative",
+    "sadness": "0.637301",
+    "joy": "0.586553",
+    "fear": "0.148607",
+    "disgust": "0.104034",
+    "anger": "0.1153"
   },
   {
     "title": "On A Portrait Of Wordsworth",
@@ -7651,7 +8681,15 @@ Poem.create!([
       "No portrait this, with Academic air !",
       "This is the poet and his poetry."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "583",
+    "score": "0.754377",
+    "label": "positive",
+    "sadness": "0.057491",
+    "joy": "0.907879",
+    "fear": "0.020811",
+    "disgust": "0.00471",
+    "anger": "0.016242"
   },
   {
     "title": "The Landing Of The Pilgrim Fathers",
@@ -7707,7 +8745,15 @@ Poem.create!([
       "They have left unstained what there they found—",
       "Freedom to worship God!"
     ],
-    "linecount": "40"
+    "linecount": "40",
+    "text_characters": "1306",
+    "score": "0.33303",
+    "label": "positive",
+    "sadness": "0.149241",
+    "joy": "0.727397",
+    "fear": "0.542585",
+    "disgust": "0.062412",
+    "anger": "0.074215"
   },
   {
     "title": "Sonnet 40 - Oh, yes! they love through all this world of ours!",
@@ -7728,7 +8774,15 @@ Poem.create!([
       "Through sorrow and sickness, to bring souls to touch,",
       "And think it soon when others cry 'Too late.'"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "641",
+    "score": "0.626202",
+    "label": "positive",
+    "sadness": "0.660187",
+    "joy": "0.709934",
+    "fear": "0.039322",
+    "disgust": "0.047909",
+    "anger": "0.106119"
   },
   {
     "title": "A Thought For A Lonely Death-Bed",
@@ -7749,7 +8803,15 @@ Poem.create!([
       "But stoop Thyself to gather my life's rose,",
       "And smile away my mortal to Divine !"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "585",
+    "score": "-0.514779",
+    "label": "negative",
+    "sadness": "0.397784",
+    "joy": "0.549813",
+    "fear": "0.061273",
+    "disgust": "0.022292",
+    "anger": "0.039893"
   },
   {
     "title": "Sonnet 30 - I see thine image through my tears to-night",
@@ -7770,7 +8832,15 @@ Poem.create!([
       "For my soul's eyes? Will that light come again,",
       "As now these tears come—falling hot and real?"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "597",
+    "score": "0.387915",
+    "label": "positive",
+    "sadness": "0.630302",
+    "joy": "0.64648",
+    "fear": "0.094401",
+    "disgust": "0.062385",
+    "anger": "0.076416"
   },
   {
     "title": "A Woman's Shortcomings",
@@ -7821,7 +8891,15 @@ Poem.create!([
       "Unless you can die when the dream is past -",
       "Oh, never call it loving!"
     ],
-    "linecount": "40"
+    "linecount": "40",
+    "text_characters": "1509",
+    "score": "0.666199",
+    "label": "positive",
+    "sadness": "0.480568",
+    "joy": "0.689084",
+    "fear": "0.696662",
+    "disgust": "0.062187",
+    "anger": "0.090006"
   },
   {
     "title": "Sonnet 21 - Say over again, and yet once over again",
@@ -7842,7 +8920,15 @@ Poem.create!([
       "The silver iterance!—only minding, Dear,",
       "To love me also in silence with thy soul."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "639",
+    "score": "0.69617",
+    "label": "positive",
+    "sadness": "0.072185",
+    "joy": "0.81533",
+    "fear": "0.118022",
+    "disgust": "0.00308",
+    "anger": "0.019899"
   },
   {
     "title": "Sonnet 23 - Is it indeed so? If I lay here dead",
@@ -7863,7 +8949,15 @@ Poem.create!([
       "I yield the grave for thy sake, and exchange",
       "My near sweet view of Heaven, for earth with thee!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "617",
+    "score": "0.36766",
+    "label": "positive",
+    "sadness": "0.564638",
+    "joy": "0.683765",
+    "fear": "0.103778",
+    "disgust": "0.061847",
+    "anger": "0.051916"
   },
   {
     "title": "Patience Taught By Nature",
@@ -7884,7 +8978,15 @@ Poem.create!([
       "But so much patience as a blade of grass",
       "Grows by, contented through the heat and cold."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "621",
+    "score": "-0.819721",
+    "label": "negative",
+    "sadness": "0.401773",
+    "joy": "0.526888",
+    "fear": "0.091979",
+    "disgust": "0.002928",
+    "anger": "0.029894"
   },
   {
     "title": "The Autumn",
@@ -7935,7 +9037,15 @@ Poem.create!([
       "Whatever prospect Heaven doth bound,",
       "Can ne'er be desolate."
     ],
-    "linecount": "40"
+    "linecount": "40",
+    "text_characters": "1307",
+    "score": "0.547974",
+    "label": "positive",
+    "sadness": "0.431118",
+    "joy": "0.650641",
+    "fear": "0.440214",
+    "disgust": "0.077695",
+    "anger": "0.042573"
   },
   {
     "title": "Sonnet 12 - Indeed this very love which is my boast",
@@ -7956,7 +9066,15 @@ Poem.create!([
       "And that I love (O soul, we must be meek!)",
       "Is by thee only, whom I love alone."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "615",
+    "score": "0.705016",
+    "label": "positive",
+    "sadness": "0.150647",
+    "joy": "0.794422",
+    "fear": "0.01952",
+    "disgust": "0.0052",
+    "anger": "0.044239"
   },
   {
     "title": "The Landing of the Pilgrim Fathers",
@@ -8012,7 +9130,15 @@ Poem.create!([
       "They have left unstained what there they found -",
       "Freedom to worship God!"
     ],
-    "linecount": "40"
+    "linecount": "40",
+    "text_characters": "1310",
+    "score": "-0.2642",
+    "label": "negative",
+    "sadness": "0.15759",
+    "joy": "0.702196",
+    "fear": "0.544384",
+    "disgust": "0.06989",
+    "anger": "0.086513"
   },
   {
     "title": "Sonnet 09 - Can it be right to give what I can give?",
@@ -8033,7 +9159,15 @@ Poem.create!([
       "Nor give thee any love—which were unjust.",
       "Beloved, I only love thee! let it pass."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "591",
+    "score": "-0.703043",
+    "label": "negative",
+    "sadness": "0.620289",
+    "joy": "0.58501",
+    "fear": "0.703848",
+    "disgust": "0.05676",
+    "anger": "0.082302"
   },
   {
     "title": "Perplexed Music",
@@ -8055,7 +9189,15 @@ Poem.create!([
       "And, smiling down the stars, they whisper--",
       "SWEET."
     ],
-    "linecount": "15"
+    "linecount": "15",
+    "text_characters": "575",
+    "score": "0.306838",
+    "label": "positive",
+    "sadness": "0.107931",
+    "joy": "0.858278",
+    "fear": "0.01937",
+    "disgust": "0.013069",
+    "anger": "0.008275"
   },
   {
     "title": "A Child Asleep",
@@ -8133,7 +9275,15 @@ Poem.create!([
       "Floweth outward with increase---",
       "Dare not bless him! but be blessed by his peace---and go in peace."
     ],
-    "linecount": "60"
+    "linecount": "60",
+    "text_characters": "2338",
+    "score": "0.527593",
+    "label": "positive",
+    "sadness": "0.132771",
+    "joy": "0.633941",
+    "fear": "0.099111",
+    "disgust": "0.10154",
+    "anger": "0.092903"
   },
   {
     "title": "A Musical Instrument",
@@ -8188,7 +9338,15 @@ Poem.create!([
       "For the reed which grows nevermore again",
       "As a reed with the reeds in the river."
     ],
-    "linecount": "42"
+    "linecount": "42",
+    "text_characters": "1551",
+    "score": "0.524012",
+    "label": "positive",
+    "sadness": "0.538519",
+    "joy": "0.70252",
+    "fear": "0.134989",
+    "disgust": "0.09925",
+    "anger": "0.092449"
   },
   {
     "title": "Lord Walter's Wife",
@@ -8326,7 +9484,15 @@ Poem.create!([
       "'Have I hurt you indeed? We are quits then. Nay, friend of my Walter, be mine!",
       "Come, Dora, my darling, my angel, and help me to ask him to dine.'"
     ],
-    "linecount": "81"
+    "linecount": "81",
+    "text_characters": "3950",
+    "score": "-0.352749",
+    "label": "negative",
+    "sadness": "0.501139",
+    "joy": "0.582952",
+    "fear": "0.64504",
+    "disgust": "0.469093",
+    "anger": "0.110946"
   },
   {
     "title": "Sonnet 07 - The face of all the world is changed, I think",
@@ -8347,7 +9513,15 @@ Poem.create!([
       "(The singing angels know) are only dear",
       "Because thy name moves right in what they say."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "645",
+    "score": "0.520789",
+    "label": "positive",
+    "sadness": "0.500002",
+    "joy": "0.631894",
+    "fear": "0.030241",
+    "disgust": "0.027272",
+    "anger": "0.051243"
   },
   {
     "title": "Sonnet 44 - Beloved, thou hast brought me many flowers",
@@ -8368,7 +9542,15 @@ Poem.create!([
       "Instruct thine eyes to keep their colors true,",
       "And tell thy soul their roots are left in mine."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "644",
+    "score": "0.593302",
+    "label": "positive",
+    "sadness": "0.351246",
+    "joy": "0.619386",
+    "fear": "0.023855",
+    "disgust": "0.003737",
+    "anger": "0.017437"
   },
   {
     "title": "Sonnet 33 - Yes, call me by my pet-name! let me hear",
@@ -8389,7 +9571,15 @@ Poem.create!([
       "Yes, call me by that name,—and I, in truth,",
       "With the same heart, will answer and not wait."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "612",
+    "score": "0.553979",
+    "label": "positive",
+    "sadness": "0.468436",
+    "joy": "0.611551",
+    "fear": "0.078155",
+    "disgust": "0.467434",
+    "anger": "0.08493"
   },
   {
     "title": "Sonnet 22 - When our two souls stand up erect and strong",
@@ -8410,7 +9600,15 @@ Poem.create!([
       "A place to stand and love in for a day,",
       "With darkness and the death-hour rounding it."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "595",
+    "score": "0.494806",
+    "label": "positive",
+    "sadness": "0.526896",
+    "joy": "0.399201",
+    "fear": "0.034",
+    "disgust": "0.004374",
+    "anger": "0.118798"
   },
   {
     "title": "Sonnet 19 - The soul's Rialto hath its merchandise",
@@ -8433,7 +9631,15 @@ Poem.create!([
       "Here on my heart, as on thy brow, to lack",
       "No natural heat till mine grows cold in death."
     ],
-    "linecount": "15"
+    "linecount": "15",
+    "text_characters": "611",
+    "score": "0.694074",
+    "label": "positive",
+    "sadness": "0.216096",
+    "joy": "0.178088",
+    "fear": "0.068806",
+    "disgust": "0.021995",
+    "anger": "0.022198"
   },
   {
     "title": "Sonnet 38 - First time he kissed me, he but only kissed",
@@ -8454,7 +9660,15 @@ Poem.create!([
       "In perfect, purple state; since when, indeed,",
       "I have been proud and said, 'My love, my own.'"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "641",
+    "score": "0.777111",
+    "label": "positive",
+    "sadness": "0.477215",
+    "joy": "0.690054",
+    "fear": "0.105578",
+    "disgust": "0.165674",
+    "anger": "0.077523"
   },
   {
     "title": "The Sea-Child",
@@ -8496,7 +9710,15 @@ Poem.create!([
       "The lark from the sky, or the worm from the grave,",
       "As in weaning the Sea-Child from the wave."
     ],
-    "linecount": "32"
+    "linecount": "32",
+    "text_characters": "1346",
+    "score": "-0.462103",
+    "label": "negative",
+    "sadness": "0.47351",
+    "joy": "0.540573",
+    "fear": "0.543922",
+    "disgust": "0.189359",
+    "anger": "0.115197"
   },
   {
     "title": "From Sunset to Star Rise",
@@ -8517,7 +9739,15 @@ Poem.create!([
       "My heart goes sighing after swallows flown",
       "On sometime summer's unreturning track."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "601",
+    "score": "-0.75577",
+    "label": "negative",
+    "sadness": "0.573208",
+    "joy": "0.080674",
+    "fear": "0.504648",
+    "disgust": "0.031348",
+    "anger": "0.02588"
   },
   {
     "title": "A Birthday",
@@ -8541,7 +9771,15 @@ Poem.create!([
       "Because the birthday of my life",
       "Is come, my love is come to me."
     ],
-    "linecount": "16"
+    "linecount": "16",
+    "text_characters": "543",
+    "score": "0.780947",
+    "label": "positive",
+    "sadness": "0.030694",
+    "joy": "0.920112",
+    "fear": "0.017473",
+    "disgust": "0.032892",
+    "anger": "0.005945"
   },
   {
     "title": "Monna Innominata: A Sonnet of Sonnets",
@@ -8841,7 +10079,15 @@ Poem.create!([
       "While youth and beauty made a summer morn,",
       "Silence of love that cannot sing again."
     ],
-    "linecount": "240"
+    "linecount": "240",
+    "text_characters": "9809",
+    "score": "0.502558",
+    "label": "positive",
+    "sadness": "0.585501",
+    "joy": "0.673473",
+    "fear": "0.105275",
+    "disgust": "0.076797",
+    "anger": "0.091188"
   },
   {
     "title": "From “Later Life”",
@@ -8879,7 +10125,15 @@ Poem.create!([
       "Of one dear heaven, across whose depth and length",
       "Mayhap they talk together without speech."
     ],
-    "linecount": "30"
+    "linecount": "30",
+    "text_characters": "1218",
+    "score": "-0.642373",
+    "label": "negative",
+    "sadness": "0.556055",
+    "joy": "0.671498",
+    "fear": "0.099163",
+    "disgust": "0.054352",
+    "anger": "0.033684"
   },
   {
     "title": "Spring Quiet",
@@ -8916,7 +10170,15 @@ Poem.create!([
       "Of the far sea,",
       "Though far off it be.\""
     ],
-    "linecount": "25"
+    "linecount": "25",
+    "text_characters": "513",
+    "score": "0.467461",
+    "label": "positive",
+    "sadness": "0.087748",
+    "joy": "0.84098",
+    "fear": "0.034235",
+    "disgust": "0.011317",
+    "anger": "0.037512"
   },
   {
     "title": "A Better Ressurection",
@@ -8949,7 +10211,15 @@ Poem.create!([
       "A royal cup for Him, my King:",
       "O Jesus, drink of me."
     ],
-    "linecount": "24"
+    "linecount": "24",
+    "text_characters": "759",
+    "score": "-0.616743",
+    "label": "negative",
+    "sadness": "0.485572",
+    "joy": "0.283566",
+    "fear": "0.313256",
+    "disgust": "0.048825",
+    "anger": "0.029249"
   },
   {
     "title": "No, Thank You John",
@@ -8994,7 +10264,15 @@ Poem.create!([
       "Here's friendship for you if you like; but love,-",
       "No, thank you, John."
     ],
-    "linecount": "31"
+    "linecount": "31",
+    "text_characters": "1082",
+    "score": "-0.47621",
+    "label": "negative",
+    "sadness": "0.191474",
+    "joy": "0.64492",
+    "fear": "0.546427",
+    "disgust": "0.101425",
+    "anger": "0.161259"
   },
   {
     "title": "Before The Paling Of The Stars",
@@ -9026,7 +10304,15 @@ Poem.create!([
       "With saint and angel, ox and ass,",
       "To hail the King of Glory."
     ],
-    "linecount": "23"
+    "linecount": "23",
+    "text_characters": "585",
+    "score": "0.438806",
+    "label": "positive",
+    "sadness": "0.065871",
+    "joy": "0.684303",
+    "fear": "0.037067",
+    "disgust": "0.020685",
+    "anger": "0.249014"
   },
   {
     "title": "The Thread of Life",
@@ -9080,7 +10366,15 @@ Poem.create!([
       "he bids me sing: O death, where is thy sting?",
       "And sing: O grave, where is thy victory?"
     ],
-    "linecount": "45"
+    "linecount": "45",
+    "text_characters": "1770",
+    "score": "-0.280838",
+    "label": "negative",
+    "sadness": "0.604068",
+    "joy": "0.620039",
+    "fear": "0.116476",
+    "disgust": "0.065208",
+    "anger": "0.129226"
   },
   {
     "title": "Winter: My Secret",
@@ -9123,7 +10417,15 @@ Poem.create!([
       "Perhaps my secret I may say,",
       "Or you may guess."
     ],
-    "linecount": "34"
+    "linecount": "34",
+    "text_characters": "1256",
+    "score": "-0.440016",
+    "label": "negative",
+    "sadness": "0.144216",
+    "joy": "0.655598",
+    "fear": "0.468061",
+    "disgust": "0.053021",
+    "anger": "0.478251"
   },
   {
     "title": "At Home",
@@ -9165,7 +10467,15 @@ Poem.create!([
       "Like the remembrance of a guest",
       "That tarrieth but a day."
     ],
-    "linecount": "32"
+    "linecount": "32",
+    "text_characters": "1082",
+    "score": "0.301496",
+    "label": "positive",
+    "sadness": "0.674573",
+    "joy": "0.622546",
+    "fear": "0.069726",
+    "disgust": "0.0695",
+    "anger": "0.043909"
   },
   {
     "title": "Is it Well with the Child?",
@@ -9182,7 +10492,15 @@ Poem.create!([
       "   One by one,",
       "   And to come back in blow."
     ],
-    "linecount": "10"
+    "linecount": "10",
+    "text_characters": "265",
+    "score": "-0.35984",
+    "label": "negative",
+    "sadness": "0.165576",
+    "joy": "0.107278",
+    "fear": "0.232465",
+    "disgust": "0.045602",
+    "anger": "0.522349"
   },
   {
     "title": "Later life",
@@ -9203,7 +10521,15 @@ Poem.create!([
       "Oh weary impatient patience of my lot!",
       "Thus with myself: how fares it, Friends, with you?"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "590",
+    "score": "-0.901212",
+    "label": "negative",
+    "sadness": "0.307082",
+    "joy": "0.036994",
+    "fear": "0.516221",
+    "disgust": "0.108364",
+    "anger": "0.085234"
   },
   {
     "title": "The Emigrants: Book I",
@@ -9596,7 +10922,15 @@ Poem.create!([
       "That tell with what success wide-wasting War",
       "Has by our brave Compatriots thinned the world."
     ],
-    "linecount": "384"
+    "linecount": "384",
+    "text_characters": "16582",
+    "score": "-0.488522",
+    "label": "negative",
+    "sadness": "0.605602",
+    "joy": "0.622393",
+    "fear": "0.107574",
+    "disgust": "0.121651",
+    "anger": "0.104445"
   },
   {
     "title": "Written near a Port on a Dark Evening",
@@ -9618,7 +10952,15 @@ Poem.create!([
       "Misled the pilgrim--such the dubious ray",
       "That wavering reason lends in life's long darkling way."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "609",
+    "score": "-0.569405",
+    "label": "negative",
+    "sadness": "0.145184",
+    "joy": "0.648353",
+    "fear": "0.195919",
+    "disgust": "0.038718",
+    "anger": "0.048804"
   },
   {
     "title": "Sonnet XLIV: Press'd by the Moon",
@@ -9639,7 +10981,15 @@ Poem.create!([
       "While I am doom'd—by life's long storm opprest,",
       "To gaze with envy on their gloomy rest."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "628",
+    "score": "-0.450592",
+    "label": "negative",
+    "sadness": "0.660344",
+    "joy": "0.047956",
+    "fear": "0.237704",
+    "disgust": "0.120182",
+    "anger": "0.217078"
   },
   {
     "title": "Sonnet XLIII: The Unhappy Exile",
@@ -9660,7 +11010,15 @@ Poem.create!([
       "Ah! so for me delusive Fancy toils,",
       "Then, from contrasted truth—my feeble soul recoils."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "604",
+    "score": "-0.793773",
+    "label": "negative",
+    "sadness": "0.663161",
+    "joy": "0.118632",
+    "fear": "0.350872",
+    "disgust": "0.013428",
+    "anger": "0.036015"
   },
   {
     "title": "The Emigrants: Book II",
@@ -10114,7 +11472,15 @@ Poem.create!([
       "Serve, all tremendous as they are, to fix",
       "The reign of Reason, Liberty, and Peace!"
     ],
-    "linecount": "445"
+    "linecount": "445",
+    "text_characters": "19374",
+    "score": "-0.556058",
+    "label": "negative",
+    "sadness": "0.603002",
+    "joy": "0.591509",
+    "fear": "0.517193",
+    "disgust": "0.117091",
+    "anger": "0.154161"
   },
   {
     "title": "Pilate's Wife's Dream",
@@ -10311,7 +11677,15 @@ Poem.create!([
       "I wait in hope­I wait in solemn fear,",
       "The oracle of God­the sole­true God­to hear."
     ],
-    "linecount": "157"
+    "linecount": "157",
+    "text_characters": "6927",
+    "score": "-0.405886",
+    "label": "negative",
+    "sadness": "0.576846",
+    "joy": "0.567785",
+    "fear": "0.563362",
+    "disgust": "0.07388",
+    "anger": "0.115085"
   },
   {
     "title": "Speak Of The North! A Lonely Moor",
@@ -10332,7 +11706,15 @@ Poem.create!([
       "And one star, large and soft and lone,",
       "Silently lights the unclouded skies."
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "433",
+    "score": "-0.636943",
+    "label": "negative",
+    "sadness": "0.761422",
+    "joy": "0.031421",
+    "fear": "0.286164",
+    "disgust": "0.061129",
+    "anger": "0.087308"
   },
   {
     "title": "Life",
@@ -10365,83 +11747,15 @@ Poem.create!([
       "For gloriously, victoriously,",
       "Can courage quell despair !"
     ],
-    "linecount": "24"
-  },
-  {
-    "title": "The Wife's Will",
-    "author": "Charlotte Bronte",
-    "lines": [
-      "SIT still­a word­a breath may break",
-      "(As light airs stir a sleeping lake,)",
-      "The glassy calm that soothes my woes,",
-      "The sweet, the deep, the full repose.",
-      "O leave me not ! for ever be",
-      "Thus, more than life itself to me !",
-      "",
-      "Yes, close beside thee, let me kneel­",
-      "Give me thy hand that I may feel",
-      "The friend so true­so tried­so dear,",
-      "My heart's own chosen­indeed is near;",
-      "And check me not­this hour divine",
-      "Belongs to me­is fully mine.",
-      "",
-      "'Tis thy own hearth thou sitt'st beside,",
-      "After long absence­wandering wide;",
-      "'Tis thy own wife reads in thine eyes,",
-      "A promise clear of stormless skies,",
-      "For faith and true love light the rays,",
-      "Which shine responsive to her gaze.",
-      "",
-      "Aye,­well that single tear may fall;",
-      "Ten thousand might mine eyes recall,",
-      "Which from their lids, ran blinding fast,",
-      "In hours of grief, yet scarcely past,",
-      "Well may'st thou speak of love to me;",
-      "For, oh ! most truly­I love thee !",
-      "",
-      "Yet smile­for we are happy now.",
-      "Whence, then, that sadness on thy brow ?",
-      "What say'st thou ? ' We must once again,",
-      "Ere long, be severed by the main ? '",
-      "I knew not this­I deemed no more,",
-      "Thy step would err from Britain's shore.",
-      "",
-      "' Duty commands ?' 'Tis true­'tis just;",
-      "Thy slightest word I wholly trust,",
-      "Nor by request, nor faintest sigh",
-      "Would I, to turn thy purpose, try;",
-      "But, William­hear my solemn vow­",
-      "Hear and confirm !­with thee I go.",
-      "",
-      "' Distance and suffering,' did'st thou say ?",
-      "' Danger by night, and toil by day ?'",
-      "Oh, idle words, and vain are these;",
-      "Hear me ! I cross with thee the seas.",
-      "Such risk as thou must meet and dare,",
-      "I­thy true wife­will duly share.",
-      "",
-      "Passive, at home, I will not pine;",
-      "Thy toils­thy perils, shall be mine;",
-      "Grant this­and be hereafter paid",
-      "By a warm heart's devoted aid:",
-      "'Tis granted­with that yielding kiss,",
-      "Entered my soul unmingled bliss.",
-      "",
-      "Thanks, William­thanks ! thy love has joy,",
-      "Pure­undefiled with base alloy;",
-      "'Tis not a passion, false and blind,",
-      "Inspires, enchains, absorbs my mind;",
-      "Worthy, I feel, art thou to be",
-      "Loved with my perfect energy.",
-      "",
-      "This evening, now, shall sweetly flow,",
-      "Lit by our clear fire's happy glow;",
-      "And parting's peace-embittering fear,",
-      "Is warned, our hearts to come not near;",
-      "For fate admits my soul's decree,",
-      "In bliss or bale­to go with thee !"
-    ],
-    "linecount": "60"
+    "linecount": "24",
+    "text_characters": "679",
+    "score": "0.407467",
+    "label": "positive",
+    "sadness": "0.623938",
+    "joy": "0.671086",
+    "fear": "0.150835",
+    "disgust": "0.034249",
+    "anger": "0.050294"
   },
   {
     "title": "The Wife's Will",
@@ -10517,7 +11831,15 @@ Poem.create!([
       "For fate admits my soul's decree,",
       "In bliss or bale­to go with thee !"
     ],
-    "linecount": "60"
+    "linecount": "60",
+    "text_characters": "2176",
+    "score": "0.575556",
+    "label": "positive",
+    "sadness": "0.585673",
+    "joy": "0.649409",
+    "fear": "0.162378",
+    "disgust": "0.055772",
+    "anger": "0.092653"
   },
   {
     "title": "The Teacher's Monologue",
@@ -10620,7 +11942,15 @@ Poem.create!([
       "Then, aid me, Reason, Patience, Faith,",
       "To suffer to the end !"
     ],
-    "linecount": "90"
+    "linecount": "90",
+    "text_characters": "2978",
+    "score": "0.403101",
+    "label": "positive",
+    "sadness": "0.600313",
+    "joy": "0.625992",
+    "fear": "0.127752",
+    "disgust": "0.08181",
+    "anger": "0.082324"
   },
   {
     "title": "Passion",
@@ -10692,7 +12022,15 @@ Poem.create!([
       "I'd mount the saddle, draw the sword,",
       "And perish in the charge!"
     ],
-    "linecount": "53"
+    "linecount": "53",
+    "text_characters": "1646",
+    "score": "0.53944",
+    "label": "positive",
+    "sadness": "0.548822",
+    "joy": "0.644209",
+    "fear": "0.562917",
+    "disgust": "0.060753",
+    "anger": "0.117025"
   },
   {
     "title": "Winter Stores",
@@ -10763,7 +12101,15 @@ Poem.create!([
       "Her stores, with hoarded sweets replenished,",
       "Life's evening hours will bless."
     ],
-    "linecount": "52"
+    "linecount": "52",
+    "text_characters": "1691",
+    "score": "0.671981",
+    "label": "positive",
+    "sadness": "0.554196",
+    "joy": "0.759268",
+    "fear": "0.051507",
+    "disgust": "0.050449",
+    "anger": "0.058254"
   },
   {
     "title": "Women's Rights",
@@ -10799,7 +12145,15 @@ Poem.create!([
       "To die, and not a heart that does not love us",
       "Know where we're laid."
     ],
-    "linecount": "24"
+    "linecount": "24",
+    "text_characters": "811",
+    "score": "0.615137",
+    "label": "positive",
+    "sadness": "0.042699",
+    "joy": "0.922253",
+    "fear": "0.018322",
+    "disgust": "0.016543",
+    "anger": "0.008348"
   },
   {
     "title": "La Passion Vaincue",
@@ -10820,7 +12174,15 @@ Poem.create!([
       "At length pull'd her back, and she cry'd, Why this Strife,",
       "Since the Swains are so Many, and I've but One Life?"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "703",
+    "score": "-0.736375",
+    "label": "negative",
+    "sadness": "0.666321",
+    "joy": "0.021735",
+    "fear": "0.077644",
+    "disgust": "0.04164",
+    "anger": "0.47401"
   },
   {
     "title": "The Man And His Horse",
@@ -10864,7 +12226,15 @@ Poem.create!([
       "Urge no Man to despair; lest in the Fit",
       "He with some Counterblow thy Head may hit."
     ],
-    "linecount": "32"
+    "linecount": "32",
+    "text_characters": "1045",
+    "score": "-0.445933",
+    "label": "negative",
+    "sadness": "0.493925",
+    "joy": "0.535968",
+    "fear": "0.160598",
+    "disgust": "0.462953",
+    "anger": "0.198114"
   },
   {
     "title": "Life's Progress",
@@ -10924,7 +12294,15 @@ Poem.create!([
       "We gladly sinking down to rest,",
       "Leave following Crouds behind."
     ],
-    "linecount": "45"
+    "linecount": "45",
+    "text_characters": "1455",
+    "score": "0.572505",
+    "label": "positive",
+    "sadness": "0.541301",
+    "joy": "0.669192",
+    "fear": "0.078337",
+    "disgust": "0.431092",
+    "anger": "0.071862"
   },
   {
     "title": "On the Death of the Honourable Mr. James Thynne",
@@ -11039,7 +12417,15 @@ Poem.create!([
       "That Future State, which Darkness yet involves,",
       "Known but by Death, which ev'ry Doubt resolves."
     ],
-    "linecount": "107"
+    "linecount": "107",
+    "text_characters": "4716",
+    "score": "0.441555",
+    "label": "positive",
+    "sadness": "0.605238",
+    "joy": "0.6392",
+    "fear": "0.090722",
+    "disgust": "0.082252",
+    "anger": "0.103472"
   },
   {
     "title": "To A Husband",
@@ -11063,7 +12449,15 @@ Poem.create!([
       "And I your censure could with pleasure bear,",
       "Would you but soon return, and speak it here."
     ],
-    "linecount": "17"
+    "linecount": "17",
+    "text_characters": "745",
+    "score": "0.783986",
+    "label": "positive",
+    "sadness": "0.043436",
+    "joy": "0.904351",
+    "fear": "0.011836",
+    "disgust": "0.022786",
+    "anger": "0.02958"
   },
   {
     "title": "On The Hurricane",
@@ -11416,7 +12810,15 @@ Poem.create!([
       "Direct our Skill in that sublimer part,",
       "And our weak Numbers mend!"
     ],
-    "linecount": "303"
+    "linecount": "303",
+    "text_characters": "12374",
+    "score": "-0.503008",
+    "label": "negative",
+    "sadness": "0.503465",
+    "joy": "0.571059",
+    "fear": "0.145334",
+    "disgust": "0.136401",
+    "anger": "0.153375"
   },
   {
     "title": "Hope",
@@ -11433,7 +12835,15 @@ Poem.create!([
       "Receive it then, t'expel these mortal Cares,",
       "Nor wave a Med'cine, which thy God prepares."
     ],
-    "linecount": "8"
+    "linecount": "8",
+    "text_characters": "344",
+    "score": "-0.376492",
+    "label": "negative",
+    "sadness": "0.060285",
+    "joy": "0.663256",
+    "fear": "0.037324",
+    "disgust": "0.132519",
+    "anger": "0.200548"
   },
   {
     "title": "The Dog And His Master",
@@ -11470,7 +12880,15 @@ Poem.create!([
       "These and a thousand more, which I cou'd tell,",
       "Provoke my Growling, and offend my Smell."
     ],
-    "linecount": "28"
+    "linecount": "28",
+    "text_characters": "1230",
+    "score": "-0.627534",
+    "label": "negative",
+    "sadness": "0.147705",
+    "joy": "0.524058",
+    "fear": "0.119465",
+    "disgust": "0.534074",
+    "anger": "0.548744"
   },
   {
     "title": "The Tree",
@@ -11509,7 +12927,15 @@ Poem.create!([
       "But shalt, like ancient heroes, burn,",
       "And some bright hearth be made thy urn."
     ],
-    "linecount": "32"
+    "linecount": "32",
+    "text_characters": "1161",
+    "score": "0.606341",
+    "label": "positive",
+    "sadness": "0.49492",
+    "joy": "0.671108",
+    "fear": "0.074562",
+    "disgust": "0.123847",
+    "anger": "0.08204"
   },
   {
     "title": "Glass",
@@ -11530,7 +12956,15 @@ Poem.create!([
       "Tho' yet th' Excess the Preacher warns to flee,",
       "Lest Men at length as clearly spy through Thee."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "639",
+    "score": "0.613896",
+    "label": "positive",
+    "sadness": "0.066263",
+    "joy": "0.776183",
+    "fear": "0.068195",
+    "disgust": "0.06145",
+    "anger": "0.071103"
   },
   {
     "title": "Friendship Between Ephelia And Ardelia",
@@ -11557,7 +12991,15 @@ Poem.create!([
       "Ard. Words indeed no more can shew:",
       "But 'tis to love, as I love you."
     ],
-    "linecount": "20"
+    "linecount": "20",
+    "text_characters": "651",
+    "score": "0.541604",
+    "label": "positive",
+    "sadness": "0.485902",
+    "joy": "0.654437",
+    "fear": "0.052306",
+    "disgust": "0.036381",
+    "anger": "0.029189"
   },
   {
     "title": "On Myselfe",
@@ -11576,7 +13018,15 @@ Poem.create!([
       "When in the Sun, my wings can be display'd,",
       "And in retirement, I can bless the shade."
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "530",
+    "score": "0.819472",
+    "label": "positive",
+    "sadness": "0.010648",
+    "joy": "0.938506",
+    "fear": "0.002235",
+    "disgust": "0.008902",
+    "anger": "0.04838"
   },
   {
     "title": "TO My Lord Colrane, In Answer to his Complemental Verses sent me under the Name of CLEANOR",
@@ -11619,7 +13069,15 @@ Poem.create!([
       "This Use of these Applauding Numbers make",
       "Them for Example, not Encomium, take."
     ],
-    "linecount": "34"
+    "linecount": "34",
+    "text_characters": "1446",
+    "score": "-0.503065",
+    "label": "negative",
+    "sadness": "0.53671",
+    "joy": "0.59609",
+    "fear": "0.070005",
+    "disgust": "0.069501",
+    "anger": "0.06764"
   },
   {
     "title": "The Discontent.",
@@ -11759,7 +13217,15 @@ Poem.create!([
       "     That so I may anticipate that Rest,",
       "Which only in my Grave I hope to find."
     ],
-    "linecount": "125"
+    "linecount": "125",
+    "text_characters": "4824",
+    "score": "-0.5188001",
+    "label": "negative",
+    "sadness": "0.491813",
+    "joy": "0.559375",
+    "fear": "0.098498",
+    "disgust": "0.112139",
+    "anger": "0.117096"
   },
   {
     "title": "Upon the saying that my VERSES were made by another.",
@@ -11836,7 +13302,15 @@ Poem.create!([
       "I willingly accept Cassandras Fate,",
       "To speak the Truth, although believ'd too late"
     ],
-    "linecount": "64"
+    "linecount": "64",
+    "text_characters": "2726",
+    "score": "0.408693",
+    "label": "positive",
+    "sadness": "0.558571",
+    "joy": "0.655797",
+    "fear": "0.101699",
+    "disgust": "0.43286",
+    "anger": "0.404923"
   },
   {
     "title": "ON THE Dutchess of Grafton Under the Name of Alinda.",
@@ -11874,7 +13348,15 @@ Poem.create!([
       "No more than those the Kings Renown",
       "And State applaud, affect his Crown."
     ],
-    "linecount": "29"
+    "linecount": "29",
+    "text_characters": "877",
+    "score": "0.752993",
+    "label": "positive",
+    "sadness": "0.02972",
+    "joy": "0.634405",
+    "fear": "0.020345",
+    "disgust": "0.040417",
+    "anger": "0.052917"
   },
   {
     "title": "HERODIAS Daughter presenting to her Mother St. JOHN's Head in a Charger, also Painted by her self",
@@ -11894,7 +13376,15 @@ Poem.create!([
       "Come, joyn then with me in my just Transport,",
       "Who thus have brought the Hermite to the Court."
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "523",
+    "score": "-0.514861",
+    "label": "negative",
+    "sadness": "0.010104",
+    "joy": "0.4345",
+    "fear": "0.532637",
+    "disgust": "0.062592",
+    "anger": "0.054112"
   },
   {
     "title": "St. John Baptist Painted by her self in the Wilderness, with Angels appearing to him, and with a Lamb by him",
@@ -11909,7 +13399,15 @@ Poem.create!([
       "Excess and Grandure I decline,",
       "M'Associates onely are Divine."
     ],
-    "linecount": "8"
+    "linecount": "8",
+    "text_characters": "283",
+    "score": "0.768529",
+    "label": "positive",
+    "sadness": "0.069364",
+    "joy": "0.856934",
+    "fear": "0.005937",
+    "disgust": "0.02038",
+    "anger": "0.05331"
   },
   {
     "title": "The Miseries of Man",
@@ -12165,7 +13663,15 @@ Poem.create!([
       "Where the free Soul does all her burden leave,",
       "And Joys commensurate to her self receive."
     ],
-    "linecount": "227"
+    "linecount": "227",
+    "text_characters": "9944",
+    "score": "-0.628608",
+    "label": "negative",
+    "sadness": "0.64722",
+    "joy": "0.583271",
+    "fear": "0.129309",
+    "disgust": "0.114488",
+    "anger": "0.163331"
   },
   {
     "title": "The Captive's Dream",
@@ -12199,7 +13705,15 @@ Poem.create!([
       "My deadly fate with calmness if there were",
       "No kindred hearts to bleed and break for me!"
     ],
-    "linecount": "27"
+    "linecount": "27",
+    "text_characters": "1139",
+    "score": "-0.706424",
+    "label": "negative",
+    "sadness": "0.726391",
+    "joy": "0.019289",
+    "fear": "0.348723",
+    "disgust": "0.074882",
+    "anger": "0.124696"
   },
   {
     "title": "A Prayer",
@@ -12225,7 +13739,15 @@ Poem.create!([
       "Do Thou my strength--my Saviour be,",
       "And MAKE me to Thy glory live."
     ],
-    "linecount": "16"
+    "linecount": "16",
+    "text_characters": "537",
+    "score": "-0.434265",
+    "label": "negative",
+    "sadness": "0.087951",
+    "joy": "0.857555",
+    "fear": "0.042651",
+    "disgust": "0.002101",
+    "anger": "0.018876"
   },
   {
     "title": "Monday Night May 11th 1846 / Domestic Peace",
@@ -12265,7 +13787,15 @@ Poem.create!([
       "We rudely drove thee from our hearth,",
       "And vainly sigh for thy return."
     ],
-    "linecount": "28"
+    "linecount": "28",
+    "text_characters": "1016",
+    "score": "0.385973",
+    "label": "positive",
+    "sadness": "0.465811",
+    "joy": "0.686709",
+    "fear": "0.504286",
+    "disgust": "0.0595",
+    "anger": "0.113737"
   },
   {
     "title": "Dreams",
@@ -12305,7 +13835,15 @@ Poem.create!([
       "And am I only thus to know",
       "How sweet the joys of love would be?"
     ],
-    "linecount": "28"
+    "linecount": "28",
+    "text_characters": "935",
+    "score": "0.527396",
+    "label": "positive",
+    "sadness": "0.668781",
+    "joy": "0.701189",
+    "fear": "0.038996",
+    "disgust": "0.013363",
+    "anger": "0.043123"
   },
   {
     "title": "Farewell",
@@ -12345,7 +13883,15 @@ Poem.create!([
       "And bid the future pay the past",
       "With joy for anguish, smiles for tears?"
     ],
-    "linecount": "28"
+    "linecount": "28",
+    "text_characters": "982",
+    "score": "0.677532",
+    "label": "positive",
+    "sadness": "0.44353",
+    "joy": "0.699296",
+    "fear": "0.101824",
+    "disgust": "0.043195",
+    "anger": "0.037694"
   },
   {
     "title": "The Doubter's Prayer",
@@ -12410,7 +13956,15 @@ Poem.create!([
       "A shield of safety o'er my head,",
       "A spring of comfort in my heart."
     ],
-    "linecount": "48"
+    "linecount": "48",
+    "text_characters": "1641",
+    "score": "0.371261",
+    "label": "positive",
+    "sadness": "0.642151",
+    "joy": "0.652143",
+    "fear": "0.450979",
+    "disgust": "0.021104",
+    "anger": "0.055593"
   },
   {
     "title": "Music on Christmas Morning",
@@ -12464,7 +14018,15 @@ Poem.create!([
       "And He that gave his blood for men",
       "Will lead us home to God again."
     ],
-    "linecount": "42"
+    "linecount": "42",
+    "text_characters": "1494",
+    "score": "0.824365",
+    "label": "positive",
+    "sadness": "0.050755",
+    "joy": "0.880424",
+    "fear": "0.001853",
+    "disgust": "0.001257",
+    "anger": "0.081696"
   },
   {
     "title": "Lines Written From Home",
@@ -12509,7 +14071,15 @@ Poem.create!([
       "While such a home remains to me,",
       "My heart shall never know despair!"
     ],
-    "linecount": "32"
+    "linecount": "32",
+    "text_characters": "1175",
+    "score": "0.487087",
+    "label": "positive",
+    "sadness": "0.209041",
+    "joy": "0.722216",
+    "fear": "0.092847",
+    "disgust": "0.005438",
+    "anger": "0.003587"
   },
   {
     "title": "Oh, They have Robbed Me of The Hope",
@@ -12529,7 +14099,15 @@ Poem.create!([
       "A heart that loves to think on thee,",
       "And feels the worth of thine."
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "379",
+    "score": "0.783936",
+    "label": "positive",
+    "sadness": "0.031606",
+    "joy": "0.924641",
+    "fear": "0.032649",
+    "disgust": "0.001924",
+    "anger": "0.015363"
   },
   {
     "title": "Memory",
@@ -12590,7 +14168,15 @@ Poem.create!([
       "Can make our later pleasures shine,",
       "Though long ago they passed."
     ],
-    "linecount": "48"
+    "linecount": "48",
+    "text_characters": "1555",
+    "score": "0.707041",
+    "label": "positive",
+    "sadness": "0.590964",
+    "joy": "0.726249",
+    "fear": "0.045531",
+    "disgust": "0.013059",
+    "anger": "0.036325"
   },
   {
     "title": "Retirement",
@@ -12610,7 +14196,15 @@ Poem.create!([
       "Bask in the sunshine of the sky,",
       "And be alone with God!"
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "345",
+    "score": "-0.705559",
+    "label": "negative",
+    "sadness": "0.601227",
+    "joy": "0.627673",
+    "fear": "0.120957",
+    "disgust": "0.03367",
+    "anger": "0.048388"
   },
   {
     "title": "In Memory of a Happy Day in February",
@@ -12675,7 +14269,15 @@ Poem.create!([
       "To see the glories of his face",
       "Without the veil between."
     ],
-    "linecount": "48"
+    "linecount": "48",
+    "text_characters": "1373",
+    "score": "0.741372",
+    "label": "positive",
+    "sadness": "0.596773",
+    "joy": "0.753664",
+    "fear": "0.082302",
+    "disgust": "0.019898",
+    "anger": "0.05202"
   },
   {
     "title": "Home",
@@ -12715,7 +14317,15 @@ Poem.create!([
       "And though its halls are fair within --",
       "Oh, give me back my HOME!"
     ],
-    "linecount": "28"
+    "linecount": "28",
+    "text_characters": "876",
+    "score": "0.585119",
+    "label": "positive",
+    "sadness": "0.175026",
+    "joy": "0.68132",
+    "fear": "0.117471",
+    "disgust": "0.049639",
+    "anger": "0.089583"
   },
   {
     "title": "Upon My Dear and Loving Husband his Going into England Jan. 16",
@@ -12781,7 +14391,15 @@ Poem.create!([
       "With an engaged heart to sing",
       "All praises unto Thee."
     ],
-    "linecount": "48"
+    "linecount": "48",
+    "text_characters": "1395",
+    "score": "0.462348",
+    "label": "positive",
+    "sadness": "0.460946",
+    "joy": "0.626792",
+    "fear": "0.100816",
+    "disgust": "0.098271",
+    "anger": "0.095008"
   },
   {
     "title": "To Her Father with Some Verses",
@@ -12802,7 +14420,15 @@ Poem.create!([
       "Such is my bond, none can discharge but I,",
       "Yet paying is not paid until I die."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "583",
+    "score": "-0.283336",
+    "label": "negative",
+    "sadness": "0.47676",
+    "joy": "0.306969",
+    "fear": "0.122814",
+    "disgust": "0.033941",
+    "anger": "0.190999"
   },
   {
     "title": "Before the Birth of One of Her Children",
@@ -12837,7 +14463,15 @@ Poem.create!([
       "And kiss this paper for thy dear love's sake,",
       "Who with salt tears this last farewell did take."
     ],
-    "linecount": "28"
+    "linecount": "28",
+    "text_characters": "1212",
+    "score": "-0.494427",
+    "label": "negative",
+    "sadness": "0.671661",
+    "joy": "0.604207",
+    "fear": "0.112971",
+    "disgust": "0.044716",
+    "anger": "0.064019"
   },
   {
     "title": "To my Dear and Loving Husband",
@@ -12856,7 +14490,15 @@ Poem.create!([
       "Then while we live, in love let's so persever",
       "That when we live no more, we may live ever."
     ],
-    "linecount": "12"
+    "linecount": "12",
+    "text_characters": "503",
+    "score": "0.818561",
+    "label": "positive",
+    "sadness": "0.127191",
+    "joy": "0.743137",
+    "fear": "0.067876",
+    "disgust": "0.095441",
+    "anger": "0.081576"
   },
   {
     "title": "In Reference to Her Children",
@@ -12956,7 +14598,15 @@ Poem.create!([
       "Farewell, my birds, farewell adieu,",
       "I happy am, if well with you."
     ],
-    "linecount": "93"
+    "linecount": "93",
+    "text_characters": "3380",
+    "score": "-0.299021",
+    "label": "negative",
+    "sadness": "0.582453",
+    "joy": "0.554474",
+    "fear": "0.185598",
+    "disgust": "0.076984",
+    "anger": "0.128459"
   },
   {
     "title": "A Letter to Her Husband",
@@ -12991,7 +14641,15 @@ Poem.create!([
       "Flesh of thy flesh, bone of thy bone,",
       "I here, thou there, yet both but one."
     ],
-    "linecount": "27"
+    "linecount": "27",
+    "text_characters": "1161",
+    "score": "0.286531",
+    "label": "positive",
+    "sadness": "0.611713",
+    "joy": "0.664332",
+    "fear": "0.152068",
+    "disgust": "0.105326",
+    "anger": "0.077634"
   },
   {
     "title": "The Four Ages of Man",
@@ -13456,7 +15114,15 @@ Poem.create!([
       "5.105 Triumph I shall, o're Sin, o're Death, o're Hell,",
       "5.106 And in that hope, I bid you all farewell."
     ],
-    "linecount": "448"
+    "linecount": "448",
+    "text_characters": "21248",
+    "score": "-0.395808",
+    "label": "negative",
+    "sadness": "0.524916",
+    "joy": "0.59018",
+    "fear": "0.44519",
+    "disgust": "0.105672",
+    "anger": "0.132587"
   },
   {
     "title": "In My Solitary Hours in My Dear Husband his Absence",
@@ -13527,7 +15193,15 @@ Poem.create!([
       "If Thou assist me, Lord,",
       "I shall Return Thee what I owe."
     ],
-    "linecount": "52"
+    "linecount": "52",
+    "text_characters": "1550",
+    "score": "0.366776",
+    "label": "positive",
+    "sadness": "0.619174",
+    "joy": "0.610129",
+    "fear": "0.630871",
+    "disgust": "0.44031",
+    "anger": "0.057445"
   },
   {
     "title": "In Thankful Remembrance for My Dear Husband's Safe Arrival",
@@ -13563,7 +15237,15 @@ Poem.create!([
       "And walk before Thee as they ought,",
       "In strict and upright ways."
     ],
-    "linecount": "24"
+    "linecount": "24",
+    "text_characters": "707",
+    "score": "0.435529",
+    "label": "positive",
+    "sadness": "0.569776",
+    "joy": "0.57171",
+    "fear": "0.08635",
+    "disgust": "0.094041",
+    "anger": "0.099444"
   },
   {
     "title": "In Honour of that High and Mighty Princess, Queen ELIZABETH",
@@ -13703,26 +15385,15 @@ Poem.create!([
       "4.5 If many worlds, as that fantastic framed,",
       "4.6 In every one, be her great glory famed"
     ],
-    "linecount": "126"
-  },
-  {
-    "title": "To My Dear And Loving Husband",
-    "author": "Anne Bradstreet",
-    "lines": [
-      "If ever two were one, then surely we.",
-      "If ever man were lov'd by wife, then thee.",
-      "If ever wife was happy in a man,",
-      "Compare with me, ye women, if you can.",
-      "I prize thy love more than whole Mines of gold",
-      "Or all the riches that the East doth hold.",
-      "My love is such that Rivers cannot quench,",
-      "Nor ought but love from thee give recompetence.",
-      "Thy love is such I can no way repay.",
-      "The heavens reward thee manifold, I pray.",
-      "Then while we live, in love let's so persever",
-      "That when we live no more, we may live ever."
-    ],
-    "linecount": "12"
+    "linecount": "126",
+    "text_characters": "5862",
+    "score": "0.416354",
+    "label": "positive",
+    "sadness": "0.521239",
+    "joy": "0.639527",
+    "fear": "0.077554",
+    "disgust": "0.113799",
+    "anger": "0.082984"
   },
   {
     "title": "The Baby's Dance",
@@ -13737,7 +15408,15 @@ Poem.create!([
       "Dance little baby, and mother shall sing,",
       "With the merry coral, ding, ding, ding."
     ],
-    "linecount": "8"
+    "linecount": "8",
+    "text_characters": "291",
+    "score": "0.52795",
+    "label": "positive",
+    "sadness": "0.081994",
+    "joy": "0.758653",
+    "fear": "0.041262",
+    "disgust": "0.138385",
+    "anger": "0.018931"
   },
   {
     "title": "About the Little Girl that Beat Her Sister",
@@ -13768,7 +15447,15 @@ Poem.create!([
       "And never turn a pretty play",
       "To such a pet as this is."
     ],
-    "linecount": "20"
+    "linecount": "20",
+    "text_characters": "593",
+    "score": "-0.511491",
+    "label": "negative",
+    "sadness": "0.588775",
+    "joy": "0.142196",
+    "fear": "0.093613",
+    "disgust": "0.564053",
+    "anger": "0.576221"
   },
   {
     "title": "The Star",
@@ -13799,7 +15486,15 @@ Poem.create!([
       "Tho' I know not what you are,",
       "Twinkle, twinkle, little star."
     ],
-    "linecount": "20"
+    "linecount": "20",
+    "text_characters": "614",
+    "score": "0.742316",
+    "label": "positive",
+    "sadness": "0.168394",
+    "joy": "0.763376",
+    "fear": "0.178628",
+    "disgust": "0.071745",
+    "anger": "0.046812"
   },
   {
     "title": "For a Naughty Little Girl",
@@ -13835,7 +15530,15 @@ Poem.create!([
       "And then you'll be happy as long as you live,",
       "And happy whenever you die."
     ],
-    "linecount": "24"
+    "linecount": "24",
+    "text_characters": "939",
+    "score": "-0.400513",
+    "label": "negative",
+    "sadness": "0.613243",
+    "joy": "0.657373",
+    "fear": "0.415335",
+    "disgust": "0.054669",
+    "anger": "0.031942"
   },
   {
     "title": "The Little Cripple's Complaint",
@@ -13890,7 +15593,15 @@ Poem.create!([
       "And for you I'll breathe a prayer,",
       "Leaning in my easy-chair."
     ],
-    "linecount": "42"
+    "linecount": "42",
+    "text_characters": "1228",
+    "score": "-0.509333",
+    "label": "negative",
+    "sadness": "0.615911",
+    "joy": "0.600587",
+    "fear": "0.141313",
+    "disgust": "0.53765",
+    "anger": "0.061786"
   },
   {
     "title": "The Lost Friend",
@@ -13920,7 +15631,15 @@ Poem.create!([
       "And never shall I hail that other \"friend,\"",
       "Who yet shall dog my footsteps to the end."
     ],
-    "linecount": "18"
+    "linecount": "18",
+    "text_characters": "709",
+    "score": "0.355367",
+    "label": "positive",
+    "sadness": "0.47455",
+    "joy": "0.718054",
+    "fear": "0.100208",
+    "disgust": "0.044265",
+    "anger": "0.070508"
   },
   {
     "title": "The Dream",
@@ -13961,7 +15680,15 @@ Poem.create!([
       "Attar of rose; or the pale string",
       "Of amber which has lain with roses."
     ],
-    "linecount": "28"
+    "linecount": "28",
+    "text_characters": "847",
+    "score": "0.558582",
+    "label": "positive",
+    "sadness": "0.47298",
+    "joy": "0.626336",
+    "fear": "0.134844",
+    "disgust": "0.111351",
+    "anger": "0.093866"
   },
   {
     "title": "The Birch-Tree at Loschwitz",
@@ -13987,7 +15714,15 @@ Poem.create!([
       "O God! the lonely hillside,",
       "The passionate wind of spring!"
     ],
-    "linecount": "16"
+    "linecount": "16",
+    "text_characters": "479",
+    "score": "0.57268",
+    "label": "positive",
+    "sadness": "0.10054",
+    "joy": "0.783033",
+    "fear": "0.121864",
+    "disgust": "0.010724",
+    "anger": "0.012771"
   },
   {
     "title": "Sonnet",
@@ -14009,7 +15744,15 @@ Poem.create!([
       "Yet in my heart a hint of feeling lies",
       "Which half a hope and half a despair."
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "590",
+    "score": "-0.43094",
+    "label": "negative",
+    "sadness": "0.695735",
+    "joy": "0.026773",
+    "fear": "0.298943",
+    "disgust": "0.058427",
+    "anger": "0.220031"
   },
   {
     "title": "A Wall Flower",
@@ -14035,7 +15778,15 @@ Poem.create!([
       "My spirit rises to the music's beat--",
       "But, ah, the leaden demon in my feet!"
     ],
-    "linecount": "14"
+    "linecount": "14",
+    "text_characters": "582",
+    "score": "0.464176",
+    "label": "positive",
+    "sadness": "0.065045",
+    "joy": "0.882786",
+    "fear": "0.02341",
+    "disgust": "0.004895",
+    "anger": "0.036299"
   },
   {
     "title": "Ballade of an Omnibus",
@@ -14077,7 +15828,15 @@ Poem.create!([
       "Neither to rate lower nor higher.",
       "An omnibus suffices me."
     ],
-    "linecount": "30"
+    "linecount": "30",
+    "text_characters": "937",
+    "score": "0.732851",
+    "label": "positive",
+    "sadness": "0.457609",
+    "joy": "0.674513",
+    "fear": "0.099121",
+    "disgust": "0.056461",
+    "anger": "0.092606"
   },
   {
     "title": "A Farewell",
@@ -14106,7 +15865,15 @@ Poem.create!([
       "I have neither a friend nor honour,",
       "Yet I am sorry to go."
     ],
-    "linecount": "17"
+    "linecount": "17",
+    "text_characters": "525",
+    "score": "-0.462404",
+    "label": "negative",
+    "sadness": "0.770127",
+    "joy": "0.113221",
+    "fear": "0.21676",
+    "disgust": "0.012731",
+    "anger": "0.032294"
   },
   {
     "title": "A London Plane-Tree",
@@ -14132,7 +15899,15 @@ Poem.create!([
       "But she has listened to the voice",
       "On city breezes borne."
     ],
-    "linecount": "16"
+    "linecount": "16",
+    "text_characters": "491",
+    "score": "0.559888",
+    "label": "positive",
+    "sadness": "0.185099",
+    "joy": "0.697223",
+    "fear": "0.017152",
+    "disgust": "0.126258",
+    "anger": "0.008377"
   },
   {
     "title": "A Minor Poet",
@@ -14370,7 +16145,15 @@ Poem.create!([
       "To cut the knot of circumstance, and snap",
       "The chain which binds all being?"
     ],
-    "linecount": "224"
+    "linecount": "224",
+    "text_characters": "9160",
+    "score": "0.378519",
+    "label": "positive",
+    "sadness": "0.534801",
+    "joy": "0.565899",
+    "fear": "0.139229",
+    "disgust": "0.502048",
+    "anger": "0.512804"
   },
   {
     "title": "In the Black Forest",
@@ -14401,7 +16184,15 @@ Poem.create!([
       "My heart was full of sorrow",
       "For joy it never had."
     ],
-    "linecount": "20"
+    "linecount": "20",
+    "text_characters": "591",
+    "score": "-0.840639",
+    "label": "negative",
+    "sadness": "0.720797",
+    "joy": "0.463117",
+    "fear": "0.189082",
+    "disgust": "0.13954",
+    "anger": "0.150609"
   },
   {
     "title": "Ballade of a Special Edition",
@@ -14439,7 +16230,15 @@ Poem.create!([
       "It is apocryphal, you cheat,",
       "Your double murder in Mile End."
     ],
-    "linecount": "28"
+    "linecount": "28",
+    "text_characters": "934",
+    "score": "-0.771994",
+    "label": "negative",
+    "sadness": "0.658152",
+    "joy": "0.529067",
+    "fear": "0.594144",
+    "disgust": "0.518478",
+    "anger": "0.445936"
   },
   {
     "title": "A Prayer",
@@ -14476,7 +16275,15 @@ Poem.create!([
       "Grant me to image Love,--",
       "The bliss without the woe."
     ],
-    "linecount": "30"
+    "linecount": "30",
+    "text_characters": "782",
+    "score": "0.653237",
+    "label": "positive",
+    "sadness": "0.638994",
+    "joy": "0.71364",
+    "fear": "0.08135",
+    "disgust": "0.070285",
+    "anger": "0.099919"
   },
   {
 "title": "Not at Home to Callers",
@@ -14487,7 +16294,15 @@ Poem.create!([
 "Bonnet due in April --",
 "Wishing you Good Day --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "92",
+    "score": "0.323537",
+    "label": "positive",
+    "sadness": "0.176029",
+    "joy": "0.730959",
+    "fear": "0.074244",
+    "disgust": "0.016399",
+    "anger": "0.007293"
 },
 {
 "title": "Defrauded I a Butterfly --",
@@ -14496,7 +16311,15 @@ Poem.create!([
 "Defrauded I a Butterfly --",
 "The lawful Heir -- for Thee --"
 ],
-"linecount": "2"
+"linecount": "2",
+"text_characters": "57",
+    "score": "0",
+    "label": "neutral",
+    "sadness": "0.065147",
+    "joy": "0.50436",
+    "fear": "0.065742",
+    "disgust": "0.050902",
+    "anger": "0.087858"
 },
 {
 "title": "The words the happy say",
@@ -14507,7 +16330,15 @@ Poem.create!([
 "But those the silent feel",
 "Are beautiful --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "84",
+    "score": "0.88625",
+    "label": "positive",
+    "sadness": "0.152697",
+    "joy": "0.822597",
+    "fear": "0.012475",
+    "disgust": "0.001873",
+    "anger": "0.011424"
 },
 {
 "title": "Summer begins to have the look",
@@ -14533,7 +16364,15 @@ Poem.create!([
 "And then elude stability",
 "Recalls to immortality."
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "457",
+    "score": "0.51371",
+    "label": "positive",
+    "sadness": "0.043189",
+    "joy": "0.748196",
+    "fear": "0.114569",
+    "disgust": "0.019675",
+    "anger": "0.013947"
 },
 {
 "title": "The Notice that is called the Spring",
@@ -14549,7 +16388,15 @@ Poem.create!([
 "Our salary the longest Day",
 "Is nothing but a Bier."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "227",
+    "score": "-0.677068",
+    "label": "negative",
+    "sadness": "0.241774",
+    "joy": "0.679286",
+    "fear": "0.022626",
+    "disgust": "0.026844",
+    "anger": "0.036261"
 },
 {
 "title": "Than Heaven more remote,",
@@ -14574,7 +16421,15 @@ Poem.create!([
 "Is absolute as God,",
 "And instant, too."
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "378",
+    "score": "0.319026",
+    "label": "positive",
+    "sadness": "0.094473",
+    "joy": "0.769531",
+    "fear": "0.091914",
+    "disgust": "0.008119",
+    "anger": "0.066173"
 },
 {
 "title": "Which is the best -- the Moon or the Crescent?",
@@ -14590,7 +16445,15 @@ Poem.create!([
 "Transport's decomposition follows --",
 "He is Prism born."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "245",
+    "score": "0.663604",
+    "label": "positive",
+    "sadness": "0.015976",
+    "joy": "0.785941",
+    "fear": "0.019221",
+    "disgust": "0.01623",
+    "anger": "0.017108"
 },
 {
 "title": "The Life we have is very great.",
@@ -14605,7 +16468,15 @@ Poem.create!([
 "The smallest Human Heart's extent",
 "Reduces it to none."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "217",
+    "score": "0.867411",
+    "label": "positive",
+    "sadness": "0.074241",
+    "joy": "0.843564",
+    "fear": "0.022891",
+    "disgust": "0.029883",
+    "anger": "0.023576"
 },
 {
 "title": "Her Sweet turn to leave the Homestead",
@@ -14646,7 +16517,15 @@ Poem.create!([
 "He -- must have achieved in person",
 "Equal Paradise --"
 ],
-"linecount": "28"
+"linecount": "28",
+"text_characters": "770",
+    "score": "-0.43977",
+    "label": "negative",
+    "sadness": "0.075298",
+    "joy": "0.732943",
+    "fear": "0.008165",
+    "disgust": "0.056775",
+    "anger": "0.171451"
 },
 {
 "title": "We should not mind so small a flower",
@@ -14667,7 +16546,15 @@ Poem.create!([
 "The Bobolinks around the throne",
 "And Dandelions gold."
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "351",
+    "score": "0.42053",
+    "label": "positive",
+    "sadness": "0.049635",
+    "joy": "0.730097",
+    "fear": "0.154381",
+    "disgust": "0.020273",
+    "anger": "0.096358"
 },
 {
 "title": "Nature can do no more",
@@ -14682,7 +16569,15 @@ Poem.create!([
 "Nature's imposing negative",
 "Nulls opportunity --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "189",
+    "score": "-0.675872",
+    "label": "negative",
+    "sadness": "0.107245",
+    "joy": "0.771221",
+    "fear": "0.020449",
+    "disgust": "0.01235",
+    "anger": "0.114819"
 },
 {
 "title": "Declaiming Waters none may dread --",
@@ -14693,7 +16588,15 @@ Poem.create!([
 "Are so for that most fatal cause",
 "In Nature -- they are full --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "124",
+    "score": "-0.439424",
+    "label": "negative",
+    "sadness": "0.54167",
+    "joy": "0.257792",
+    "fear": "0.109807",
+    "disgust": "0.102009",
+    "anger": "0.125017"
 },
 {
 "title": "The Butterfly's Numidian Gown",
@@ -14706,7 +16609,15 @@ Poem.create!([
 "And panting on a Clover lean",
 "As if it were undone --"
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "174",
+    "score": "-0.360649",
+    "label": "negative",
+    "sadness": "0.187528",
+    "joy": "0.453885",
+    "fear": "0.012004",
+    "disgust": "0.171348",
+    "anger": "0.280824"
 },
 {
 "title": "I prayed, at first, a little Girl,",
@@ -14738,7 +16649,15 @@ Poem.create!([
 "It takes me all the while to poise --",
 "And then -- it doesn't stay --"
 ],
-"linecount": "21"
+"linecount": "21",
+"text_characters": "604",
+    "score": "-0.430118",
+    "label": "negative",
+    "sadness": "0.430682",
+    "joy": "0.280053",
+    "fear": "0.212879",
+    "disgust": "0.0561",
+    "anger": "0.196548"
 },
 {
 "title": "So give me back to Death --",
@@ -14753,7 +16672,15 @@ Poem.create!([
 "Its size is all that Hell can guess --",
 "And all that Heaven was --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "231",
+    "score": "-0.988421",
+    "label": "negative",
+    "sadness": "0.599845",
+    "joy": "0.022197",
+    "fear": "0.117953",
+    "disgust": "0.143242",
+    "anger": "0.415128"
 },
 {
 "title": "I never felt at Home -- Below",
@@ -14779,7 +16706,15 @@ Poem.create!([
 "From Him -- and Holy Ghost -- and All --",
 "But there's the \"Judgement Day\"!"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "472",
+    "score": "0.379212",
+    "label": "positive",
+    "sadness": "0.097707",
+    "joy": "0.743614",
+    "fear": "0.093487",
+    "disgust": "0.012616",
+    "anger": "0.096902"
 },
 {
 "title": "Could Hope inspect her Basis",
@@ -14795,7 +16730,15 @@ Poem.create!([
 "Felled by but one assassin --",
 "Prosperity --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "185",
+    "score": "-0.523812",
+    "label": "negative",
+    "sadness": "0.087231",
+    "joy": "0.459062",
+    "fear": "0.093831",
+    "disgust": "0.040957",
+    "anger": "0.073605"
 },
 {
 "title": "He put the Belt around my life",
@@ -14819,7 +16762,15 @@ Poem.create!([
 "Whose invitation, know you not",
 "For Whom I must decline?"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "463",
+    "score": "-0.909233",
+    "label": "negative",
+    "sadness": "0.3551",
+    "joy": "0.33391",
+    "fear": "0.049634",
+    "disgust": "0.200152",
+    "anger": "0.222844"
 },
 {
 "title": "A full fed Rose on meals of Tint",
@@ -14834,7 +16785,15 @@ Poem.create!([
 "Submitting for our unknown sake",
 "To be esteemed no more --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "217",
+    "score": "-0.325568",
+    "label": "negative",
+    "sadness": "0.087899",
+    "joy": "0.767468",
+    "fear": "0.081353",
+    "disgust": "0.035811",
+    "anger": "0.049677"
 },
 {
 "title": "Success is counted sweetest",
@@ -14855,7 +16814,15 @@ Poem.create!([
 "The distant strains of triumph",
 "Burst agonized and clear!"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "306",
+    "score": "0.403656",
+    "label": "positive",
+    "sadness": "0.038538",
+    "joy": "0.886353",
+    "fear": "0.027723",
+    "disgust": "0.029511",
+    "anger": "0.027142"
 },
 {
 "title": "I Years had been from Home",
@@ -14891,7 +16858,15 @@ Poem.create!([
 "And held my ears, and like a Thief",
 "Fled gasping from the House --"
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "658",
+    "score": "-0.800117",
+    "label": "negative",
+    "sadness": "0.154621",
+    "joy": "0.139229",
+    "fear": "0.614731",
+    "disgust": "0.077017",
+    "anger": "0.275532"
 },
 {
 "title": "Musicians wrestle everywhere",
@@ -14918,7 +16893,15 @@ Poem.create!([
 "Where we -- with late -- celestial face --",
 "Please God -- shall Ascertain!"
 ],
-"linecount": "18"
+"linecount": "18",
+"text_characters": "616",
+    "score": "0.453606",
+    "label": "positive",
+    "sadness": "0.053798",
+    "joy": "0.750242",
+    "fear": "0.026924",
+    "disgust": "0.117661",
+    "anger": "0.103114"
 },
 {
 "title": "How much the present moment means",
@@ -14933,7 +16916,15 @@ Poem.create!([
 "The Torrents of Eternity",
 "Do all but inundate --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "227",
+    "score": "-0.624024",
+    "label": "negative",
+    "sadness": "0.13637",
+    "joy": "0.541613",
+    "fear": "0.069516",
+    "disgust": "0.05594",
+    "anger": "0.126468"
 },
 {
 "title": "Yesterday is History,",
@@ -14949,7 +16940,15 @@ Poem.create!([
 "While we shrewdly speculate",
 "Flutter both away"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "171",
+    "score": "0.760794",
+    "label": "positive",
+    "sadness": "0.499125",
+    "joy": "0.296635",
+    "fear": "0.175301",
+    "disgust": "0.048995",
+    "anger": "0.062026"
 },
 {
 "title": "Now I knew I lost her --",
@@ -14979,7 +16978,15 @@ Poem.create!([
 "But the Restitution",
 "Of Idolatry."
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "442",
+    "score": "-0.617689",
+    "label": "negative",
+    "sadness": "0.356405",
+    "joy": "0.541756",
+    "fear": "0.064803",
+    "disgust": "0.041589",
+    "anger": "0.06156"
 },
 {
 "title": "I noticed People disappeared",
@@ -14992,7 +16999,15 @@ Poem.create!([
 "But did because they died",
 "A Fact withheld the little child --"
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "173",
+    "score": "-0.959479",
+    "label": "negative",
+    "sadness": "0.631347",
+    "joy": "0.02486",
+    "fear": "0.254511",
+    "disgust": "0.293588",
+    "anger": "0.109801"
 },
 {
 "title": "Snow beneath whose chilly softness",
@@ -15008,7 +17023,15 @@ Poem.create!([
 "Than thine acclimated Creature",
 "Wilt Thou, Austere Snow?"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "210",
+    "score": "0.574755",
+    "label": "positive",
+    "sadness": "0.199471",
+    "joy": "0.537095",
+    "fear": "0.11002",
+    "disgust": "0.161668",
+    "anger": "0.054129"
 },
 {
 "title": "Absent Place -- an April Day --",
@@ -15024,7 +17047,15 @@ Poem.create!([
 "Daffodil delight but",
 "Him it duplicate --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "183",
+    "score": "0.708801",
+    "label": "positive",
+    "sadness": "0.530688",
+    "joy": "0.379501",
+    "fear": "0.092778",
+    "disgust": "0.004184",
+    "anger": "0.051563"
 },
 {
 "title": "Where Thou art -- that -- is Home --",
@@ -15047,7 +17078,15 @@ Poem.create!([
 "What Thou dost not -- Despair --",
 "Tho' Gabriel -- praise me -- Sire --"
 ],
-"linecount": "14"
+"linecount": "14",
+"text_characters": "423",
+    "score": "-0.360007",
+    "label": "negative",
+    "sadness": "0.033725",
+    "joy": "0.837837",
+    "fear": "0.005849",
+    "disgust": "0.077533",
+    "anger": "0.064249"
 },
 {
 "title": "The first Day that I was a Life",
@@ -15073,7 +17112,15 @@ Poem.create!([
 "\"Which choose They\"?",
 "Question Memory!"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "369",
+    "score": "0.391461",
+    "label": "positive",
+    "sadness": "0.633568",
+    "joy": "0.22154",
+    "fear": "0.058332",
+    "disgust": "0.044028",
+    "anger": "0.158997"
 },
 {
 "title": "They shut me up in Prose --",
@@ -15094,7 +17141,15 @@ Poem.create!([
 "Abolish his Captivity --",
 "And laugh -- No more have I --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "347",
+    "score": "-0.426525",
+    "label": "negative",
+    "sadness": "0.056132",
+    "joy": "0.598938",
+    "fear": "0.162868",
+    "disgust": "0.106752",
+    "anger": "0.175933"
 },
 {
 "title": "The name -- of it -- is \"Autumn\" --",
@@ -15115,7 +17170,15 @@ Poem.create!([
 "Then -- eddies like a Rose -- away --",
 "Upon Vermilion Wheels --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "378",
+    "score": "-0.348104",
+    "label": "negative",
+    "sadness": "0.180848",
+    "joy": "0.221701",
+    "fear": "0.409912",
+    "disgust": "0.136132",
+    "anger": "0.194326"
 },
 {
 "title": "Floss won't save you from an Abyss",
@@ -15131,7 +17194,15 @@ Poem.create!([
 "Now will you have the Rope or the Floss?",
 "Prices reasonable --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "239",
+    "score": "-0.379328",
+    "label": "negative",
+    "sadness": "0.184938",
+    "joy": "0.127506",
+    "fear": "0.130302",
+    "disgust": "0.143849",
+    "anger": "0.313213"
 },
 {
 "title": "Though the great Waters sleep,",
@@ -15144,7 +17215,15 @@ Poem.create!([
 "Ignited this Abode",
 "To put it out --"
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "134",
+    "score": "0.776509",
+    "label": "positive",
+    "sadness": "0.224283",
+    "joy": "0.59431",
+    "fear": "0.183351",
+    "disgust": "0.02057",
+    "anger": "0.049738"
 },
 {
 "title": "\"Arcturus\" is his other name",
@@ -15190,7 +17269,15 @@ Poem.create!([
 "Old fashioned -- naught -- everything --",
 "Over the stile of \"Pearl.\""
 ],
-"linecount": "32"
+"linecount": "32",
+"text_characters": "951",
+    "score": "-0.467598",
+    "label": "negative",
+    "sadness": "0.164702",
+    "joy": "0.586463",
+    "fear": "0.117638",
+    "disgust": "0.542059",
+    "anger": "0.158771"
 },
 {
 "title": "A Wind that rose",
@@ -15206,7 +17293,15 @@ Poem.create!([
 "Restored in Arctic Confidence",
 "To the Invisible --"
 ],
-"linecount": "9"
+"linecount": "9",
+"text_characters": "222",
+    "score": "0.711414",
+    "label": "positive",
+    "sadness": "0.02853",
+    "joy": "0.758284",
+    "fear": "0.095087",
+    "disgust": "0.013326",
+    "anger": "0.052923"
 },
 {
 "title": "Witchcraft was hung, in History,",
@@ -15222,7 +17317,15 @@ Poem.create!([
 "Nor ever guessed the stately sails",
 "My little craft was lost!"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "247",
+    "score": "0.344872",
+    "label": "positive",
+    "sadness": "0.398396",
+    "joy": "0.11336",
+    "fear": "0.208495",
+    "disgust": "0.34908",
+    "anger": "0.220676"
 },
 {
 "title": "No Romance sold unto",
@@ -15235,7 +17338,15 @@ Poem.create!([
 "'Tis Fiction's -- When 'tis small enough",
 "To Credit -- 'Tisn't true!"
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "152",
+    "score": "0.653969",
+    "label": "positive",
+    "sadness": "0.076106",
+    "joy": "0.563965",
+    "fear": "0.053194",
+    "disgust": "0.082088",
+    "anger": "0.118047"
 },
 {
 "title": "The inundation of the Spring",
@@ -15251,7 +17362,15 @@ Poem.create!([
 "But acclimated -- pines no more",
 "For that Peninsula --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "231",
+    "score": "-0.57614",
+    "label": "negative",
+    "sadness": "0.373225",
+    "joy": "0.495577",
+    "fear": "0.042263",
+    "disgust": "0.015521",
+    "anger": "0.15316"
 },
 {
 "title": "I lost a World -- the other day!",
@@ -15267,7 +17386,15 @@ Poem.create!([
 "Of more Esteem than Ducats --",
 "Oh find it -- Sir -- for me!"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "234",
+    "score": "0.377162",
+    "label": "positive",
+    "sadness": "0.227063",
+    "joy": "0.616012",
+    "fear": "0.055321",
+    "disgust": "0.070864",
+    "anger": "0.091104"
 },
 {
 "title": "'Twas a long Parting -- but the time",
@@ -15293,7 +17420,15 @@ Poem.create!([
 "And Cherubim -- and Seraphim --",
 "The unobtrusive Guest --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "463",
+    "score": "0.719093",
+    "label": "positive",
+    "sadness": "0.063001",
+    "joy": "0.704944",
+    "fear": "0.021552",
+    "disgust": "0.054392",
+    "anger": "0.204256"
 },
 {
 "title": "Immured in Heaven!",
@@ -15305,7 +17440,15 @@ Poem.create!([
 "Thou sweetest of the Universe,",
 "Like that which ravished thee!"
 ],
-"linecount": "5"
+"linecount": "5",
+"text_characters": "115",
+    "score": "0.669716",
+    "label": "positive",
+    "sadness": "0.086861",
+    "joy": "0.712649",
+    "fear": "0.032403",
+    "disgust": "0.023166",
+    "anger": "0.171686"
 },
 {
 "title": "Summer laid her simple Hat",
@@ -15321,7 +17464,15 @@ Poem.create!([
 "Wheresoe'er, or was she --",
 "The demand of Awe?"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "205",
+    "score": "0.513905",
+    "label": "positive",
+    "sadness": "0.231117",
+    "joy": "0.543092",
+    "fear": "0.090658",
+    "disgust": "0.012407",
+    "anger": "0.178325"
 },
 {
 "title": "I tend my flowers for thee",
@@ -15359,7 +17510,15 @@ Poem.create!([
 "Thy Daisy --",
 "Draped for thee!"
 ],
-"linecount": "27"
+"linecount": "27",
+"text_characters": "680",
+    "score": "0.55195",
+    "label": "positive",
+    "sadness": "0.119005",
+    "joy": "0.469112",
+    "fear": "0.145993",
+    "disgust": "0.149309",
+    "anger": "0.269789"
 },
 {
 "title": "I learned -- at least -- what Home could be --",
@@ -15404,7 +17563,15 @@ Poem.create!([
 "Afflicts me -- as a Setting Sun --",
 "Where Dawn -- knows how to be --"
 ],
-"linecount": "31"
+"linecount": "31",
+"text_characters": "965",
+    "score": "-0.552902",
+    "label": "negative",
+    "sadness": "0.322607",
+    "joy": "0.523556",
+    "fear": "0.049889",
+    "disgust": "0.02419",
+    "anger": "0.143989"
 },
 {
 "title": "Their Height in Heaven comforts not --",
@@ -15430,7 +17597,15 @@ Poem.create!([
 "This timid life of Evidence",
 "Keeps pleading -- \"I don't know.\""
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "484",
+    "score": "-0.505569",
+    "label": "negative",
+    "sadness": "0.01678",
+    "joy": "0.72591",
+    "fear": "0.066162",
+    "disgust": "0.038435",
+    "anger": "0.195704"
 },
 {
 "title": "\"Faith\" is a fine invention",
@@ -15441,7 +17616,15 @@ Poem.create!([
 "But Microscopes are prudent",
 "In an Emergency."
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "96",
+    "score": "0.956474",
+    "label": "positive",
+    "sadness": "0.019473",
+    "joy": "0.668865",
+    "fear": "0.188301",
+    "disgust": "0.028358",
+    "anger": "0.017025"
 },
 {
 "title": "How know it from a Summer's Day?",
@@ -15456,7 +17639,15 @@ Poem.create!([
 "Inspect the Admonition",
 "And sunder as they came --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "226",
+    "score": "-0.874295",
+    "label": "negative",
+    "sadness": "0.196161",
+    "joy": "0.249236",
+    "fear": "0.373036",
+    "disgust": "0.091059",
+    "anger": "0.052876"
 },
 {
 "title": "We grow accustomed to the Dark",
@@ -15487,7 +17678,15 @@ Poem.create!([
 "Adjusts itself to Midnight --",
 "And Life steps almost straight."
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "610",
+    "score": "0.654325",
+    "label": "positive",
+    "sadness": "0.24943",
+    "joy": "0.550979",
+    "fear": "0.190869",
+    "disgust": "0.017368",
+    "anger": "0.063312"
 },
 {
 "title": "Through the Dark Sod -- as Education",
@@ -15503,7 +17702,15 @@ Poem.create!([
 "The Mold-life -- all forgotten -- now --",
 "In Ecstasy -- and Dell --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "253",
+    "score": "0.503255",
+    "label": "positive",
+    "sadness": "0.518866",
+    "joy": "0.292261",
+    "fear": "0.131023",
+    "disgust": "0.077186",
+    "anger": "0.067134"
 },
 {
 "title": "Some, too fragile for winter winds",
@@ -15524,7 +17731,15 @@ Poem.create!([
 "Sparrow, unnoticed by the Father --",
 "Lambs for whom time had not a fold."
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "392",
+    "score": "-0.679256",
+    "label": "negative",
+    "sadness": "0.478013",
+    "joy": "0.091263",
+    "fear": "0.093351",
+    "disgust": "0.072811",
+    "anger": "0.458155"
 },
 {
 "title": "Great Streets of silence led away",
@@ -15540,7 +17755,15 @@ Poem.create!([
 "But Epoch had no basis here",
 "For Period exhaled."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "241",
+    "score": "0.677792",
+    "label": "positive",
+    "sadness": "0.261234",
+    "joy": "0.380542",
+    "fear": "0.34724",
+    "disgust": "0.051035",
+    "anger": "0.075908"
 },
 {
 "title": "If I could bribe them by a Rose",
@@ -15569,7 +17792,15 @@ Poem.create!([
 "They may not finally say, Yes --",
 "To drive her from the Hall?"
 ],
-"linecount": "19"
+"linecount": "19",
+"text_characters": "555",
+    "score": "-0.32331",
+    "label": "negative",
+    "sadness": "0.499494",
+    "joy": "0.529413",
+    "fear": "0.710262",
+    "disgust": "0.099936",
+    "anger": "0.074682"
 },
 {
 "title": "If Nature smiles -- the Mother must",
@@ -15580,7 +17811,15 @@ Poem.create!([
 "Of Her eccentric Family --",
 "Is She so much to blame?"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "112",
+    "score": "-0.460414",
+    "label": "negative",
+    "sadness": "0.045436",
+    "joy": "0.781714",
+    "fear": "0.004236",
+    "disgust": "0.044595",
+    "anger": "0.175674"
 },
 {
 "title": "Pain has but one Acquaintance",
@@ -15596,7 +17835,15 @@ Poem.create!([
 "Death tenderly assists Him",
 "And then absconds from Sight."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "200",
+    "score": "-0.87958",
+    "label": "negative",
+    "sadness": "0.897471",
+    "joy": "0.033311",
+    "fear": "0.04745",
+    "disgust": "0.081533",
+    "anger": "0.084344"
 },
 {
 "title": "Remorse -- is Memory -- awake --",
@@ -15617,7 +17864,15 @@ Poem.create!([
 "For 'tis His institution -- and",
 "The Adequate of Hell --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "358",
+    "score": "0.503544",
+    "label": "positive",
+    "sadness": "0.409573",
+    "joy": "0.479189",
+    "fear": "0.032747",
+    "disgust": "0.006822",
+    "anger": "0.13507"
 },
 {
 "title": "God permits industrious Angels",
@@ -15632,7 +17887,15 @@ Poem.create!([
 "I missed mine -- how dreary -- Marbles --",
 "After playing Crown!"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "258",
+    "score": "-0.922131",
+    "label": "negative",
+    "sadness": "0.199597",
+    "joy": "0.65446",
+    "fear": "0.157551",
+    "disgust": "0.00536",
+    "anger": "0.039069"
 },
 {
 "title": "'Twas later when the summer went",
@@ -15647,7 +17910,15 @@ Poem.create!([
 "Yet that pathetic Pendulum",
 "Keeps esoteric Time."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "236",
+    "score": "-0.291784",
+    "label": "negative",
+    "sadness": "0.450375",
+    "joy": "0.310789",
+    "fear": "0.091177",
+    "disgust": "0.094485",
+    "anger": "0.185821"
 },
 {
 "title": "A little Madness in the Spring",
@@ -15660,7 +17931,15 @@ Poem.create!([
 "This whole Experiment of Green --",
 "As if it were his own!"
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "185",
+    "score": "0.870321",
+    "label": "positive",
+    "sadness": "0.102597",
+    "joy": "0.400278",
+    "fear": "0.115837",
+    "disgust": "0.041182",
+    "anger": "0.477732"
 },
 {
 "title": "There is a flower that Bees prefer",
@@ -15706,7 +17985,15 @@ Poem.create!([
 "Nor even of Defeat -- aware --",
 "What cancelled by the Frost --"
 ],
-"linecount": "32"
+"linecount": "32",
+"text_characters": "951",
+    "score": "0.34988",
+    "label": "positive",
+    "sadness": "0.016797",
+    "joy": "0.810068",
+    "fear": "0.009147",
+    "disgust": "0.08975",
+    "anger": "0.113996"
 },
 {
 "title": "As if some little Arctic flower",
@@ -15725,7 +18012,15 @@ Poem.create!([
 "What then? Why nothing,",
 "Only, your inference therefrom!"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "342",
+    "score": "0.409614",
+    "label": "positive",
+    "sadness": "0.094528",
+    "joy": "0.776518",
+    "fear": "0.071369",
+    "disgust": "0.028169",
+    "anger": "0.061122"
 },
 {
 "title": "Twice had Summer her fair Verdure",
@@ -15741,7 +18036,15 @@ Poem.create!([
 "Nature, Had'st thou not a Berry",
 "For thy wandering Bird?"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "226",
+    "score": "-0.559842",
+    "label": "negative",
+    "sadness": "0.111742",
+    "joy": "0.616",
+    "fear": "0.095569",
+    "disgust": "0.130064",
+    "anger": "0.111667"
 },
 {
 "title": "By a flower -- By a letter",
@@ -15757,7 +18060,15 @@ Poem.create!([
 "Never mind the sooty faces",
 "Tugging at the Forge!"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "202",
+    "score": "0.871858",
+    "label": "positive",
+    "sadness": "0.058355",
+    "joy": "0.859717",
+    "fear": "0.05908",
+    "disgust": "0.0178",
+    "anger": "0.011078"
 },
 {
 "title": "How Human Nature dotes",
@@ -15779,7 +18090,15 @@ Poem.create!([
 "Go we anywhere",
 "Creation after this?"
 ],
-"linecount": "13"
+"linecount": "13",
+"text_characters": "298",
+    "score": "-0.356303",
+    "label": "negative",
+    "sadness": "0.051668",
+    "joy": "0.557215",
+    "fear": "0.0384",
+    "disgust": "0.101679",
+    "anger": "0.182858"
 },
 {
 "title": "The Mountain sat upon the Plain",
@@ -15795,7 +18114,15 @@ Poem.create!([
 "Grandfather of the Days is He",
 "Of Dawn, the Ancestor --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "232",
+    "score": "0",
+    "label": "neutral",
+    "sadness": "0.097",
+    "joy": "0.583165",
+    "fear": "0.097955",
+    "disgust": "0.206744",
+    "anger": "0.105636"
 },
 {
 "title": "Ah, Moon -- and Star!",
@@ -15821,7 +18148,15 @@ Poem.create!([
 "He -- is more than a firmament -- from Me --",
 "So I can never go!"
 ],
-"linecount": "17"
+"linecount": "17",
+"text_characters": "415",
+    "score": "0.456012",
+    "label": "positive",
+    "sadness": "0.068108",
+    "joy": "0.600631",
+    "fear": "0.063576",
+    "disgust": "0.148924",
+    "anger": "0.124176"
 },
 {
 "title": "I see thee better -- in the Dark --",
@@ -15847,7 +18182,15 @@ Poem.create!([
 "It deem it be -- Continually --",
 "At the Meridian?"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "485",
+    "score": "0.734254",
+    "label": "positive",
+    "sadness": "0.14441",
+    "joy": "0.668948",
+    "fear": "0.155701",
+    "disgust": "0.035631",
+    "anger": "0.044205"
 },
 {
 "title": "The Snow that never drifts --",
@@ -15873,7 +18216,15 @@ Poem.create!([
 "We buy with contrast -- Pang is good",
 "As near as memory --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "429",
+    "score": "-0.403338",
+    "label": "negative",
+    "sadness": "0.37513",
+    "joy": "0.568861",
+    "fear": "0.016846",
+    "disgust": "0.018938",
+    "anger": "0.04761"
 },
 {
 "title": "One Year ago -- jots what?",
@@ -15887,7 +18238,15 @@ Poem.create!([
 "",
 "Such Anniversary shall be --"
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "174",
+    "score": "0.582503",
+    "label": "positive",
+    "sadness": "0.323973",
+    "joy": "0.380714",
+    "fear": "0.044934",
+    "disgust": "0.057269",
+    "anger": "0.331911"
 },
 {
 "title": "We thirst at first -- 'tis Nature's Act --",
@@ -15903,7 +18262,15 @@ Poem.create!([
 "Is that Great Water in the West --",
 "Termed Immortality --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "232",
+    "score": "0.842312",
+    "label": "positive",
+    "sadness": "0.268647",
+    "joy": "0.574284",
+    "fear": "0.064627",
+    "disgust": "0.117694",
+    "anger": "0.056806"
 },
 {
 "title": "Nature affects to be sedate",
@@ -15919,7 +18286,15 @@ Poem.create!([
 "Behold our spacious Citizen",
 "Unto a Juggler turned --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "201",
+    "score": "0.691613",
+    "label": "positive",
+    "sadness": "0.068484",
+    "joy": "0.550235",
+    "fear": "0.029639",
+    "disgust": "0.091815",
+    "anger": "0.207145"
 },
 {
 "title": "We dream -- it is good we are dreaming --",
@@ -15945,7 +18320,15 @@ Poem.create!([
 "And perhaps a phrase in Egyptian --",
 "It's prudenter -- to dream --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "532",
+    "score": "-0.534331",
+    "label": "negative",
+    "sadness": "0.527789",
+    "joy": "0.049414",
+    "fear": "0.187581",
+    "disgust": "0.137227",
+    "anger": "0.434627"
 },
 {
 "title": "She's happy, with a new Content --",
@@ -15961,7 +18344,15 @@ Poem.create!([
 "That Heaven permit so meek as her --",
 "To such a Fate -- to Minister."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "287",
+    "score": "0.772687",
+    "label": "positive",
+    "sadness": "0.129293",
+    "joy": "0.821806",
+    "fear": "0.014765",
+    "disgust": "0.016058",
+    "anger": "0.006242"
 },
 {
 "title": "Undue Significance a starving man attaches",
@@ -15978,7 +18369,15 @@ Poem.create!([
 "In the Receipt -- It was the Distance --",
 "Was Savory --"
 ],
-"linecount": "9"
+"linecount": "9",
+"text_characters": "252",
+    "score": "0.435945",
+    "label": "positive",
+    "sadness": "0.2092",
+    "joy": "0.528704",
+    "fear": "0.111295",
+    "disgust": "0.060464",
+    "anger": "0.190087"
 },
 {
 "title": "Snow flakes.",
@@ -15995,7 +18394,15 @@ Poem.create!([
 "And ten of my once stately toes",
 "Are marshalled for a jig!"
 ],
-"linecount": "9"
+"linecount": "9",
+"text_characters": "233",
+    "score": "0.260068",
+    "label": "positive",
+    "sadness": "0.071631",
+    "joy": "0.60688",
+    "fear": "0.201804",
+    "disgust": "0.079534",
+    "anger": "0.118871"
 },
 {
 "title": "A great Hope fell",
@@ -16022,7 +18429,15 @@ Poem.create!([
 "Until the tender Carpenter",
 "Perpetual nail it down --"
 ],
-"linecount": "17"
+"linecount": "17",
+"text_characters": "443",
+    "score": "-0.902452",
+    "label": "negative",
+    "sadness": "0.363934",
+    "joy": "0.353232",
+    "fear": "0.257057",
+    "disgust": "0.080675",
+    "anger": "0.08017"
 },
 {
 "title": "Just so -- Jesus -- raps",
@@ -16040,7 +18455,15 @@ Poem.create!([
 "Patient -- upon the steps -- until then --",
 "Hears!  I am knocking -- low at thee."
 ],
-"linecount": "11"
+"linecount": "11",
+"text_characters": "340",
+    "score": "0.544688",
+    "label": "positive",
+    "sadness": "0.211011",
+    "joy": "0.354704",
+    "fear": "0.184951",
+    "disgust": "0.298404",
+    "anger": "0.142169"
 },
 {
 "title": "Rearrange a \"Wife's\" affection!",
@@ -16071,7 +18494,15 @@ Poem.create!([
 "Till the Day its Weary Keeper",
 "Leads it through the Grave to thee."
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "642",
+    "score": "0.527531",
+    "label": "positive",
+    "sadness": "0.529349",
+    "joy": "0.600818",
+    "fear": "0.121735",
+    "disgust": "0.115738",
+    "anger": "0.116466"
 },
 {
 "title": "Nature assigns the Sun --",
@@ -16082,7 +18513,15 @@ Poem.create!([
 "Nature cannot enact a Friend --",
 "That -- is Astrology."
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "103",
+    "score": "0.528035",
+    "label": "positive",
+    "sadness": "0.050057",
+    "joy": "0.84267",
+    "fear": "0.025488",
+    "disgust": "0.01693",
+    "anger": "0.074441"
 },
 {
 "title": "The One who could repeat the Summer day",
@@ -16100,7 +18539,15 @@ Poem.create!([
 "And Occident -- become Unknown --",
 "His Name -- remain --"
 ],
-"linecount": "9"
+"linecount": "9",
+"text_characters": "308",
+    "score": "0.579722",
+    "label": "positive",
+    "sadness": "0.103978",
+    "joy": "0.65569",
+    "fear": "0.121767",
+    "disgust": "0.020359",
+    "anger": "0.0043853"
 },
 {
 "title": "The Heaven vests for Each",
@@ -16126,7 +18573,15 @@ Poem.create!([
 "Enabling the minutest --",
 "And furthest -- to adore --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "430",
+    "score": "-0.786171",
+    "label": "negative",
+    "sadness": "0.095984",
+    "joy": "0.615297",
+    "fear": "0.24374",
+    "disgust": "0.009217",
+    "anger": "0.116841"
 },
 {
 "title": "'Tis One by One -- the Father counts --",
@@ -16152,7 +18607,15 @@ Poem.create!([
 "And every separate Urchin's Sum --",
 "Is fashioned for his hand --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "476",
+    "score": "0.855764",
+    "label": "positive",
+    "sadness": "0.252802",
+    "joy": "0.47901",
+    "fear": "0.040785",
+    "disgust": "0.170417",
+    "anger": "0.146451"
 },
 {
 "title": "And this of all my Hopes",
@@ -16168,7 +18631,15 @@ Poem.create!([
 "Never a Worm so confident",
 "Bored at so brave a Root"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "207",
+    "score": "0.555553",
+    "label": "positive",
+    "sadness": "0.594761",
+    "joy": "0.275284",
+    "fear": "0.171446",
+    "disgust": "0.053994",
+    "anger": "0.027324"
 },
 {
 "title": "Water makes many Beds",
@@ -16183,7 +18654,15 @@ Poem.create!([
 "Whose Amplitude no end invades --",
 "Whose Axis never comes."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "213",
+    "score": "-0.948323",
+    "label": "negative",
+    "sadness": "0.361338",
+    "joy": "0.10275",
+    "fear": "0.165319",
+    "disgust": "0.516536",
+    "anger": "0.133055"
 },
 {
 "title": "\"Heavenly Father\" -- take to thee",
@@ -16198,7 +18677,15 @@ Poem.create!([
 "We apologize to thee",
 "For thine own Duplicity --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "223",
+    "score": "0.752598",
+    "label": "positive",
+    "sadness": "0.266664",
+    "joy": "0.433429",
+    "fear": "0.077844",
+    "disgust": "0.091987",
+    "anger": "0.107088"
 },
 {
 "title": "How many Flowers fail in Wood",
@@ -16214,7 +18701,15 @@ Poem.create!([
 "Unconscious of the Scarlet Freight --",
 "It bear to Other Eyes --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "235",
+    "score": "-0.522696",
+    "label": "negative",
+    "sadness": "0.276626",
+    "joy": "0.603027",
+    "fear": "0.059121",
+    "disgust": "0.075391",
+    "anger": "0.050809"
 },
 {
 "title": "I many times thought Peace had come",
@@ -16230,7 +18725,15 @@ Poem.create!([
 "How many the fictitious Shores --",
 "Before the Harbor be --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "249",
+    "score": "-0.538846",
+    "label": "negative",
+    "sadness": "0.77742",
+    "joy": "0.082163",
+    "fear": "0.118765",
+    "disgust": "0.076633",
+    "anger": "0.151294"
 },
 {
 "title": "You see I cannot see -- your lifetime",
@@ -16253,7 +18756,15 @@ Poem.create!([
 "Teasing the want --",
 "It -- only -- can suffice!"
 ],
-"linecount": "15"
+"linecount": "15",
+"text_characters": "421",
+    "score": "-0.598407",
+    "label": "negative",
+    "sadness": "0.65335",
+    "joy": "0.108479",
+    "fear": "0.321798",
+    "disgust": "0.106354",
+    "anger": "0.028685"
 },
 {
 "title": "Suspense -- is Hostiler than Death --",
@@ -16269,7 +18780,15 @@ Poem.create!([
 "Annihilation -- plated fresh",
 "With Immortality --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "240",
+    "score": "-0.512197",
+    "label": "negative",
+    "sadness": "0.712729",
+    "joy": "0.020116",
+    "fear": "0.34569",
+    "disgust": "0.06603",
+    "anger": "0.158552"
 },
 {
 "title": "So much of Heaven has gone from Earth",
@@ -16290,7 +18809,15 @@ Poem.create!([
 "Unless you leave him -- then return",
 "And he has hauled away."
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "344",
+    "score": "-0.451868",
+    "label": "negative",
+    "sadness": "0.304855",
+    "joy": "0.103241",
+    "fear": "0.34569",
+    "disgust": "0.338994",
+    "anger": "0.490682"
 },
 {
 "title": "The Fact that Earth is Heaven --",
@@ -16305,7 +18832,15 @@ Poem.create!([
 "But that it would affront us",
 "To dwell in such a place --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "210",
+    "score": "0.414132",
+    "label": "positive",
+    "sadness": "0.034782",
+    "joy": "0.591811",
+    "fear": "0.039926",
+    "disgust": "0.015915",
+    "anger": "0.174686"
 },
 {
 "title": "To tell the Beauty would decrease",
@@ -16320,7 +18855,15 @@ Poem.create!([
 "A Rapture as of Legacies --",
 "Of introspective Mines --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "229",
+    "score": "0.469813",
+    "label": "positive",
+    "sadness": "0.382671",
+    "joy": "0.407679",
+    "fear": "0.044994",
+    "disgust": "0.083693",
+    "anger": "0.198145"
 },
 {
 "title": "So much Summer",
@@ -16339,7 +18882,15 @@ Poem.create!([
 "A Robin's Larder",
 "Would suffice to stow --"
 ],
-"linecount": "11"
+"linecount": "11",
+"text_characters": "204",
+    "score": "-0.368006",
+    "label": "negative",
+    "sadness": "0.060602",
+    "joy": "0.822782",
+    "fear": "0.020638",
+    "disgust": "0.059241",
+    "anger": "0.052599"
 },
 {
 "title": "In this short Life",
@@ -16350,7 +18901,15 @@ Poem.create!([
 "How much -- how little -- is",
 "Within our power"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "88",
+    "score": "0.497322",
+    "label": "positive",
+    "sadness": "0.43538",
+    "joy": "0.32738",
+    "fear": "0.184468",
+    "disgust": "0.041368",
+    "anger": "0.047343"
 },
 {
 "title": "Trusty as the stars",
@@ -16365,7 +18924,15 @@ Poem.create!([
 "Makes a world's suspense",
 "Perish and rejoice."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "185",
+    "score": "0.956638",
+    "label": "positive",
+    "sadness": "0.127933",
+    "joy": "0.752095",
+    "fear": "0.091618",
+    "disgust": "0.022355",
+    "anger": "0.044495"
 },
 {
 "title": "Bereavement in their death to feel",
@@ -16386,7 +18953,15 @@ Poem.create!([
 "In dying -- 'tis as if Our Souls",
 "Absconded -- suddenly --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "375",
+    "score": "-0.504455",
+    "label": "negative",
+    "sadness": "0.642106",
+    "joy": "0.078705",
+    "fear": "0.42156",
+    "disgust": "0.015103",
+    "anger": "0.064295"
 },
 {
 "title": "Birthday of but a single pang",
@@ -16397,7 +18972,15 @@ Poem.create!([
 "Afflictive is the Adjective",
 "But affluent the doom --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "113",
+    "score": "0.337791",
+    "label": "positive",
+    "sadness": "0.251294",
+    "joy": "0.547345",
+    "fear": "0.167486",
+    "disgust": "0.013605",
+    "anger": "0.075129"
 },
 {
 "title": "How the Waters closed above Him",
@@ -16413,7 +18996,15 @@ Poem.create!([
 "Whose unclaimed Hat and Jacket",
 "Sum the History --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "220",
+    "score": "-0.435657",
+    "label": "negative",
+    "sadness": "0.143755",
+    "joy": "0.543132",
+    "fear": "0.089956",
+    "disgust": "0.189061",
+    "anger": "0.033271"
 },
 {
 "title": "Her sovereign People",
@@ -16424,7 +19015,15 @@ Poem.create!([
 "And is as fond of signifying",
 "As if fallible --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "88",
+    "score": "0.875418",
+    "label": "positive",
+    "sadness": "0.106481",
+    "joy": "0.624665",
+    "fear": "0.033654",
+    "disgust": "0.110243",
+    "anger": "0.10077"
 },
 {
 "title": "By homely gift and hindered Words",
@@ -16436,7 +19035,15 @@ Poem.create!([
 "\"Nothing\" is the force",
 "That renovates the World --"
 ],
-"linecount": "5"
+"linecount": "5",
+"text_characters": "120",
+    "score": "0.594276",
+    "label": "positive",
+    "sadness": "0.192879",
+    "joy": "0.698732",
+    "fear": "0.029443",
+    "disgust": "0.041741",
+    "anger": "0.06706"
 },
 {
 "title": "'Twas just this time, last year, I died.",
@@ -16472,7 +19079,15 @@ Poem.create!([
 "How just this time, some perfect year --",
 "Themself, should come to me --"
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "766",
+    "score": "-0.514983",
+    "label": "negative",
+    "sadness": "0.699046",
+    "joy": "0.190751",
+    "fear": "0.070991",
+    "disgust": "0.050765",
+    "anger": "0.120329"
 },
 {
 "title": "Tho' I get home how late -- how late",
@@ -16493,7 +19108,15 @@ Poem.create!([
 "And what itself, will say to me --",
 "Beguiles the Centuries of way!"
 ],
-"linecount": "13"
+"linecount": "13",
+"text_characters": "463",
+    "score": "-0.3455",
+    "label": "negative",
+    "sadness": "0.596645",
+    "joy": "0.108434",
+    "fear": "0.29055",
+    "disgust": "0.080639",
+    "anger": "0.200212"
 },
 {
 "title": "Which is best?  Heaven --",
@@ -16510,7 +19133,15 @@ Poem.create!([
 "Or may not",
 "Too late to choose again."
 ],
-"linecount": "9"
+"linecount": "9",
+"text_characters": "204",
+    "score": "-0.746498",
+    "label": "negative",
+    "sadness": "0.097334",
+    "joy": "0.613216",
+    "fear": "0.037823",
+    "disgust": "0.040615",
+    "anger": "0.10672"
 },
 {
 "title": "Of Life to own --",
@@ -16520,7 +19151,15 @@ Poem.create!([
 "From Life to draw --",
 "But never tough the reservoir --"
 ],
-"linecount": "3"
+"linecount": "3",
+"text_characters": "71",
+    "score": "0.538677",
+    "label": "positive",
+    "sadness": "0.164241",
+    "joy": "0.722269",
+    "fear": "0.036335",
+    "disgust": "0.024072",
+    "anger": "0.03493"
 },
 {
 "title": "The Stars are old, that stood for me --",
@@ -16536,7 +19175,15 @@ Poem.create!([
 "But vanquished her with my defeat",
 "'Twas Victory was slain."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "229",
+    "score": "-0.516357",
+    "label": "negative",
+    "sadness": "0.185943",
+    "joy": "0.661114",
+    "fear": "0.03025",
+    "disgust": "0.106185",
+    "anger": "0.049274"
 },
 {
 "title": "When Memory is full",
@@ -16547,7 +19194,15 @@ Poem.create!([
 "This Morning's finest syllable",
 "Presumptuous Evening said --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "105",
+    "score": "0.484517",
+    "label": "positive",
+    "sadness": "0.192258",
+    "joy": "0.767852",
+    "fear": "0.005761",
+    "disgust": "0.01115",
+    "anger": "0.020178"
 },
 {
 "title": "Lad of Athens, faithful be",
@@ -16558,7 +19213,15 @@ Poem.create!([
 "And Mystery --",
 "All the rest is Perjury --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "80",
+    "score": "-0.604602",
+    "label": "negative",
+    "sadness": "0.218286",
+    "joy": "0.168066",
+    "fear": "0.06076",
+    "disgust": "0.095689",
+    "anger": "0.094687"
 },
 {
 "title": "A Wife -- at daybreak I shall be",
@@ -16579,7 +19242,15 @@ Poem.create!([
 "Eternity, I'm coming -- Sire,",
 "Savior -- I've seen the face -- before!"
 ],
-"linecount": "13"
+"linecount": "13",
+"text_characters": "458",
+    "score": "0.528521",
+    "label": "positive",
+    "sadness": "0.073144",
+    "joy": "0.796219",
+    "fear": "0.064655",
+    "disgust": "0.044001",
+    "anger": "0.02537"
 },
 {
 "title": "Going to Heaven!",
@@ -16615,7 +19286,15 @@ Poem.create!([
 "Since the might Autumn afternoon",
 "I left them in the ground."
 ],
-"linecount": "27"
+"linecount": "27",
+"text_characters": "713",
+    "score": "0.589301",
+    "label": "positive",
+    "sadness": "0.109775",
+    "joy": "0.584101",
+    "fear": "0.151107",
+    "disgust": "0.044252",
+    "anger": "0.15023"
 },
 {
 "title": "Funny -- to be a Century",
@@ -16631,7 +19310,15 @@ Poem.create!([
 "This Bashful Globe of Ours would be --",
 "So dainty of Publicity --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "274",
+    "score": "-0.70952",
+    "label": "negative",
+    "sadness": "0.37849",
+    "joy": "0.461194",
+    "fear": "0.075291",
+    "disgust": "0.089979",
+    "anger": "0.121301"
 },
 {
 "title": "If pain for peace prepares",
@@ -16653,7 +19340,15 @@ Poem.create!([
 "On our developed eyes",
 "Noons blaze!"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "259",
+    "score": "-0.408499",
+    "label": "negative",
+    "sadness": "0.150125",
+    "joy": "0.710617",
+    "fear": "0.088461",
+    "disgust": "0.026383",
+    "anger": "0.065334"
 },
 {
 "title": "Dying at my music!",
@@ -16666,7 +19361,15 @@ Poem.create!([
 "Ritardando!",
 "Phials left, and the Sun!"
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "129",
+    "score": "-0.434211",
+    "label": "negative",
+    "sadness": "0.677469",
+    "joy": "0.103621",
+    "fear": "0.070527",
+    "disgust": "0.013798",
+    "anger": "0.040414"
 },
 {
 "title": "Her spirit rose to such a height",
@@ -16679,7 +19382,15 @@ Poem.create!([
 "Than merit the ethereal scorn",
 "That effervesced from her."
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "179",
+    "score": "0.621211",
+    "label": "positive",
+    "sadness": "0.210231",
+    "joy": "0.239819",
+    "fear": "0.370149",
+    "disgust": "0.15197",
+    "anger": "0.231748"
 },
 {
 "title": "Further in Summer than the Birds",
@@ -16705,7 +19416,15 @@ Poem.create!([
 "Yet a Druidic Difference",
 "Enhances Nature now"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "378",
+    "score": "0.263864",
+    "label": "positive",
+    "sadness": "0.590313",
+    "joy": "0.323431",
+    "fear": "0.006644",
+    "disgust": "0.034604",
+    "anger": "0.108831"
 },
 {
 "title": "The stem of a departed Flower",
@@ -16716,7 +19435,15 @@ Poem.create!([
 "The Bearer from an Emerald Court",
 "Of a Despatch of Pink."
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "110",
+    "score": "0",
+    "label": "neutral",
+    "sadness": "0.455893",
+    "joy": "0.281966",
+    "fear": "0.073696",
+    "disgust": "0.071143",
+    "anger": "0.11804"
 },
 {
 "title": "As Summer into Autumn slips",
@@ -16737,7 +19464,15 @@ Poem.create!([
 "The Circumvention of the Shaft",
 "Of Life's Declivity."
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "322",
+    "score": "-0.492149",
+    "label": "negative",
+    "sadness": "0.345947",
+    "joy": "0.619338",
+    "fear": "0.024563",
+    "disgust": "0.013043",
+    "anger": "0.017459"
 },
 {
 "title": "Whatever it is -- she has tried it --",
@@ -16758,7 +19493,15 @@ Poem.create!([
 "Give her for her Transgression",
 "License to think of us --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "336",
+    "score": "-0.913225",
+    "label": "negative",
+    "sadness": "0.733075",
+    "joy": "0.211056",
+    "fear": "0.065518",
+    "disgust": "0.038105",
+    "anger": "0.059523"
 },
 {
 "title": "Oh Future! thou secreted peace",
@@ -16773,7 +19516,15 @@ Poem.create!([
 "To balk thee of thy sacred Prey --",
 "Advancing to thy Den --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "236",
+    "score": "0.453563",
+    "label": "positive",
+    "sadness": "0.129379",
+    "joy": "0.646093",
+    "fear": "0.071875",
+    "disgust": "0.023582",
+    "anger": "0.074122"
 },
 {
 "title": "Said Death to Passion",
@@ -16790,7 +19541,15 @@ Poem.create!([
 "Resituated in the West",
 "And the Debate was done."
 ],
-"linecount": "9"
+"linecount": "9",
+"text_characters": "233",
+    "score": "-0.429143",
+    "label": "negative",
+    "sadness": "0.341672",
+    "joy": "0.413119",
+    "fear": "0.058427",
+    "disgust": "0.167025",
+    "anger": "0.158247"
 },
 {
 "title": "She rose as high as His Occasion",
@@ -16801,7 +19560,15 @@ Poem.create!([
 "And lower lay in low Westminster",
 "For Her brief Crest --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "112",
+    "score": "0",
+    "label": "neutral",
+    "sadness": "0.418948",
+    "joy": "0.049007",
+    "fear": "0.2947",
+    "disgust": "0.377467",
+    "anger": "0.150607"
 },
 {
 "title": "Estranged from Beauty -- none can be --",
@@ -16812,7 +19579,15 @@ Poem.create!([
 "And power to be finite ceased",
 "Before Identity was leased."
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "123",
+    "score": "0",
+    "label": "neutral",
+    "sadness": "0.061134",
+    "joy": "0.685411",
+    "fear": "0.041228",
+    "disgust": "0.024306",
+    "anger": "0.129646"
 },
 {
 "title": "From all the Jails the Boys and Girls",
@@ -16828,7 +19603,15 @@ Poem.create!([
 "Alas -- that Frowns should lie in wait",
 "For such a Foe as this --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "234",
+    "score": "-0.542955",
+    "label": "negative",
+    "sadness": "0.030054",
+    "joy": "0.66701",
+    "fear": "0.010331",
+    "disgust": "0.084735",
+    "anger": "0.285557"
 },
 {
 "title": "He strained my faith",
@@ -16854,7 +19637,15 @@ Poem.create!([
 "Jesus -- it's your little \"John\"!",
 "Don't you know -- me?"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "388",
+    "score": "-0.818469",
+    "label": "negative",
+    "sadness": "0.600098",
+    "joy": "0.542253",
+    "fear": "0.158972",
+    "disgust": "0.118644",
+    "anger": "0.160096"
 },
 {
 "title": "Heaven is so far of the Mind",
@@ -16870,7 +19661,15 @@ Poem.create!([
 "To Him of adequate desire",
 "No further 'tis, than Here --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "237",
+    "score": "0.392439",
+    "label": "positive",
+    "sadness": "0.038108",
+    "joy": "0.665133",
+    "fear": "0.020717",
+    "disgust": "0.03665",
+    "anger": "0.242376"
 },
 {
 "title": "I think that the Root of the Wind is Water --",
@@ -16885,7 +19684,15 @@ Poem.create!([
 "There is a maritime conviction",
 "In the Atmosphere --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "231",
+"score": "0.338675",
+"label": "positive",
+"sadness": "0.31798",
+"joy": "0.475703",
+"fear": "0.151594",
+"disgust": "0.019338",
+"anger": "0.089199"
 },
 {
 "title": "\"Lethe\" in my flower,",
@@ -16901,7 +19708,15 @@ Poem.create!([
 "Jupiter!  my father!",
 "I perceive the rose!"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "169",
+"score": "0.921156",
+"label": "positive",
+"sadness": "0.051557",
+"joy": "0.722235",
+"fear": "0.059416",
+"disgust": "0.10235",
+"anger": "0.067209"
 },
 {
 "title": "Pain -- has an Element of Blank --",
@@ -16917,7 +19732,15 @@ Poem.create!([
 "Its Past -- enlightened to perceive",
 "New Periods -- of Pain."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "229",
+"score": "-0.489106",
+"label": "negative",
+"sadness": "0.754047",
+"joy": "0.061082",
+"fear": "0.300674",
+"disgust": "0.004709",
+"anger": "0.032613"
 },
 {
 "title": "His Heart was darker than the starless night",
@@ -16928,7 +19751,15 @@ Poem.create!([
 "But in this black Receptacle",
 "Can be no Bode of Dawn"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "121",
+"score": "-0.720532",
+"label": "negative",
+"sadness": "0.253676",
+"joy": "0.294094",
+"fear": "0.47311",
+"disgust": "0.050795",
+"anger": "0.01926"
 },
 {
 "title": "It can't be \"Summer\"!",
@@ -16945,7 +19776,15 @@ Poem.create!([
 "So Sunset shuts my question down",
 "With Cuffs of Chrysolite!"
 ],
-"linecount": "10"
+"linecount": "10",
+"text_characters": "274",
+"score": "-0.37128",
+"label": "negative",
+"sadness": "0.153998",
+"joy": "0.562676",
+"fear": "0.078165",
+"disgust": "0.066585",
+"anger": "0.490778"
 },
 {
 "title": "In Winter in my Room",
@@ -16995,7 +19834,15 @@ Poem.create!([
 "I set me down",
 "This was a dream."
 ],
-"linecount": "39"
+"linecount": "39",
+"text_characters": "835",
+"score": "-0.509852",
+"label": "negative",
+"sadness": "0.028276",
+"joy": "0.454539",
+"fear": "0.265257",
+"disgust": "0.226728",
+"anger": "0.214208"
 },
 {
 "title": "I've known a Heaven, like a Tent",
@@ -17020,7 +19867,15 @@ Poem.create!([
 "A plash of Oars, a Gaiety --",
 "Then swallowed up, of View."
 ],
-"linecount": "17"
+"linecount": "17",
+"text_characters": "483",
+"score": "-0.348869",
+"label": "negative",
+"sadness": "0.036793",
+"joy": "0.549976",
+"fear": "0.016386",
+"disgust": "0.287867",
+"anger": "0.225767"
 },
 {
 "title": "\"Hope\" is the thing with feathers",
@@ -17041,7 +19896,15 @@ Poem.create!([
 "Yet, never, in Extremity,",
 "It asked a crumb -- of Me."
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "382",
+"score": "-0.620023",
+"label": "negative",
+"sadness": "0.174217",
+"joy": "0.544609",
+"fear": "0.260615",
+"disgust": "0.005001",
+"anger": "0.102897"
 },
 {
 "title": "Her final Summer was it --",
@@ -17067,7 +19930,15 @@ Poem.create!([
 "So busy was she -- finishing --",
 "So leisurely -- were We --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "436",
+"score": "-0.814245",
+"label": "negative",
+"sadness": "0.335229",
+"joy": "0.50196",
+"fear": "0.192851",
+"disgust": "0.007406",
+"anger": "0.034682"
 },
 {
 "title": "The Butterfly upon the Sky,",
@@ -17082,7 +19953,15 @@ Poem.create!([
 "So soar away and never sigh",
 "And that's the way to grieve --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "213",
+"score": "-0.713582",
+"label": "negative",
+"sadness": "0.256399",
+"joy": "0.471069",
+"fear": "0.032104",
+"disgust": "0.229275",
+"anger": "0.072888"
 },
 {
 "title": "My wheel is in the dark!",
@@ -17107,7 +19986,15 @@ Poem.create!([
 "Flinging the problem back",
 "At you and I!"
 ],
-"linecount": "15"
+"linecount": "15",
+"text_characters": "363",
+"score": "-0.657203",
+"label": "negative",
+"sadness": "0.350465",
+"joy": "0.148677",
+"fear": "0.49194",
+"disgust": "0.025638",
+"anger": "0.229685"
 },
 {
 "title": "A loss of something ever felt I --",
@@ -17133,7 +20020,15 @@ Poem.create!([
 "That I am looking oppositely",
 "For the site of the Kingdom of Heaven --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "530",
+"score": "-0.958422",
+"label": "negative",
+"sadness": "0.369408",
+"joy": "0.327877",
+"fear": "0.260368",
+"disgust": "0.031121",
+"anger": "0.203568"
 },
 {
 "title": "It will be Summer -- eventually.",
@@ -17164,7 +20059,15 @@ Poem.create!([
 "Of Priests -- adjust the Symbols --",
 "When Sacrament -- is done --"
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "662",
+"score": "0.852922",
+"label": "positive",
+"sadness": "0.085651",
+"joy": "0.803902",
+"fear": "0.032576",
+"disgust": "0.025361",
+"anger": "0.078784"
 },
 {
 "title": "Summer for thee, grant I may be",
@@ -17181,7 +20084,15 @@ Poem.create!([
 "Anemone --",
 "Thy flower -- forevermore!"
 ],
-"linecount": "9"
+"linecount": "9",
+"text_characters": "237",
+"score": "0.712344",
+"label": "positive",
+"sadness": "0.049141",
+"joy": "0.817311",
+"fear": "0.083575",
+"disgust": "0.017855",
+"anger": "0.045307"
 },
 {
 "title": "She rose to His Requirement -- dropt",
@@ -17202,7 +20113,15 @@ Poem.create!([
 "But only to Himself -- be known",
 "The Fathoms they abide --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "348",
+"score": "0.326655",
+"label": "positive",
+"sadness": "0.374499",
+"joy": "0.394852",
+"fear": "0.05845",
+"disgust": "0.16024",
+"anger": "0.079697"
 },
 {
 "title": "On this long storm the Rainbow rose",
@@ -17223,7 +20142,15 @@ Poem.create!([
 "The slow -- Archangel's syllables",
 "Must awaken her!"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "395",
+"score": "-0.497608",
+"label": "negative",
+"sadness": "0.05181",
+"joy": "0.871728",
+"fear": "0.042467",
+"disgust": "0.008095",
+"anger": "0.037689"
 },
 {
 "title": "'Twas here my summer paused",
@@ -17239,7 +20166,15 @@ Poem.create!([
 "Go manacle your icicle",
 "Against your Tropic Bride."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "195",
+"score": "0.394452",
+"label": "positive",
+"sadness": "0.214853",
+"joy": "0.699907",
+"fear": "0.034951",
+"disgust": "0.015827",
+"anger": "0.060301"
 },
 {
 "title": "A Murmur in the Trees -- to note",
@@ -17270,7 +20205,15 @@ Poem.create!([
 "So go your Way -- and I'll go Mine --",
 "No fear you'll miss the Road."
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "640",
+"score": "0.340807",
+"label": "positive",
+"sadness": "0.490821",
+"joy": "0.122482",
+"fear": "0.403492",
+"disgust": "0.059625",
+"anger": "0.196841"
 },
 {
 "title": "Did life's penurious length",
@@ -17285,7 +20228,15 @@ Poem.create!([
 "Whose esoteric belt",
 "Protects our sanity."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "197",
+"score": "0.961655",
+"label": "positive",
+"sadness": "0.098309",
+"joy": "0.730621",
+"fear": "0.03109",
+"disgust": "0.143348",
+"anger": "0.035225"
 },
 {
 "title": "I felt my life with both my hands",
@@ -17311,7 +20262,15 @@ Poem.create!([
 "But we might learn to like the Heaven,",
 "As well as our Old Home!\""
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "512",
+"score": "0.68355",
+"label": "positive",
+"sadness": "0.238927",
+"joy": "0.483881",
+"fear": "0.12199",
+"disgust": "0.046975",
+"anger": "0.236977"
 },
 {
 "title": "My life closed twice before its close --",
@@ -17327,7 +20286,15 @@ Poem.create!([
 "Parting is all we know of heaven,",
 "And all we need of hell."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "224",
+"score": "-0.654044",
+"label": "negative",
+"sadness": "0.50426",
+"joy": "0.06506",
+"fear": "0.140169",
+"disgust": "0.117594",
+"anger": "0.481108"
 },
 {
 "title": "How happy is the little Stone",
@@ -17344,7 +20311,15 @@ Poem.create!([
 "Fulfilling absolute Decree",
 "In casual simplicity --"
 ],
-"linecount": "10"
+"linecount": "10",
+"text_characters": "284",
+"score": "0.678878",
+"label": "positive",
+"sadness": "0.122421",
+"joy": "0.831171",
+"fear": "0.014437",
+"disgust": "0.012024",
+"anger": "0.026302"
 },
 {
 "title": "What shall I do when the Summer troubles --",
@@ -17370,7 +20345,15 @@ Poem.create!([
 "I -- do not fly, so wherefore",
 "My Perennial Things?"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "491",
+"score": "-0.700542",
+"label": "negative",
+"sadness": "0.052495",
+"joy": "0.449796",
+"fear": "0.217239",
+"disgust": "0.094864",
+"anger": "0.346087"
 },
 {
 "title": "I know a place where Summer strives",
@@ -17391,7 +20374,15 @@ Poem.create!([
 "That stiffens quietly to Quartz --",
 "Upon her Amber Shoe --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "392",
+"score": "0.396333",
+"label": "positive",
+"sadness": "0.398305",
+"joy": "0.353864",
+"fear": "0.074447",
+"disgust": "0.103986",
+"anger": "0.172159"
 },
 {
 "title": "Pain -- expands the Time --",
@@ -17407,7 +20398,15 @@ Poem.create!([
 "Gamuts of Eternities",
 "Are as they were not --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "184",
+"score": "-0.823786",
+"label": "negative",
+"sadness": "0.722208",
+"joy": "0.061679",
+"fear": "0.142174",
+"disgust": "0.074909",
+"anger": "0.220759"
 },
 {
 "title": "Who were \"the Father and the Son\"",
@@ -17443,7 +20442,15 @@ Poem.create!([
 "We shall have shunned until ashamed",
 "To own the Miracle --"
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "690",
+"score": "0.401423",
+"label": "positive",
+"sadness": "0.140503",
+"joy": "0.719338",
+"fear": "0.003015",
+"disgust": "0.087212",
+"anger": "0.088979"
 },
 {
 "title": "A Tooth upon Our Peace",
@@ -17459,7 +20466,15 @@ Poem.create!([
 "And every sign before the Place",
 "Is Gilt with Sacrifice --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "210",
+"score": "-0.651079",
+"label": "negative",
+"sadness": "0.139876",
+"joy": "0.526098",
+"fear": "0.016463",
+"disgust": "0.042192",
+"anger": "0.363563"
 },
 {
 "title": "Like Rain it sounded till it curved",
@@ -17481,7 +20496,15 @@ Poem.create!([
 "Then like Elijah rode away",
 "Upon a Wheel of Cloud."
 ],
-"linecount": "15"
+"linecount": "15",
+"text_characters": "449",
+"score": "0.410733",
+"label": "positive",
+"sadness": "0.216806",
+"joy": "0.408954",
+"fear": "0.250114",
+"disgust": "0.126817",
+"anger": "0.176374"
 },
 {
 "title": "I rose -- because He sank --",
@@ -17516,7 +20539,15 @@ Poem.create!([
 "And ways I knew not that I knew -- till then --",
 "I lifted Him --"
 ],
-"linecount": "23"
+"linecount": "23",
+"text_characters": "610",
+"score": "0.972855",
+"label": "positive",
+"sadness": "0.254648",
+"joy": "0.635333",
+"fear": "0.03684",
+"disgust": "0.031041",
+"anger": "0.086687"
 },
 {
 "title": "This is the place they hoped before,",
@@ -17531,7 +20562,15 @@ Poem.create!([
 "Before them lies escapeless sea --",
 "The way is closed they came."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "240",
+"score": "-0.42596",
+"label": "negative",
+"sadness": "0.771048",
+"joy": "0.07868",
+"fear": "0.128617",
+"disgust": "0.098433",
+"anger": "0.120154"
 },
 {
 "title": "Angels, in the early morning",
@@ -17547,7 +20586,15 @@ Poem.create!([
 "Stooping -- plucking -- sighing -- flying --",
 "Parched the flowers they bear along."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "272",
+"score": "0.71337",
+"label": "positive",
+"sadness": "0.053404",
+"joy": "0.83814",
+"fear": "0.084262",
+"disgust": "0.011174",
+"anger": "0.025218"
 },
 {
 "title": "Growth of Man -- like Growth of Nature --",
@@ -17573,7 +20620,15 @@ Poem.create!([
 "But Transaction -- is assisted",
 "By no Countenance --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "435",
+"score": "0.281606",
+"label": "positive",
+"sadness": "0.143537",
+"joy": "0.779315",
+"fear": "0.00527",
+"disgust": "0.008057",
+"anger": "0.079377"
 },
 {
 "title": "I went to Heaven",
@@ -17597,7 +20652,15 @@ Poem.create!([
 "'Mong such unique",
 "Society --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "340",
+"score": "0.812706",
+"label": "positive",
+"sadness": "0.100847",
+"joy": "0.734473",
+"fear": "0.039426",
+"disgust": "0.054091",
+"anger": "0.11387"
 },
 {
 "title": "Water, is taught by thirst.",
@@ -17610,7 +20673,15 @@ Poem.create!([
 "Love, by Memorial Mold --",
 "Birds, by the Snow."
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "160",
+"score": "0.608566",
+"label": "positive",
+"sadness": "0.119854",
+"joy": "0.796511",
+"fear": "0.021274",
+"disgust": "0.010809",
+"anger": "0.048184"
 },
 {
 "title": "\"Heaven\" has different Signs -- to me --",
@@ -17641,7 +20712,15 @@ Poem.create!([
 "Adorned, for a Superior Grace --",
 "Not yet, our eyes can see --"
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "614",
+"score": "0.529443",
+"label": "positive",
+"sadness": "0.106343",
+"joy": "0.6582",
+"fear": "0.01248",
+"disgust": "0.093587",
+"anger": "0.194381"
 },
 {
 "title": "Joy to have merited the Pain --",
@@ -17677,7 +20756,15 @@ Poem.create!([
 "And Haunting actualize -- to last",
 "At least -- Eternity --"
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "741",
+"score": "0.403271",
+"label": "positive",
+"sadness": "0.224401",
+"joy": "0.619734",
+"fear": "0.088296",
+"disgust": "0.03014",
+"anger": "0.095149"
 },
 {
 "title": "Death is a Dialogue between",
@@ -17693,7 +20780,15 @@ Poem.create!([
 "Just laying off for evidence",
 "An Overcoat of Clay."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "231",
+"score": "-0.682994",
+"label": "negative",
+"sadness": "0.695057",
+"joy": "0.067542",
+"fear": "0.353631",
+"disgust": "0.055196",
+"anger": "0.074216"
 },
 {
 "title": "From Cocoon forth a Butterfly",
@@ -17730,7 +20825,15 @@ Poem.create!([
 "And Afternoon -- and Butterfly --",
 "Extinguished -- in the Sea --"
 ],
-"linecount": "25"
+"linecount": "25",
+"text_characters": "736",
+"score": "0.28894",
+"label": "positive",
+"sadness": "0.029011",
+"joy": "0.649625",
+"fear": "0.042603",
+"disgust": "0.081546",
+"anger": "0.275051"
 },
 {
 "title": "I suppose the time will come",
@@ -17751,7 +20854,15 @@ Poem.create!([
 "At his new white House the Earth",
 "That, too, halt a little --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "324",
+"score": "0.601457",
+"label": "positive",
+"sadness": "0.190392",
+"joy": "0.561226",
+"fear": "0.153915",
+"disgust": "0.053234",
+"anger": "0.131364"
 },
 {
 "title": "Going to Him! Happy letter!",
@@ -17785,7 +20896,15 @@ Poem.create!([
 "Until tomorrow -- Happy letter!",
 "Gesture Coquette -- and shake your Head!"
 ],
-"linecount": "25"
+"linecount": "25",
+"text_characters": "1009",
+"score": "0.662415",
+"label": "positive",
+"sadness": "0.572247",
+"joy": "0.631105",
+"fear": "0.059533",
+"disgust": "0.084062",
+"anger": "0.130997"
 },
 {
 "title": "The Flower must not blame the Bee",
@@ -17799,7 +20918,15 @@ Poem.create!([
 "Mistress is \"not at home\" -- to say --",
 "To people -- any more!"
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "183",
+"score": "-0.335569",
+"label": "negative",
+"sadness": "0.15506",
+"joy": "0.247765",
+"fear": "0.149268",
+"disgust": "0.080519",
+"anger": "0.576289"
 },
 {
 "title": "When I hoped, I recollect",
@@ -17834,7 +20961,15 @@ Poem.create!([
 "Nature hesitate -- before",
 "Memory and I --"
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "627",
+"score": "-0.631758",
+"label": "negative",
+"sadness": "0.295865",
+"joy": "0.513215",
+"fear": "0.267484",
+"disgust": "0.008979",
+"anger": "0.02162"
 },
 {
 "title": "Summer is shorter than any one --",
@@ -17850,7 +20985,15 @@ Poem.create!([
 "Equally to abhor Delight --",
 "Equally retain him --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "239",
+"score": "-0.487748",
+"label": "negative",
+"sadness": "0.282081",
+"joy": "0.667584",
+"fear": "0.026159",
+"disgust": "0.012147",
+"anger": "0.022877"
 },
 {
 "title": "To flee from memory",
@@ -17865,7 +21008,15 @@ Poem.create!([
 "Of men escaping",
 "From the mind of man"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "160",
+"score": "-0.651475",
+"label": "negative",
+"sadness": "0.519459",
+"joy": "0.08381",
+"fear": "0.219974",
+"disgust": "0.363531",
+"anger": "0.070553"
 },
 {
 "title": "A Door just opened on a street --",
@@ -17881,7 +21032,15 @@ Poem.create!([
 "Lost doubly -- but by contrast -- most --",
 "Informing -- misery --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "266",
+"score": "0.289698",
+"label": "positive",
+"sadness": "0.635118",
+"joy": "0.021725",
+"fear": "0.152211",
+"disgust": "0.0781",
+"anger": "0.367144"
 },
 {
 "title": "A Drop Fell on the Apple Tree --",
@@ -17907,7 +21066,15 @@ Poem.create!([
 "Then Orient showed a single Flag,",
 "And signed the Fete away --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "512",
+"score": "0.398197",
+"label": "positive",
+"sadness": "0.166626",
+"joy": "0.61759",
+"fear": "0.04695",
+"disgust": "0.131501",
+"anger": "0.13351"
 },
 {
 "title": "Summer -- we all have seen --",
@@ -17928,7 +21095,15 @@ Poem.create!([
 "Unknown as to an Ecstasy",
 "The Embryo endowed --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "303",
+"score": "0.916613",
+"label": "positive",
+"sadness": "0.093734",
+"joy": "0.720266",
+"fear": "0.040616",
+"disgust": "0.023101",
+"anger": "0.068239"
 },
 {
 "title": "This Chasm, Sweet, upon my life",
@@ -17959,7 +21134,15 @@ Poem.create!([
 "A Life quite ready to depart",
 "Can harass me no more --"
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "563",
+"score": "-0.311076",
+"label": "negative",
+"sadness": "0.29062",
+"joy": "0.523458",
+"fear": "0.144292",
+"disgust": "0.045521",
+"anger": "0.110697"
 },
 {
 "title": "An Antiquated Tree",
@@ -17973,7 +21156,15 @@ Poem.create!([
 "Would decorate Oblivion's",
 "Remotest Consulate."
 ],
-"linecount": "7"
+"linecount": "7",
+"text_characters": "180",
+"score": "-0.558309",
+"label": "negative",
+"sadness": "0.065286",
+"joy": "0.405383",
+"fear": "0.038652",
+"disgust": "0.522494",
+"anger": "0.057847"
 },
 {
 "title": "Talk not to me of Summer Trees",
@@ -17988,7 +21179,15 @@ Poem.create!([
 "Whose Bugles call the least of us",
 "To undepicted Realms"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "213",
+"score": "-0.774503",
+"label": "negative",
+"sadness": "0.23202",
+"joy": "0.449613",
+"fear": "0.319454",
+"disgust": "0.093098",
+"anger": "0.031525"
 },
 {
 "title": "It sounded as if the Streets were running",
@@ -18004,7 +21203,15 @@ Poem.create!([
 "Nature was in an Opal Apron,",
 "Mixing fresher Air."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "286",
+"score": "0.441593",
+"label": "positive",
+"sadness": "0.114161",
+"joy": "0.577884",
+"fear": "0.117576",
+"disgust": "0.069858",
+"anger": "0.20282"
 },
 {
 "title": "The Sun and Moon must make their haste --",
@@ -18026,7 +21233,15 @@ Poem.create!([
 "The Lord a Candle entertains",
 "Entirely for Thee --"
 ],
-"linecount": "13"
+"linecount": "13",
+"text_characters": "359",
+"score": "-0.646425",
+"label": "negative",
+"sadness": "0.243944",
+"joy": "0.428182",
+"fear": "0.146753",
+"disgust": "0.285506",
+"anger": "0.049591"
 },
 {
 "title": "The good Will of a Flower",
@@ -18038,7 +21253,15 @@ Poem.create!([
 "Certificate",
 "Of minted Holiness."
 ],
-"linecount": "5"
+"linecount": "5",
+"text_characters": "102",
+"score": "0.768371",
+"label": "positive",
+"sadness": "0.015236",
+"joy": "0.817057",
+"fear": "0.060341",
+"disgust": "0.061571",
+"anger": "0.059937"
 },
 {
 "title": "A happy lip -- breaks sudden",
@@ -18053,7 +21276,15 @@ Poem.create!([
 "Fresh gilded -- to elude the eyes",
 "Unqualified, to scan --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "234",
+"score": "0.721552",
+"label": "positive",
+"sadness": "0.063954",
+"joy": "0.904478",
+"fear": "0.022799",
+"disgust": "0.004655",
+"anger": "0.010525"
 },
 {
 "title": "We talked as Girls do --",
@@ -18079,7 +21310,15 @@ Poem.create!([
 "But Heaven made both, impossible",
 "Before another night."
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "448",
+"score": "0.581963",
+"label": "positive",
+"sadness": "0.132791",
+"joy": "0.661361",
+"fear": "0.009631",
+"disgust": "0.072647",
+"anger": "0.186067"
 },
 {
 "title": "Each Life Converges to some Centre --",
@@ -18110,7 +21349,15 @@ Poem.create!([
 "Eternity enable the endeavoring",
 "Again."
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "515",
+"score": "0.692712",
+"label": "positive",
+"sadness": "0.077646",
+"joy": "0.667818",
+"fear": "0.016531",
+"disgust": "0.061726",
+"anger": "0.241047"
 },
 {
 "title": "To her derided Home",
@@ -18130,7 +21377,15 @@ Poem.create!([
 "\"Come unto me\" the moiety",
 "That wafts the Seraphim --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "317",
+"score": "-0.46053",
+"label": "negative",
+"sadness": "0.062356",
+"joy": "0.876027",
+"fear": "0.010689",
+"disgust": "0.026617",
+"anger": "0.026166"
 },
 {
 "title": "One Day is there of the Series",
@@ -18156,7 +21411,15 @@ Poem.create!([
 "Unto Such, were such Assembly",
 "'Twere Thanksgiving Day."
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "405",
+"score": "-0.474166",
+"label": "negative",
+"sadness": "0.235351",
+"joy": "0.699895",
+"fear": "0.011195",
+"disgust": "0.026064",
+"anger": "0.047661"
 },
 {
 "title": "The Veins of other Flowers",
@@ -18172,7 +21435,15 @@ Poem.create!([
 "While She creates and federates",
 "Without a syllable."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "208",
+"score": "0.783217",
+"label": "positive",
+"sadness": "0.110184",
+"joy": "0.706173",
+"fear": "0.007193",
+"disgust": "0.024138",
+"anger": "0.026542"
 },
 {
 "title": "I know of people in the Grave",
@@ -18188,7 +21459,15 @@ Poem.create!([
 "My right to walk upon the Earth",
 "If they this moment had."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "235",
+"score": "0.614888",
+"label": "positive",
+"sadness": "0.390199",
+"joy": "0.259734",
+"fear": "0.071422",
+"disgust": "0.103499",
+"anger": "0.332276"
 },
 {
 "title": "A Flower will not trouble her, it has so small a Foot,",
@@ -18198,7 +21477,15 @@ Poem.create!([
 "And yet if you compare the Lasts,",
 "Hers is the smallest Boot --"
 ],
-"linecount": "3"
+"linecount": "3",
+"text_characters": "117",
+"score": "0.269914",
+"label": "positive",
+"sadness": "0.473729",
+"joy": "0.221738",
+"fear": "0.052705",
+"disgust": "0.115073",
+"anger": "0.191517"
 },
 {
 "title": "I felt a Funeral, in my Brain,",
@@ -18229,7 +21516,15 @@ Poem.create!([
 "And hit a World, at every plunge,",
 "And Finished knowing -- then --"
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "636",
+"score": "-0.69818",
+"label": "negative",
+"sadness": "0.676074",
+"joy": "0.04782",
+"fear": "0.216626",
+"disgust": "0.032289",
+"anger": "0.299671"
 },
 {
 "title": "Tie the Strings to my Life, My Lord,",
@@ -18255,7 +21550,15 @@ Poem.create!([
 "And kiss the Hills, for me, just once --",
 "Then -- I am ready to go!"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "494",
+"score": "0.731176",
+"label": "positive",
+"sadness": "0.140842",
+"joy": "0.662909",
+"fear": "0.026394",
+"disgust": "0.038152",
+"anger": "0.183812"
 },
 {
 "title": "Our little Kinsmen -- after Rain",
@@ -18276,7 +21579,15 @@ Poem.create!([
 "And left the little Angle Worm",
 "With Modesties enlarged."
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "314",
+"score": "0.302197",
+"label": "positive",
+"sadness": "0.099801",
+"joy": "0.417221",
+"fear": "0.140469",
+"disgust": "0.285293",
+"anger": "0.187682"
 },
 {
 "title": "Through those old Grounds of memory,",
@@ -18299,7 +21610,15 @@ Poem.create!([
 "Convenient to the longing",
 "But otherwise withheld."
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "396",
+"score": "-0.322315",
+"label": "negative",
+"sadness": "0.313697",
+"joy": "0.612649",
+"fear": "0.034335",
+"disgust": "0.013509",
+"anger": "0.022443"
 },
 {
 "title": "\"Faithful to the end\" Amended",
@@ -18327,7 +21646,15 @@ Poem.create!([
 "Those it fits, too fair to wear it --",
 "Try it on Yourself --"
 ],
-"linecount": "17"
+"linecount": "17",
+"text_characters": "433",
+"score": "0.911837",
+"label": "positive",
+"sadness": "0.103021",
+"joy": "0.771426",
+"fear": "0.038379",
+"disgust": "0.029059",
+"anger": "0.06692"
 },
 {
 "title": "Away from Home are some and I --",
@@ -18343,7 +21670,15 @@ Poem.create!([
 "As Children, who remain in Face",
 "The more their Feet retire."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "210",
+"score": "0.789938",
+"label": "positive",
+"sadness": "0.275915",
+"joy": "0.304897",
+"fear": "0.110184",
+"disgust": "0.420921",
+"anger": "0.072634"
 },
 {
 "title": "'Twould ease -- a Butterfly --",
@@ -18367,7 +21702,15 @@ Poem.create!([
 "Ample as the Eye --",
 "Her least attention raise on me --"
 ],
-"linecount": "14"
+"linecount": "14",
+"text_characters": "312",
+"score": "0.632428",
+"label": "positive",
+"sadness": "0.402432",
+"joy": "0.333597",
+"fear": "0.283656",
+"disgust": "0.003996",
+"anger": "0.133456"
 },
 {
 "title": "Flowers -- Well -- if anybody",
@@ -18389,7 +21732,15 @@ Poem.create!([
 "Have a system of aesthetics --",
 "Far superior to mine."
 ],
-"linecount": "14"
+"linecount": "14",
+"text_characters": "428",
+"score": "0.726349",
+"label": "positive",
+"sadness": "0.075337",
+"joy": "0.661804",
+"fear": "0.093009",
+"disgust": "0.083879",
+"anger": "0.158516"
 },
 {
 "title": "I'm sorry for the Dead -- Today --",
@@ -18420,7 +21771,15 @@ Poem.create!([
 "When Men -- and Boys -- and Carts -- and June,",
 "Go down the Fields to \"Hay\" --"
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "650",
+"score": "-0.621254",
+"label": "negative",
+"sadness": "0.669551",
+"joy": "0.09161",
+"fear": "0.053003",
+"disgust": "0.080486",
+"anger": "0.336548"
 },
 {
 "title": "Those fair -- fictitious People",
@@ -18456,7 +21815,15 @@ Poem.create!([
 "Through easy Miracle of Death --",
 "The Way ourself, must come --"
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "679",
+"score": "0.473609",
+"label": "positive",
+"sadness": "0.096331",
+"joy": "0.502931",
+"fear": "0.048217",
+"disgust": "0.281945",
+"anger": "0.225635"
 },
 {
 "title": "If I'm lost -- now",
@@ -18477,7 +21844,15 @@ Poem.create!([
 "You'll know -- Sir -- when the Savior's face",
 "Turns so -- away from you --"
 ],
-"linecount": "13"
+"linecount": "13",
+"text_characters": "409",
+"score": "0.648394",
+"label": "positive",
+"sadness": "0.652041",
+"joy": "0.042878",
+"fear": "0.230126",
+"disgust": "0.260958",
+"anger": "0.109199"
 },
 {
 "title": "The fairest Home I ever knew",
@@ -18489,7 +21864,15 @@ Poem.create!([
 "A spider and a Flower --",
 "A manse of mechlin and of Floes --"
 ],
-"linecount": "5"
+"linecount": "5",
+"text_characters": "139",
+"score": "0",
+"label": "neutral",
+"sadness": "0.030069",
+"joy": "0.496424",
+"fear": "0.359181",
+"disgust": "0.074432",
+"anger": "0.164801"
 },
 {
 "title": "Dying! Dying in the night!",
@@ -18510,7 +21893,15 @@ Poem.create!([
 "I hear her feet upon the stair!",
 "Death won't hurt -- now Dollie's here!"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "388",
+"score": "0.31412",
+"label": "positive",
+"sadness": "0.676813",
+"joy": "0.583766",
+"fear": "0.698551",
+"disgust": "0.676252",
+"anger": "0.682576"
 },
 {
 "title": "How happy I was if I could forget",
@@ -18526,7 +21917,15 @@ Poem.create!([
 "Lose my way like a little Child",
 "And perish of the cold."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "230",
+"score": "-0.865874",
+"label": "negative",
+"sadness": "0.804014",
+"joy": "0.086679",
+"fear": "0.196159",
+"disgust": "0.033763",
+"anger": "0.02267"
 },
 {
 "title": "To mend each tattered Faith",
@@ -18542,7 +21941,15 @@ Poem.create!([
 "'Tis very comfortable indeed",
 "And spacious as before --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "212",
+"score": "0.487806",
+"label": "positive",
+"sadness": "0.039392",
+"joy": "0.651926",
+"fear": "0.280397",
+"disgust": "0.028569",
+"anger": "0.044324"
 },
 {
 "title": "Death leaves Us homesick, who behind,",
@@ -18558,7 +21965,15 @@ Poem.create!([
 "Who something lost, the seeking for",
 "Is all that's left them, now --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "236",
+"score": "-0.874373",
+"label": "negative",
+"sadness": "0.720471",
+"joy": "0.00609",
+"fear": "0.168666",
+"disgust": "0.130091",
+"anger": "0.299033"
 },
 {
 "title": "One Sister have I in our house",
@@ -18597,7 +22012,15 @@ Poem.create!([
 "From out the wide night's numbers --",
 "Sue - forevermore!"
 ],
-"linecount": "27"
+"linecount": "27",
+"text_characters": "688",
+"score": "0.343036",
+"label": "positive",
+"sadness": "0.279394",
+"joy": "0.552555",
+"fear": "0.190381",
+"disgust": "0.044848",
+"anger": "0.109055"
 },
 {
 "title": "The Sun is gay or stark",
@@ -18613,7 +22036,15 @@ Poem.create!([
 "His mighty pleasure suits Us not",
 "It magnifies our Freight"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "201",
+"score": "0.780393",
+"label": "positive",
+"sadness": "0.011443",
+"joy": "0.847708",
+"fear": "0.011583",
+"disgust": "0.035975",
+"anger": "0.116179"
 },
 {
 "title": "The Moon was but a Chin of Gold",
@@ -18644,7 +22075,15 @@ Poem.create!([
 "The Stars -- the Trinkets at Her Belt --",
 "Her Dimities -- of Blue --"
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "591",
+"score": "0.645549",
+"label": "positive",
+"sadness": "0.018514",
+"joy": "0.901786",
+"fear": "0.007253",
+"disgust": "0.058967",
+"anger": "0.024421"
 },
 {
 "title": "Better -- than Music! For I -- who heard it --",
@@ -18680,7 +22119,15 @@ Poem.create!([
 "Humming -- until my faint Rehearsal --",
 "Drop into tune -- around the Throne --"
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "998",
+"score": "0.470057",
+"label": "positive",
+"sadness": "0.103608",
+"joy": "0.717857",
+"fear": "0.072018",
+"disgust": "0.017637",
+"anger": "0.138443"
 },
 {
 "title": "The Moon upon her fluent Route",
@@ -18696,7 +22143,15 @@ Poem.create!([
 "Know that which makes them as forgot",
 "As Dawn forgets them -- now --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "227",
+"score": "0.531327",
+"label": "positive",
+"sadness": "0.216566",
+"joy": "0.482847",
+"fear": "0.060035",
+"disgust": "0.139303",
+"anger": "0.191706"
 },
 {
 "title": "The pretty Rain from those sweet Eaves",
@@ -18712,7 +22167,15 @@ Poem.create!([
 "That vanquished her -- defeated Feat --",
 "Was Fervor's sudden Crown --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "249",
+"score": "0.393031",
+"label": "positive",
+"sadness": "0.012807",
+"joy": "0.82428",
+"fear": "0.146915",
+"disgust": "0.011878",
+"anger": "0.040577"
 },
 {
 "title": "Where Roses would not dare to go,",
@@ -18723,7 +22186,15 @@ Poem.create!([
 "And so I send my Crimson Scouts",
 "To sound the Enemy --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "120",
+"score": "-0.477652",
+"label": "negative",
+"sadness": "0.229555",
+"joy": "0.286849",
+"fear": "0.462951",
+"disgust": "0.00937",
+"anger": "0.117991"
 },
 {
 "title": "She sped as Petals of a Rose",
@@ -18738,7 +22209,15 @@ Poem.create!([
 "But Andes in the Bosoms where",
 "She had begun to lie --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "209",
+"score": "-0.569827",
+"label": "negative",
+"sadness": "0.231871",
+"joy": "0.248352",
+"fear": "0.269473",
+"disgust": "0.077277",
+"anger": "0.400471"
 },
 {
 "title": "Three times -- we parted -- Breath -- and I --",
@@ -18764,7 +22243,15 @@ Poem.create!([
 "Then Sunrise kissed my Chrysalis --",
 "And I stood up -- and lived --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "568",
+"score": "-0.582579",
+"label": "negative",
+"sadness": "0.241063",
+"joy": "0.384218",
+"fear": "0.063937",
+"disgust": "0.324555",
+"anger": "0.17719"
 },
 {
 "title": "Winter under cultivation",
@@ -18773,7 +22260,15 @@ Poem.create!([
 "Winter under cultivation",
 "Is as arable as Spring."
 ],
-"linecount": "2"
+"linecount": "2",
+"text_characters": "48",
+"score": "0",
+"label": "neutral",
+"sadness": "0.322184",
+"joy": "0.616133",
+"fear": "0.020757",
+"disgust": "0.003774",
+"anger": "0.037241"
 },
 {
 "title": "Nature rarer uses Yellow",
@@ -18789,7 +22284,15 @@ Poem.create!([
 "Only scantly and selectly",
 "Like a Lover's Words."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "191",
+"score": "0.858746",
+"label": "positive",
+"sadness": "0.168901",
+"joy": "0.698629",
+"fear": "0.008334",
+"disgust": "0.027329",
+"anger": "0.126899"
 },
 {
 "title": "Some such Butterfly be seen",
@@ -18805,7 +22308,15 @@ Poem.create!([
 "As the Stars -- You knew last Night --",
 "Foreigners -- This Morning --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "253",
+"score": "0.454236",
+"label": "positive",
+"sadness": "0.207655",
+"joy": "0.588292",
+"fear": "0.01646",
+"disgust": "0.06246",
+"anger": "0.088541"
 },
 {
 "title": "Like Men and Women Shadows walk",
@@ -18820,7 +22331,15 @@ Poem.create!([
 "Minuter landscape as Ourselves",
 "And Boroughs where we live --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "232",
+"score": "0.794863",
+"label": "positive",
+"sadness": "0.181673",
+"joy": "0.590467",
+"fear": "0.046097",
+"disgust": "0.188474",
+"anger": "0.063573"
 },
 {
 "title": "For Death -- or rather",
@@ -18841,7 +22360,15 @@ Poem.create!([
 "We know not --",
 "For the Rates -- lie Here --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "273",
+"score": "-0.675965",
+"label": "negative",
+"sadness": "0.52423",
+"joy": "0.340336",
+"fear": "0.008823",
+"disgust": "0.083736",
+"anger": "0.172144"
 },
 {
 "title": "In snow thou comest --",
@@ -18857,7 +22384,15 @@ Poem.create!([
 "That man anew embark to live",
 "Upon the depth of thee."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "234",
+"score": "0.464029",
+"label": "positive",
+"sadness": "0.009312",
+"joy": "0.427621",
+"fear": "0.480423",
+"disgust": "0.034304",
+"anger": "0.011712"
 },
 {
 "title": "Bloom -- is Result -- to meet a Flower",
@@ -18883,7 +22418,15 @@ Poem.create!([
 "To be a Flower, is profound",
 "Responsibility --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "443",
+"score": "-0.519354",
+"label": "negative",
+"sadness": "0.005731",
+"joy": "0.777189",
+"fear": "0.022355",
+"disgust": "0.04355",
+"anger": "0.192328"
 },
 {
 "title": "Winter is good -- his Hoar Delights",
@@ -18899,7 +22442,15 @@ Poem.create!([
 "Invited with Asperity",
 "But welcome when he goes."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "203",
+"score": "0.827701",
+"label": "positive",
+"sadness": "0.025391",
+"joy": "0.922078",
+"fear": "0.015704",
+"disgust": "0.010749",
+"anger": "0.031177"
 },
 {
 "title": "Touch lightly Nature's sweet Guitar",
@@ -18910,7 +22461,15 @@ Poem.create!([
 "Or every Bird will point at thee",
 "Because a Bard too soon --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "124",
+"score": "0.682609",
+"label": "positive",
+"sadness": "0.042905",
+"joy": "0.707503",
+"fear": "0.08085",
+"disgust": "0.011566",
+"anger": "0.197345"
 },
 {
 "title": "When I hoped I feared --",
@@ -18925,7 +22484,15 @@ Poem.create!([
 "He deposes Doom",
 "Who hath suffered him --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "173",
+"score": "-0.826971",
+"label": "negative",
+"sadness": "0.341532",
+"joy": "0.014477",
+"fear": "0.78535",
+"disgust": "0.023273",
+"anger": "0.069383"
 },
 {
 "title": "I watched the Moon around the House",
@@ -18976,7 +22543,15 @@ Poem.create!([
 "To follow her superior Road --",
 "Or its advantage -- Blue --"
 ],
-"linecount": "36"
+"linecount": "36",
+"text_characters": "1034",
+"score": "-0.499313",
+"label": "negative",
+"sadness": "0.044106",
+"joy": "0.650073",
+"fear": "0.013621",
+"disgust": "0.21795",
+"anger": "0.148013"
 },
 {
 "title": "\"Nature\" is what we see --",
@@ -18995,7 +22570,15 @@ Poem.create!([
 "So impotent Our Wisdom is",
 "To her Simplicity."
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "325",
+"score": "0.404675",
+"label": "positive",
+"sadness": "0.018177",
+"joy": "0.865553",
+"fear": "0.015633",
+"disgust": "0.01482",
+"anger": "0.10095"
 },
 {
 "title": "My period had come for Prayer --",
@@ -19026,7 +22609,15 @@ Poem.create!([
 "But awed beyond my errand --",
 "I worshipped -- did not \"pray\" --"
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "592",
+"score": "-0.562603",
+"label": "negative",
+"sadness": "0.231554",
+"joy": "0.086791",
+"fear": "0.464259",
+"disgust": "0.188768",
+"anger": "0.349092"
 },
 {
 "title": "I have a Bird in spring",
@@ -19067,7 +22658,15 @@ Poem.create!([
 "Bright melody for me",
 "Return."
 ],
-"linecount": "30"
+"linecount": "30",
+"text_characters": "610",
+"score": "0.31519",
+"label": "positive",
+"sadness": "0.167982",
+"joy": "0.723692",
+"fear": "0.163925",
+"disgust": "0.061401",
+"anger": "0.06195"
 },
 {
 "title": "Take your Heaven further on",
@@ -19086,7 +22685,15 @@ Poem.create!([
 "Dressed to meet You --",
 "See -- in White!"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "332",
+"score": "0.704318",
+"label": "positive",
+"sadness": "0.016489",
+"joy": "0.651477",
+"fear": "0.043621",
+"disgust": "0.109065",
+"anger": "0.239863"
 },
 {
 "title": "Fame's Boys and Girls, who never die",
@@ -19095,7 +22702,15 @@ Poem.create!([
 "Fame's Boys and Girls, who never die",
 "And are too seldom born --"
 ],
-"linecount": "2"
+"linecount": "2",
+"text_characters": "63",
+"score": "-0.540033",
+"label": "negative",
+"sadness": "0.154399",
+"joy": "0.426721",
+"fear": "0.028722",
+"disgust": "0.309843",
+"anger": "0.119572"
 },
 {
 "title": "Nobody knows this little Rose",
@@ -19114,7 +22729,15 @@ Poem.create!([
 "Ah Little Rose -- how easy",
 "For such as thee to die!"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "315",
+"score": "-0.508992",
+"label": "negative",
+"sadness": "0.439728",
+"joy": "0.127059",
+"fear": "0.46893",
+"disgust": "0.05102",
+"anger": "0.17442"
 },
 {
 "title": "Could that sweet Darkness where they dwell",
@@ -19125,7 +22748,15 @@ Poem.create!([
 "The clamor for their loveliness",
 "Would burst the Loneliness --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "128",
+"score": "0.571655",
+"label": "positive",
+"sadness": "0.780066",
+"joy": "0.149518",
+"fear": "0.043832",
+"disgust": "0.010049",
+"anger": "0.039273"
 },
 {
 "title": "As the Starved Maelstrom laps the Navies",
@@ -19151,7 +22782,15 @@ Poem.create!([
 "For but a Berry of Domingo",
 "And a Torrid Eye."
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "433",
+"score": "0.360027",
+"label": "positive",
+"sadness": "0.401763",
+"joy": "0.426208",
+"fear": "0.064948",
+"disgust": "0.021546",
+"anger": "0.158986"
 },
 {
 "title": "The Bird her punctual music brings",
@@ -19166,7 +22805,15 @@ Poem.create!([
 "But Work might be electric Rest",
 "To those that Magic make --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "244",
+"score": "0.839444",
+"label": "positive",
+"sadness": "0.059208",
+"joy": "0.863383",
+"fear": "0.026545",
+"disgust": "0.010544",
+"anger": "0.034809"
 },
 {
 "title": "A little Snow was here and there",
@@ -19182,7 +22829,15 @@ Poem.create!([
 "For summer too indelible",
 "Too obdurate for Snows --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "232",
+"score": "-0.434075",
+"label": "negative",
+"sadness": "0.399645",
+"joy": "0.560578",
+"fear": "0.039405",
+"disgust": "0.012551",
+"anger": "0.008939"
 },
 {
 "title": "Beauty -- be not caused -- It Is --",
@@ -19199,7 +22854,15 @@ Poem.create!([
 "Deity will see to it",
 "That You never do it --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "219",
+"score": "-0.440025",
+"label": "negative",
+"sadness": "0.075435",
+"joy": "0.557599",
+"fear": "0.084951",
+"disgust": "0.064341",
+"anger": "0.048693"
 },
 {
 "title": "The Road was lit with Moon and star --",
@@ -19214,7 +22877,15 @@ Poem.create!([
 "Unknown his shimmering ultimate --",
 "But he indorsed the sheen --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "250",
+"score": "0.716438",
+"label": "positive",
+"sadness": "0.037874",
+"joy": "0.819642",
+"fear": "0.126137",
+"disgust": "0.01186",
+"anger": "0.007332"
 },
 {
 "title": "A soft Sea washed around the House",
@@ -19229,7 +22900,15 @@ Poem.create!([
 "And an entire universe",
 "For the delighted crew."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "221",
+"score": "0.830828",
+"label": "positive",
+"sadness": "0.019066",
+"joy": "0.655793",
+"fear": "0.264988",
+"disgust": "0.009392",
+"anger": "0.1077"
 },
 {
 "title": "I had no time to Hate",
@@ -19249,7 +22928,15 @@ Poem.create!([
 "I thought",
 "Be large enough for Me --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "239",
+"score": "-0.326536",
+"label": "negative",
+"sadness": "0.245703",
+"joy": "0.328436",
+"fear": "0.019721",
+"disgust": "0.008906",
+"anger": "0.511829"
 },
 {
 "title": "A Pang is more conspicuous in Spring",
@@ -19264,7 +22951,15 @@ Poem.create!([
 "Why, Resurrection had to wait",
 "Till they had moved a Stone --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "275",
+"score": "-0.734311",
+"label": "negative",
+"sadness": "0.307247",
+"joy": "0.511614",
+"fear": "0.072592",
+"disgust": "0.005565",
+"anger": "0.169524"
 },
 {
 "title": "One Life of so much Consequence!",
@@ -19290,7 +22985,15 @@ Poem.create!([
 "But Monarchs -- are perceptible --",
 "Far down the dustiest Road!"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "495",
+"score": "0.600695",
+"label": "positive",
+"sadness": "0.206851",
+"joy": "0.562208",
+"fear": "0.098088",
+"disgust": "0.08572",
+"anger": "0.169032"
 },
 {
 "title": "For largest Woman's Hearth I knew",
@@ -19303,7 +23006,15 @@ Poem.create!([
 "And so, instructed by my own,",
 "I tenderer, turn Me to."
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "178",
+"score": "0.768841",
+"label": "positive",
+"sadness": "0.257205",
+"joy": "0.39336",
+"fear": "0.139027",
+"disgust": "0.101027",
+"anger": "0.037642"
 },
 {
 "title": "Forever honored by the Tree",
@@ -19319,7 +23030,15 @@ Poem.create!([
 "But Angels have that modest way",
 "To screen them from Renown."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "231",
+"score": "0.883066",
+"label": "positive",
+"sadness": "0.070734",
+"joy": "0.847508",
+"fear": "0.015027",
+"disgust": "0.061353",
+"anger": "0.022358"
 },
 {
 "title": "The Winters are so short",
@@ -19345,7 +23064,15 @@ Poem.create!([
 "But Ararat's a Legend -- now --",
 "And no one credits Noah --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "479",
+"score": "-0.555877",
+"label": "negative",
+"sadness": "0.38455",
+"joy": "0.290112",
+"fear": "0.290492",
+"disgust": "0.065826",
+"anger": "0.133086"
 },
 {
 "title": "To lose one's faith -- surpass",
@@ -19361,7 +23088,15 @@ Poem.create!([
 "Annihilate a single clause --",
 "And Being's -- Beggary --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "220",
+"score": "0.562289",
+"label": "positive",
+"sadness": "0.716705",
+"joy": "0.17644",
+"fear": "0.086476",
+"disgust": "0.063887",
+"anger": "0.033678"
 },
 {
 "title": "My Season's furthest Flower --",
@@ -19372,7 +23107,15 @@ Poem.create!([
 "Because I found Her Kinsmanless,",
 "A Grace without a Friend."
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "108",
+"score": "0.920106",
+"label": "positive",
+"sadness": "0.182501",
+"joy": "0.72147",
+"fear": "0.033033",
+"disgust": "0.023206",
+"anger": "0.037662"
 },
 {
 "title": "If I should cease to bring a Rose",
@@ -19388,7 +23131,15 @@ Poem.create!([
 "'Twill be because Death's finger",
 "Claps my murmuring lip!"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "229",
+"score": "-0.53354",
+"label": "negative",
+"sadness": "0.158832",
+"joy": "0.290841",
+"fear": "0.178329",
+"disgust": "0.519147",
+"anger": "0.056701"
 },
 {
 "title": "The Definition of Beauty is",
@@ -19399,7 +23150,15 @@ Poem.create!([
 "Of Heaven, easing Analysis,",
 "Since Heaven and He are one."
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "111",
+"score": "0.737212",
+"label": "positive",
+"sadness": "0.909117",
+"joy": "0.736761",
+"fear": "0.013276",
+"disgust": "0.035157",
+"anger": "0.146748"
 },
 {
 "title": "Given in Marriage unto Thee",
@@ -19415,7 +23174,15 @@ Poem.create!([
 "Only the Keeper of this Ring",
 "Conquer Mortality --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "220",
+"score": "0.279494",
+"label": "positive",
+"sadness": "0.058276",
+"joy": "0.776124",
+"fear": "0.099073",
+"disgust": "0.028415",
+"anger": "0.058914"
 },
 {
 "title": "Before you thought of Spring",
@@ -19438,7 +23205,15 @@ Poem.create!([
 "And shouts for joy to Nobody",
 "But his seraphic self --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "396",
+"score": "0.618129",
+"label": "positive",
+"sadness": "0.07276",
+"joy": "0.823905",
+"fear": "0.020566",
+"disgust": "0.020755",
+"anger": "0.090944"
 },
 {
 "title": "You know that Portrait in the Moon --",
@@ -19464,7 +23239,15 @@ Poem.create!([
 "That's easier -- than the other film",
 "That glazes Holiday --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "561",
+"score": "0.344072",
+"label": "positive",
+"sadness": "0.044979",
+"joy": "0.681648",
+"fear": "0.06195",
+"disgust": "0.214325",
+"anger": "0.059034"
 },
 {
 "title": "Would you like summer?  Taste of ours.",
@@ -19480,7 +23263,15 @@ Poem.create!([
 "Even for Death, a fairy medicine.",
 "But, which is it, sir?"
 ],
-"linecount": "9"
+"linecount": "9",
+"text_characters": "294",
+"score": "-0.430958",
+"label": "negative",
+"sadness": "0.653465",
+"joy": "0.085515",
+"fear": "0.676455",
+"disgust": "0.664211",
+"anger": "0.662697"
 },
 {
 "title": "I cannot dance upon my Toes",
@@ -19511,7 +23302,15 @@ Poem.create!([
 "Nor any Placard boast me --",
 "It's full as Opera --"
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "574",
+"score": "-0.620956",
+"label": "negative",
+"sadness": "0.038393",
+"joy": "0.55568",
+"fear": "0.138424",
+"disgust": "0.030228",
+"anger": "0.302749"
 },
 {
 "title": "Teach Him -- When He makes the names",
@@ -19527,7 +23326,15 @@ Poem.create!([
 "\"Forbid us not\" --",
 "Some like \"Emily.\""
 ],
-"linecount": "9"
+"linecount": "9",
+"text_characters": "242",
+"score": "0.432222",
+"label": "positive",
+"sadness": "0.332345",
+"joy": "0.468521",
+"fear": "0.063719",
+"disgust": "0.078409",
+"anger": "0.14824"
 },
 {
 "title": "I send you a decrepit flower",
@@ -19543,7 +23350,15 @@ Poem.create!([
 "Or circumstances prudential",
 "Withheld invincibly --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "210",
+"score": "0.469591",
+"label": "positive",
+"sadness": "0.081815",
+"joy": "0.756033",
+"fear": "0.013502",
+"disgust": "0.006471",
+"anger": "0.107691"
 },
 {
 "title": "Is Heaven a Physician?",
@@ -19558,7 +23373,15 @@ Poem.create!([
 "But that negotiation",
 "I'm not a Party to --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "189",
+"score": "-0.727124",
+"label": "negative",
+"sadness": "0.183953",
+"joy": "0.306106",
+"fear": "0.058809",
+"disgust": "0.040847",
+"anger": "0.304073"
 },
 {
 "title": "The feet of people walking home",
@@ -19591,7 +23414,15 @@ Poem.create!([
 "Which from its solemn abbeys",
 "Such ressurection pours."
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "668",
+"score": "-0.30325",
+"label": "negative",
+"sadness": "0.434138",
+"joy": "0.218929",
+"fear": "0.174894",
+"disgust": "0.313305",
+"anger": "0.07577"
 },
 {
 "title": "We pray -- to Heaven",
@@ -19611,7 +23442,15 @@ Poem.create!([
 "But State -- Endowal -- Focus --",
 "Where -- Omnipresence -- fly?"
 ],
-"linecount": "11"
+"linecount": "11",
+"text_characters": "334",
+"score": "0.468616",
+"label": "positive",
+"sadness": "0.427583",
+"joy": "0.079458",
+"fear": "0.334807",
+"disgust": "0.338494",
+"anger": "0.12435"
 },
 {
 "title": "Perhaps you'd like to buy a flower,",
@@ -19630,7 +23469,15 @@ Poem.create!([
 "Why, I will lend until just then,",
 "But not an hour more!"
 ],
-"linecount": "10"
+"linecount": "10",
+"text_characters": "279",
+"score": "-0.440391",
+"label": "negative",
+"sadness": "0.045942",
+"joy": "0.648781",
+"fear": "0.125767",
+"disgust": "0.044874",
+"anger": "0.183322"
 },
 {
 "title": "I cannot meet the Spring unmoved --",
@@ -19646,7 +23493,15 @@ Poem.create!([
 "And as she vanishes, Remorse",
 "I saw no more of Her."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "223",
+"score": "-0.787904",
+"label": "negative",
+"sadness": "0.318174",
+"joy": "0.34913",
+"fear": "0.185617",
+"disgust": "0.033293",
+"anger": "0.244985"
 },
 {
 "title": "I thought that nature was enough",
@@ -19667,7 +23522,15 @@ Poem.create!([
 "And you will lodge a Giant",
 "And not a smaller man"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "304",
+"score": "0.650602",
+"label": "positive",
+"sadness": "0.115948",
+"joy": "0.638597",
+"fear": "0.038729",
+"disgust": "0.055873",
+"anger": "0.203681"
 },
 {
 "title": "The Leaves like Women interchange",
@@ -19683,7 +23546,15 @@ Poem.create!([
 "Inviolable compact",
 "To notoriety."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "189",
+"score": "0",
+"label": "neutral",
+"sadness": "0.04376",
+"joy": "0.801749",
+"fear": "0.048128",
+"disgust": "0.044592",
+"anger": "0.064776"
 },
 {
 "title": "Of Nature I shall have enough",
@@ -19694,7 +23565,15 @@ Poem.create!([
 "Entitled to a Bumble bee's",
 "Familiarities."
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "97",
+"score": "0.731591",
+"label": "positive",
+"sadness": "0.037856",
+"joy": "0.612824",
+"fear": "0.156503",
+"disgust": "0.036081",
+"anger": "0.233604"
 },
 {
 "title": "My Garden -- like the Beach",
@@ -19706,7 +23585,15 @@ Poem.create!([
 "Such as These -- the Pearls",
 "She fetches -- such as Me"
 ],
-"linecount": "5"
+"linecount": "5",
+"text_characters": "130",
+"score": "0.447365",
+"label": "positive",
+"sadness": "0.04946",
+"joy": "0.836437",
+"fear": "0.016783",
+"disgust": "0.032061",
+"anger": "0.028424"
 },
 {
 "title": "I'll tell you how the Sun rose",
@@ -19729,7 +23616,15 @@ Poem.create!([
 "Put gently up the evening Bars --",
 "And led the flock away --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "487",
+"score": "-0.305343",
+"label": "negative",
+"sadness": "0.228939",
+"joy": "0.528505",
+"fear": "0.071007",
+"disgust": "0.131643",
+"anger": "0.143"
 },
 {
 "title": "A something in a summer's Day",
@@ -19764,7 +23659,15 @@ Poem.create!([
 "And I meet, coming thro' the dews",
 "Another summer's Day!"
 ],
-"linecount": "22"
+"linecount": "22",
+"text_characters": "684",
+"score": "0.623705",
+"label": "positive",
+"sadness": "0.077926",
+"joy": "0.751562",
+"fear": "0.140522",
+"disgust": "0.055521",
+"anger": "0.023228"
 },
 {
 "title": "Four Trees -- upon a solitary Acre --",
@@ -19790,7 +23693,15 @@ Poem.create!([
 "They severally -- retard -- or further --",
 "Unknown --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "423",
+"score": "0.54129",
+"label": "positive",
+"sadness": "0.020755",
+"joy": "0.798722",
+"fear": "0.016264",
+"disgust": "0.037109",
+"anger": "0.141804"
 },
 {
 "title": "Spring comes on the World --",
@@ -19804,7 +23715,15 @@ Poem.create!([
 "Touched to Conditions",
 "By a Hum."
 ],
-"linecount": "7"
+"linecount": "7",
+"text_characters": "154",
+"score": "-0.322891",
+"label": "negative",
+"sadness": "0.161303",
+"joy": "0.678646",
+"fear": "0.168129",
+"disgust": "0.012425",
+"anger": "0.026034"
 },
 {
 "title": "The waters chased him as he fled,",
@@ -19821,7 +23740,15 @@ Poem.create!([
 "The object floating at his side",
 "Made no distinct reply."
 ],
-"linecount": "10"
+"linecount": "10",
+"text_characters": "286",
+"score": "-0.738726",
+"label": "negative",
+"sadness": "0.061054",
+"joy": "0.648311",
+"fear": "0.054267",
+"disgust": "0.152394",
+"anger": "0.20646"
 },
 {
 "title": "Not One by Heaven defrauded stay --",
@@ -19832,7 +23759,15 @@ Poem.create!([
 "He restitutes in some sweet way",
 "Secreted in his will --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "117",
+"score": "-0.55643",
+"label": "negative",
+"sadness": "0.142418",
+"joy": "0.599492",
+"fear": "0.026836",
+"disgust": "0.030475",
+"anger": "0.296519"
 },
 {
 "title": "All but Death, can be Adjusted --",
@@ -19848,7 +23783,15 @@ Poem.create!([
 "Death -- unto itself -- Exception --",
 "Is exempt from Change --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "244",
+"score": "-0.81806",
+"label": "negative",
+"sadness": "0.46679",
+"joy": "0.177877",
+"fear": "0.210663",
+"disgust": "0.059139",
+"anger": "0.273555"
 },
 {
 "title": "Jesus! thy Crucifix",
@@ -19862,7 +23805,15 @@ Poem.create!([
 "Mind thee in Paradise",
 "Of ours!"
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "112",
+"score": "0.877199",
+"label": "positive",
+"sadness": "0.076929",
+"joy": "0.645298",
+"fear": "0.038424",
+"disgust": "0.138523",
+"anger": "0.08775"
 },
 {
 "title": "I saw no Way -- The Heavens were stitched",
@@ -19878,7 +23829,15 @@ Poem.create!([
 "Went out upon Circumference --",
 "Beyond the Dip of Bell --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "251",
+"score": "-0.485021",
+"label": "negative",
+"sadness": "0.344594",
+"joy": "0.255553",
+"fear": "0.242124",
+"disgust": "0.103905",
+"anger": "0.244452"
 },
 {
 "title": "Lest this be Heaven indeed",
@@ -19889,7 +23848,15 @@ Poem.create!([
 "That always gauges a Degree",
 "Between Ourself and Heaven."
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "103",
+"score": "-0.83364",
+"label": "negative",
+"sadness": "0.141683",
+"joy": "0.533178",
+"fear": "0.068185",
+"disgust": "0.034094",
+"anger": "0.199976"
 },
 {
 "title": "I know some lonely Houses off the Road",
@@ -19941,7 +23908,15 @@ Poem.create!([
 "While the old Couple, just astir,",
 "Fancy the Sunrise -- left the door ajar!"
 ],
-"linecount": "40"
+"linecount": "40",
+"text_characters": "1002",
+"score": "0.350895",
+"label": "positive",
+"sadness": "0.482409",
+"joy": "0.249973",
+"fear": "0.563239",
+"disgust": "0.163041",
+"anger": "0.16107"
 },
 {
 "title": "Expanse cannot be lost --",
@@ -19965,7 +23940,15 @@ Poem.create!([
 "The Tent is listening,",
 "But the Troops are gone!"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "387",
+"score": "-0.572136",
+"label": "negative",
+"sadness": "0.299953",
+"joy": "0.369336",
+"fear": "0.073671",
+"disgust": "0.110452",
+"anger": "0.308481"
 },
 {
 "title": "Peace is a fiction of our Faith --",
@@ -19976,7 +23959,15 @@ Poem.create!([
 "Bearing the Neighbor out of Sound",
 "That never did alight."
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "116",
+"score": "0.672226",
+"label": "positive",
+"sadness": "0.043407",
+"joy": "0.864634",
+"fear": "0.029627",
+"disgust": "0.011611",
+"anger": "0.057655"
 },
 {
 "title": "Our journey had advanced --",
@@ -19997,7 +23988,15 @@ Poem.create!([
 "Eternity's White Flag -- Before --",
 "And God -- at every Gate --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "359",
+"score": "0.329737",
+"label": "positive",
+"sadness": "0.198605",
+"joy": "0.277274",
+"fear": "0.302789",
+"disgust": "0.353489",
+"anger": "0.084694"
 },
 {
 "title": "Split the Lark -- and you'll find the Music --",
@@ -20013,7 +24012,15 @@ Poem.create!([
 "Scarlet Experiment!  Sceptic Thomas!",
 "Now, do you doubt that your Bird was true?"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "322",
+"score": "0.325436",
+"label": "positive",
+"sadness": "0.049927",
+"joy": "0.518374",
+"fear": "0.057876",
+"disgust": "0.019781",
+"anger": "0.43627"
 },
 {
 "title": "Hope is a subtle Glutton --",
@@ -20029,7 +24036,15 @@ Poem.create!([
 "And whatsoever is consumed",
 "The same amount remain --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "219",
+"score": "0.314804",
+"label": "positive",
+"sadness": "0.112594",
+"joy": "0.45522",
+"fear": "0.043883",
+"disgust": "0.15654",
+"anger": "0.207951"
 },
 {
 "title": "When I was small, a Woman died --",
@@ -20060,7 +24075,15 @@ Poem.create!([
 "For Braveries, remote as this",
 "In Scarlet Maryland --"
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "547",
+"score": "0.573221",
+"label": "positive",
+"sadness": "0.148379",
+"joy": "0.684127",
+"fear": "0.01343",
+"disgust": "0.164144",
+"anger": "0.037623"
 },
 {
 "title": "Do People moulder equally,",
@@ -20086,7 +24109,15 @@ Poem.create!([
 "Is not a controvertible --",
 "He told me, Death was dead --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "440",
+"score": "-0.644721",
+"label": "negative",
+"sadness": "0.515332",
+"joy": "0.005516",
+"fear": "0.084947",
+"disgust": "0.232561",
+"anger": "0.521409"
 },
 {
 "title": "Had I presumed to hope --",
@@ -20112,7 +24143,15 @@ Poem.create!([
 "Till He be justified by Death --",
 "This -- is the Second Gain --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "452",
+"score": "-0.562858",
+"label": "negative",
+"sadness": "0.761021",
+"joy": "0.064668",
+"fear": "0.156242",
+"disgust": "0.128299",
+"anger": "0.066426"
 },
 {
 "title": "I hide myself within my flower,",
@@ -20123,7 +24162,15 @@ Poem.create!([
 "You, unsuspecting, feel for me --",
 "Almost a loneliness."
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "114",
+"score": "-0.94976",
+"label": "negative",
+"sadness": "0.912909",
+"joy": "0.040105",
+"fear": "0.085902",
+"disgust": "0.00609",
+"anger": "0.057513"
 },
 {
 "title": "When Roses cease to bloom, Sir,",
@@ -20138,7 +24185,15 @@ Poem.create!([
 "Will idle lie -- in Auburn --",
 "Then take my flowers -- pray!"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "232",
+"score": "-0.442244",
+"label": "negative",
+"sadness": "0.073817",
+"joy": "0.756607",
+"fear": "0.057005",
+"disgust": "0.093348",
+"anger": "0.056149"
 },
 {
 "title": "These are the Signs to Nature's Inns --",
@@ -20159,7 +24214,15 @@ Poem.create!([
 "The Purple in the East is set",
 "And in the North, the Star --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "337",
+"score": "0.263267",
+"label": "positive",
+"sadness": "0.042864",
+"joy": "0.734294",
+"fear": "0.021727",
+"disgust": "0.112516",
+"anger": "0.122863"
 },
 {
 "title": "Besides the Autumn poets sing",
@@ -20185,7 +24248,15 @@ Poem.create!([
 "Grant me, Oh Lord, a sunny mind --",
 "Thy windy will to bear!"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "461",
+"score": "0.314334",
+"label": "positive",
+"sadness": "0.034319",
+"joy": "0.658106",
+"fear": "0.057656",
+"disgust": "0.096063",
+"anger": "0.201486"
 },
 {
 "title": "Prayer is the little implement",
@@ -20201,7 +24272,15 @@ Poem.create!([
 "This sums the Apparatus",
 "Comprised in Prayer --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "212",
+"score": "-0.506374",
+"label": "negative",
+"sadness": "0.22429",
+"joy": "0.552515",
+"fear": "0.063793",
+"disgust": "0.01119",
+"anger": "0.225759"
 },
 {
 "title": "I started Early -- Took my Dog --",
@@ -20237,7 +24316,15 @@ Poem.create!([
 "And bowing -- with a Mighty look --",
 "At me -- The Sea withdrew --"
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "722",
+"score": "-0.628586",
+"label": "negative",
+"sadness": "0.036898",
+"joy": "0.641356",
+"fear": "0.035169",
+"disgust": "0.242438",
+"anger": "0.119866"
 },
 {
 "title": "I never lost as much but twice",
@@ -20253,7 +24340,15 @@ Poem.create!([
 "Burglar! Banker -- Father!",
 "I am poor once more!"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "206",
+"score": "-0.722366",
+"label": "negative",
+"sadness": "0.272972",
+"joy": "0.178882",
+"fear": "0.307249",
+"disgust": "0.217144",
+"anger": "0.280231"
 },
 {
 "title": "Why -- do they shut Me out of Heaven?",
@@ -20274,7 +24369,15 @@ Poem.create!([
 "And they -- were the little Hand -- that knocked --",
 "Could -- I -- forbid?"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "355",
+"score": "-0.713112",
+"label": "negative",
+"sadness": "0.123574",
+"joy": "0.03979",
+"fear": "0.256054",
+"disgust": "0.194724",
+"anger": "0.722001"
 },
 {
 "title": "Love -- is that later Thing than Death --",
@@ -20295,7 +24398,15 @@ Poem.create!([
 "Need -- once in an Eternity --",
 "A smaller than the Large --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "386",
+"score": "0.468553",
+"label": "positive",
+"sadness": "0.41248",
+"joy": "0.506028",
+"fear": "0.045095",
+"disgust": "0.032832",
+"anger": "0.063984"
 },
 {
 "title": "My Faith is larger than the Hills --",
@@ -20321,7 +24432,15 @@ Poem.create!([
 "Lest Firmament should fail for me --",
 "The Rivet in the Bands"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "510",
+"score": "0.337796",
+"label": "positive",
+"sadness": "0.026544",
+"joy": "0.780041",
+"fear": "0.034676",
+"disgust": "0.037871",
+"anger": "0.15901"
 },
 {
 "title": "Who has not found the Heaven -- below --",
@@ -20332,7 +24451,15 @@ Poem.create!([
 "For Angels rent the House next ours,",
 "Wherever we remove --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "124",
+"score": "-0.785683",
+"label": "negative",
+"sadness": "0.402688",
+"joy": "0.278018",
+"fear": "0.184797",
+"disgust": "0.091386",
+"anger": "0.235284"
 },
 {
 "title": "Only God -- detect the Sorrow --",
@@ -20347,7 +24474,15 @@ Poem.create!([
 "God the Spirit's Honor --",
 "Just as sure --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "178",
+"score": "0.756418",
+"label": "positive",
+"sadness": "0.352643",
+"joy": "0.570818",
+"fear": "0.026399",
+"disgust": "0.007703",
+"anger": "0.073809"
 },
 {
 "title": "To see the Summer Sky",
@@ -20357,7 +24492,15 @@ Poem.create!([
 "Is Poetry, though never in a Book it lie --",
 "True Poems flee --"
 ],
-"linecount": "3"
+"linecount": "3",
+"text_characters": "84",
+"score": "0.411307",
+"label": "positive",
+"sadness": "0.096835",
+"joy": "0.70834",
+"fear": "0.193585",
+"disgust": "0.02514",
+"anger": "0.017766"
 },
 {
 "title": "So gay a Flower",
@@ -20369,7 +24512,15 @@ Poem.create!([
 "Is Beauty an Affliction -- then?",
 "Tradition ought to know --"
 ],
-"linecount": "5"
+"linecount": "5",
+"text_characters": "116",
+"score": "-0.403183",
+"label": "negative",
+"sadness": "0.173216",
+"joy": "0.658159",
+"fear": "0.032452",
+"disgust": "0.081853",
+"anger": "0.074846"
 },
 {
 "title": "A Pit -- but Heaven over it --",
@@ -20395,7 +24546,15 @@ Poem.create!([
 "Seed -- summer -- tomb --",
 "Whose Doom to whom?"
 ],
-"linecount": "17"
+"linecount": "17",
+"text_characters": "480",
+"score": "0.554401",
+"label": "positive",
+"sadness": "0.615299",
+"joy": "0.668054",
+"fear": "0.58169",
+"disgust": "0.589167",
+"anger": "0.605367"
 },
 {
 "title": "The Service without Hope --",
@@ -20411,7 +24570,15 @@ Poem.create!([
 "There is no Diligence like that",
 "That knows not an Until --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "211",
+"score": "0.436208",
+"label": "positive",
+"sadness": "0.229616",
+"joy": "0.371544",
+"fear": "0.057078",
+"disgust": "0.076043",
+"anger": "0.125486"
 },
 {
 "title": "The fascinating chill that music leaves",
@@ -20426,7 +24593,15 @@ Poem.create!([
 "To something upper wooing us",
 "But not to our Creator --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "235",
+"score": "0.30709",
+"label": "positive",
+"sadness": "0.037464",
+"joy": "0.8641",
+"fear": "0.049959",
+"disgust": "0.017456",
+"anger": "0.033981"
 },
 {
 "title": "I'm \"wife\" -- I've finished that",
@@ -20447,7 +24622,15 @@ Poem.create!([
 "But why compare?",
 "I'm \"Wife\"! Stop there!"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "311",
+"score": "0.521169",
+"label": "positive",
+"sadness": "0.315538",
+"joy": "0.480479",
+"fear": "0.014649",
+"disgust": "0.091942",
+"anger": "0.21499"
 },
 {
 "title": "The last of Summer is Delight --",
@@ -20463,7 +24646,15 @@ Poem.create!([
 "Audacious as without a Knock",
 "To walk within the Veil."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "230",
+"score": "0.62288",
+"label": "positive",
+"sadness": "0.051021",
+"joy": "0.850771",
+"fear": "0.040054",
+"disgust": "0.016683",
+"anger": "0.020277"
 },
 {
 "title": "They say that \"Time assuages\" --",
@@ -20479,7 +24670,15 @@ Poem.create!([
 "If such it prove, it prove too",
 "There was no Malady --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "217",
+"score": "-0.683438",
+"label": "negative",
+"sadness": "0.644399",
+"joy": "0.043099",
+"fear": "0.076728",
+"disgust": "0.232568",
+"anger": "0.272914"
 },
 {
 "title": "Nature -- sometimes sears a Sapling",
@@ -20495,7 +24694,15 @@ Poem.create!([
 "We -- who have the Souls --",
 "Die oftener -- Not so vitally --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "241",
+"score": "-0.648619",
+"label": "negative",
+"sadness": "0.325745",
+"joy": "0.615446",
+"fear": "0.038031",
+"disgust": "0.005213",
+"anger": "0.054189"
 },
 {
 "title": "No Autumn's intercepting Chill",
@@ -20506,7 +24713,15 @@ Poem.create!([
 "But African Exuberance",
 "And Asiatic rest."
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "101",
+"score": "0.810654",
+"label": "positive",
+"sadness": "0.182537",
+"joy": "0.533985",
+"fear": "0.093499",
+"disgust": "0.064689",
+"anger": "0.05331"
 },
 {
 "title": "Far from Love the Heavenly Father",
@@ -20522,7 +24737,15 @@ Poem.create!([
 "Guides the Little One predestined",
 "To the Native Land."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "218",
+"score": "0.529845",
+"label": "positive",
+"sadness": "0.114485",
+"joy": "0.754787",
+"fear": "0.024054",
+"disgust": "0.040449",
+"anger": "0.070048"
 },
 {
 "title": "Summer has two Beginnings --",
@@ -20543,7 +24766,15 @@ Poem.create!([
 "Forever is deciduous",
 "Except to those who die --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "297",
+"score": "-0.440473",
+"label": "negative",
+"sadness": "0.587053",
+"joy": "0.260222",
+"fear": "0.208968",
+"disgust": "0.015659",
+"anger": "0.055221"
 },
 {
 "title": "I got so I could take his name",
@@ -20582,7 +24813,15 @@ Poem.create!([
 "As Misery --",
 "Itself, too vast, for interrupting -- more --"
 ],
-"linecount": "27"
+"linecount": "27",
+"text_characters": "786",
+"score": "0.796175",
+"label": "positive",
+"sadness": "0.242266",
+"joy": "0.107497",
+"fear": "0.168775",
+"disgust": "0.083249",
+"anger": "0.662907"
 },
 {
 "title": "The Frost of Death was on the Pane --",
@@ -20614,7 +24853,15 @@ Poem.create!([
 "Than Sea and continent there is",
 "A larger -- it is Woe --"
 ],
-"linecount": "21"
+"linecount": "21",
+"text_characters": "590",
+"score": "-0.665801",
+"label": "negative",
+"sadness": "0.155194",
+"joy": "0.460785",
+"fear": "0.055384",
+"disgust": "0.182657",
+"anger": "0.320125"
 },
 {
 "title": "The Butterfly in honored Dust",
@@ -20625,7 +24872,15 @@ Poem.create!([
 "But none will pass the Catacomb",
 "So chastened as the Fly --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "107",
+"score": "0.312338",
+"label": "positive",
+"sadness": "0.12707",
+"joy": "0.156445",
+"fear": "0.156855",
+"disgust": "0.23467",
+"anger": "0.440955"
 },
 {
 "title": "The way Hope builds his House",
@@ -20641,7 +24896,15 @@ Poem.create!([
 "As if it were of Ledges smit",
 "Or mortised with the Laws --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "201",
+"score": "0.423066",
+"label": "positive",
+"sadness": "0.057355",
+"joy": "0.512523",
+"fear": "0.193304",
+"disgust": "0.13301",
+"anger": "0.108265"
 },
 {
 "title": "Except the Heaven had come so near",
@@ -20657,7 +24920,15 @@ Poem.create!([
 "Afflicts me with a Double loss --",
 "'Tis lost -- and lost to me --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "263",
+"score": "-0.706119",
+"label": "negative",
+"sadness": "0.802119",
+"joy": "0.011692",
+"fear": "0.217874",
+"disgust": "0.053175",
+"anger": "0.154671"
 },
 {
 "title": "A chilly Peace infests the Grass",
@@ -20673,7 +24944,15 @@ Poem.create!([
 "But all mankind deliver here",
 "From whatsoever sea --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "224",
+"score": "-0.547188",
+"label": "negative",
+"sadness": "0.091896",
+"joy": "0.64522",
+"fear": "0.036016",
+"disgust": "0.011655",
+"anger": "0.076991"
 },
 {
 "title": "As if the Sea should part",
@@ -20689,7 +24968,15 @@ Poem.create!([
 "Themselves the Verge of Seas to be --",
 "Eternity -- is Those --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "221",
+"score": "0.791173",
+"label": "positive",
+"sadness": "0.13282",
+"joy": "0.393548",
+"fear": "0.059731",
+"disgust": "0.082821",
+"anger": "0.161439"
 },
 {
 "title": "Lain in Nature -- so suffice us",
@@ -20705,7 +24992,15 @@ Poem.create!([
 "Pasted by the simple summer",
 "On the Longed for Dead"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "203",
+"score": "-0.556759",
+"label": "negative",
+"sadness": "0.654073",
+"joy": "0.263333",
+"fear": "0.06526",
+"disgust": "0.034895",
+"anger": "0.135502"
 },
 {
 "title": "Like Flowers, that heard the news of Dews,",
@@ -20730,7 +25025,15 @@ Poem.create!([
 "To Lives that thought the Worshipping",
 "A too presumptuous Psalm --"
 ],
-"linecount": "15"
+"linecount": "15",
+"text_characters": "503",
+"score": "-0.683614",
+"label": "negative",
+"sadness": "0.030125",
+"joy": "0.84417",
+"fear": "0.054902",
+"disgust": "0.025766",
+"anger": "0.069903"
 },
 {
 "title": "A Light exists in Spring",
@@ -20761,7 +25064,15 @@ Poem.create!([
 "As Trade had suddenly encroached",
 "Upon a Sacrament."
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "490",
+"score": "0.4813",
+"label": "positive",
+"sadness": "0.220767",
+"joy": "0.520397",
+"fear": "0.119283",
+"disgust": "0.182492",
+"anger": "0.062958"
 },
 {
 "title": "I cried at Pity -- not at Pain --",
@@ -20797,7 +25108,15 @@ Poem.create!([
 "Have sobbed ourselves almost to sleep,",
 "Our only Lullaby --"
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "738",
+"score": "-0.877474",
+"label": "negative",
+"sadness": "0.713715",
+"joy": "0.030603",
+"fear": "0.342539",
+"disgust": "0.051791",
+"anger": "0.147499"
 },
 {
 "title": "Bless God, he went as soldiers,",
@@ -20813,7 +25132,15 @@ Poem.create!([
 "I should not fear the foe then --",
 "I should not fear the fight!"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "235",
+"score": "0.721753",
+"label": "positive",
+"sadness": "0.030544",
+"joy": "0.746982",
+"fear": "0.158095",
+"disgust": "0.087934",
+"anger": "0.037464"
 },
 {
 "title": "Go not too near a House of Rose --",
@@ -20829,7 +25156,15 @@ Poem.create!([
 "In insecurity to lie",
 "Is Joy's insuring quality."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "222",
+"score": "-0.438158",
+"label": "negative",
+"sadness": "0.194586",
+"joy": "0.427594",
+"fear": "0.072318",
+"disgust": "0.07745",
+"anger": "0.308562"
 },
 {
 "title": "Nature and God -- I neither knew",
@@ -20845,7 +25180,15 @@ Poem.create!([
 "As Herschel's private interest",
 "Or Mercury's affair --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "219",
+"score": "-0.284521",
+"label": "negative",
+"sadness": "0.045372",
+"joy": "0.724321",
+"fear": "0.052146",
+"disgust": "0.038903",
+"anger": "0.182741"
 },
 {
 "title": "I died for Beauty -- but was scarce",
@@ -20866,7 +25209,15 @@ Poem.create!([
 "Until the Moss had reached our lips --",
 "And covered up -- our names --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "385",
+"score": "0.349447",
+"label": "positive",
+"sadness": "0.634844",
+"joy": "0.075007",
+"fear": "0.133156",
+"disgust": "0.111851",
+"anger": "0.327481"
 },
 {
 "title": "Spring is the Period",
@@ -20882,7 +25233,15 @@ Poem.create!([
 "Without a cordial interview",
 "With God."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "159",
+"score": "0",
+"label": "neutral",
+"sadness": "0.149262",
+"joy": "0.703621",
+"fear": "0.071105",
+"disgust": "0.01398",
+"anger": "0.031103"
 },
 {
 "title": "Lightly stepped a yellow star",
@@ -20897,7 +25256,15 @@ Poem.create!([
 "Father, I observed to Heaven,",
 "You are punctual."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "202",
+"score": "0.957377",
+"label": "positive",
+"sadness": "0.143313",
+"joy": "0.58916",
+"fear": "0.036173",
+"disgust": "0.130702",
+"anger": "0.164177"
 },
 {
 "title": "Did Our Best Moment last",
@@ -20918,7 +25285,15 @@ Poem.create!([
 "Withdraws -- and leaves the dazzled Soul",
 "In her unfurnished Rooms"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "356",
+"score": "-0.417382",
+"label": "negative",
+"sadness": "0.169853",
+"joy": "0.655682",
+"fear": "0.046098",
+"disgust": "0.007714",
+"anger": "0.163634"
 },
 {
 "title": "\"Heaven\" -- is what I cannot reach!",
@@ -20939,7 +25314,15 @@ Poem.create!([
 "Enamored -- of the Conjuror --",
 "That spurned us -- Yesterday!"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "375",
+"score": "-0.373695",
+"label": "negative",
+"sadness": "0.019663",
+"joy": "0.792723",
+"fear": "0.031511",
+"disgust": "0.024503",
+"anger": "0.159737"
 },
 {
 "title": "Somewhat, to hope for,",
@@ -20953,7 +25336,15 @@ Poem.create!([
 "Be it ne'er so keen --",
 "If terminable, may be borne."
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "144",
+"score": "-0.720619",
+"label": "negative",
+"sadness": "0.354316",
+"joy": "0.166093",
+"fear": "0.112868",
+"disgust": "0.041475",
+"anger": "0.088696"
 },
 {
 "title": "Autumn -- overlooked my Knitting --",
@@ -20969,7 +25360,15 @@ Poem.create!([
 "And the little Border -- Dusker --",
 "For resembling Me --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "232",
+"score": "-0.712197",
+"label": "negative",
+"sadness": "0.298852",
+"joy": "0.304042",
+"fear": "0.225235",
+"disgust": "0.115358",
+"anger": "0.074116"
 },
 {
 "title": "Like Some Old fashioned Miracle",
@@ -20995,7 +25394,15 @@ Poem.create!([
 "The Violin in Baize replaced --",
 "And Ear -- and Heaven -- numb --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "481",
+"score": "-0.609565",
+"label": "negative",
+"sadness": "0.173795",
+"joy": "0.706377",
+"fear": "0.034575",
+"disgust": "0.01635",
+"anger": "0.106536"
 },
 {
 "title": "The Child's faith is new --",
@@ -21028,7 +25435,15 @@ Poem.create!([
 "Men -- to anticipate",
 "Instead of Kings --"
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "512",
+"score": "0.674724",
+"label": "positive",
+"sadness": "0.019992",
+"joy": "0.720996",
+"fear": "0.013997",
+"disgust": "0.12937",
+"anger": "0.16813"
 },
 {
 "title": "She slept beneath a tree",
@@ -21041,7 +25456,15 @@ Poem.create!([
 "Put on her carmine suit",
 "And see!"
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "138",
+"score": "0.537291",
+"label": "positive",
+"sadness": "0.146934",
+"joy": "0.529795",
+"fear": "0.227232",
+"disgust": "0.128965",
+"anger": "0.099001"
 },
 {
 "title": "Too happy Time dissolves itself",
@@ -21052,7 +25475,15 @@ Poem.create!([
 "'Tis Anguish not a Feather hath",
 "Or too much weight to fly --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "120",
+"score": "-0.897129",
+"label": "negative",
+"sadness": "0.033336",
+"joy": "0.779132",
+"fear": "0.025599",
+"disgust": "0.067853",
+"anger": "0.008572"
 },
 {
 "title": "The Rose did caper on her cheek",
@@ -21078,7 +25509,15 @@ Poem.create!([
 "Till those two troubled -- little Clocks",
 "Ticked softly into one."
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "500",
+"score": "-0.831949",
+"label": "negative",
+"sadness": "0.120942",
+"joy": "0.614647",
+"fear": "0.130125",
+"disgust": "0.07213",
+"anger": "0.141606"
 },
 {
 "title": "Time does go on --",
@@ -21090,7 +25529,15 @@ Poem.create!([
 "There is a sun --",
 "They don't believe it now --"
 ],
-"linecount": "5"
+"linecount": "5",
+"text_characters": "128",
+"score": "-0.501972",
+"label": "negative",
+"sadness": "0.507536",
+"joy": "0.117696",
+"fear": "0.335187",
+"disgust": "0.013136",
+"anger": "0.260718"
 },
 {
 "title": "Except to Heaven, she is nought.",
@@ -21111,7 +25558,15 @@ Poem.create!([
 "And somebody has lost the face",
 "That made Existence -- Home!"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "348",
+"score": "-0.598284",
+"label": "negative",
+"sadness": "0.524178",
+"joy": "0.195563",
+"fear": "0.605846",
+"disgust": "0.062457",
+"anger": "0.238487"
 },
 {
 "title": "There came a Day at Summer's full",
@@ -21152,7 +25607,15 @@ Poem.create!([
 "To that new Marriage,",
 "Justified -- through Calvaries of Love --"
 ],
-"linecount": "28"
+"linecount": "28",
+"text_characters": "891",
+"score": "-0.634761",
+"label": "negative",
+"sadness": "0.066795",
+"joy": "0.693461",
+"fear": "0.017573",
+"disgust": "0.131958",
+"anger": "0.151802"
 },
 {
 "title": "Ourselves were wed one summer -- dear --",
@@ -21178,7 +25641,15 @@ Poem.create!([
 "And yet, one Summer, we were Queens --",
 "But You -- were crowned in June --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "547",
+"score": "0.572528",
+"label": "positive",
+"sadness": "0.299793",
+"joy": "0.560101",
+"fear": "0.164535",
+"disgust": "0.020987",
+"anger": "0.009363"
 },
 {
 "title": "Bliss is the plaything of the child --",
@@ -21189,7 +25660,15 @@ Poem.create!([
 "The sacred stealth of Boy and Girl",
 "Rebuke it if we can"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "115",
+"score": "0.777554",
+"label": "positive",
+"sadness": "0.019972",
+"joy": "0.870933",
+"fear": "0.007102",
+"disgust": "0.089453",
+"anger": "0.029655"
 },
 {
 "title": "Glass was the Street -- in tinsel Peril",
@@ -21205,7 +25684,15 @@ Poem.create!([
 "It is the Past's supreme italic",
 "Makes this Present mean --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "255",
+"score": "0.933903",
+"label": "positive",
+"sadness": "0.060631",
+"joy": "0.699509",
+"fear": "0.119",
+"disgust": "0.078435",
+"anger": "0.099711"
 },
 {
 "title": "There is a pain -- so utter --",
@@ -21220,7 +25707,15 @@ Poem.create!([
 "Goes safely -- where an open eye --",
 "Would drop Him -- Bone by Bone."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "238",
+"score": "-0.762221",
+"label": "negative",
+"sadness": "0.735007",
+"joy": "0.115226",
+"fear": "0.178328",
+"disgust": "0.091294",
+"anger": "0.027429"
 },
 {
 "title": "A little Dog that wags his tail",
@@ -21246,7 +25741,15 @@ Poem.create!([
 "But not to make a \"bit of noise\"",
 "Beseech each little Boy --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "422",
+"score": "-0.755785",
+"label": "negative",
+"sadness": "0.342543",
+"joy": "0.439796",
+"fear": "0.085668",
+"disgust": "0.222344",
+"anger": "0.071594"
 },
 {
 "title": "Nature -- the Gentlest Mother is,",
@@ -21282,7 +25785,15 @@ Poem.create!([
 "Her Golden finger on Her lip --",
 "Wills Silence -- Everywhere --"
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "683",
+"score": "-0.869732",
+"label": "negative",
+"sadness": "0.1547",
+"joy": "0.639619",
+"fear": "0.049521",
+"disgust": "0.077951",
+"anger": "0.155663"
 },
 {
 "title": "The Summer that we did not prize,",
@@ -21298,7 +25809,15 @@ Poem.create!([
 "For Trains that moment out of sight,",
 "Unconscious of his smartness."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "249",
+"score": "0.904387",
+"label": "positive",
+"sadness": "0.315521",
+"joy": "0.504272",
+"fear": "0.073227",
+"disgust": "0.081325",
+"anger": "0.038037"
 },
 {
 "title": "The butterfly obtains",
@@ -21319,7 +25838,15 @@ Poem.create!([
 "'Twere fitter certifying",
 "For Immortality --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "278",
+"score": "0.303924",
+"label": "positive",
+"sadness": "0.079944",
+"joy": "0.552882",
+"fear": "0.033879",
+"disgust": "0.112402",
+"anger": "0.203283"
 },
 {
 "title": "Midsummer, was it, when They died --",
@@ -21335,7 +25862,15 @@ Poem.create!([
 "When These -- leaned unto Perfectness --",
 "Through Haze of Burial --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "249",
+"score": "0.320347",
+"label": "positive",
+"sadness": "0.263305",
+"joy": "0.685719",
+"fear": "0.022645",
+"disgust": "0.012311",
+"anger": "0.024062"
 },
 {
 "title": "The Trees like Tassels -- hit -- and swung --",
@@ -21376,7 +25911,15 @@ Poem.create!([
 "Vandyke's Delineation",
 "Of Nature's -- Summer Day!"
 ],
-"linecount": "28"
+"linecount": "28",
+"text_characters": "812",
+"score": "0.326789",
+"label": "positive",
+"sadness": "0.019149",
+"joy": "0.803418",
+"fear": "0.020268",
+"disgust": "0.066222",
+"anger": "0.132324"
 },
 {
 "title": "The Moon is distant from the Sea",
@@ -21397,7 +25940,15 @@ Poem.create!([
 "Obedient to the least command",
 "Thine eye impose on me --"
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "368",
+"score": "-0.435103",
+"label": "negative",
+"sadness": "0.100594",
+"joy": "0.56696",
+"fear": "0.127325",
+"disgust": "0.173693",
+"anger": "0.13794"
 },
 {
 "title": "Beauty crowds me till I die",
@@ -21408,7 +25959,15 @@ Poem.create!([
 "But if I expire today",
 "Let it be in sight of thee --"
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "103",
+"score": "0.703252",
+"label": "positive",
+"sadness": "0.344045",
+"joy": "0.563411",
+"fear": "0.02563",
+"disgust": "0.025578",
+"anger": "0.091517"
 },
 {
 "title": "Consulting summer's clock,",
@@ -21423,7 +25982,15 @@ Poem.create!([
 "The truth I do not dare to know",
 "I muffle with a jest."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "212",
+"score": "-0.264071",
+"label": "negative",
+"sadness": "0.379391",
+"joy": "0.283456",
+"fear": "0.193641",
+"disgust": "0.13361",
+"anger": "0.204121"
 },
 {
 "title": "As Sleigh Bells seem in summer",
@@ -21438,7 +26005,15 @@ Poem.create!([
 "More distant in an instant",
 "Than Dawn in Timbuctoo."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "209",
+"score": "-0.628471",
+"label": "negative",
+"sadness": "0.116432",
+"joy": "0.723524",
+"fear": "0.106769",
+"disgust": "0.035259",
+"anger": "0.035331"
 },
 {
 "title": "The Soul has Bandaged moments --",
@@ -21474,7 +26049,15 @@ Poem.create!([
 "The Horror welcomes her, again,",
 "These, are not brayed of Tongue --"
 ],
-"linecount": "24"
+"linecount": "24",
+"text_characters": "752",
+"score": "-0.398151",
+"label": "negative",
+"sadness": "0.042567",
+"joy": "0.745006",
+"fear": "0.138755",
+"disgust": "0.072202",
+"anger": "0.055896"
 },
 {
 "title": "Brother of Ingots -- Ah Peru --",
@@ -21497,7 +26080,15 @@ Poem.create!([
 "Honor, the shortest route",
 "To you."
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "208",
+"score": "0.713575",
+"label": "positive",
+"sadness": "0.298749",
+"joy": "0.564484",
+"fear": "0.006672",
+"disgust": "0.013175",
+"anger": "0.028787"
 },
 {
 "title": "The Sea said \"Come\" to the Brook --",
@@ -21513,7 +26104,15 @@ Poem.create!([
 "You cherished\" -- \"Learned Waters --",
 "Wisdom is stale -- to Me\""
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "241",
+"score": "0.366303",
+"label": "positive",
+"sadness": "0.096458",
+"joy": "0.677928",
+"fear": "0.018502",
+"disgust": "0.060638",
+"anger": "0.189865"
 },
 {
 "title": "How far is it to Heaven?",
@@ -21529,7 +26128,15 @@ Poem.create!([
 "How far left hand the Sepulchre",
 "Defies Topography."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "200",
+"score": "-0.785134",
+"label": "negative",
+"sadness": "0.280065",
+"joy": "0.025449",
+"fear": "0.093526",
+"disgust": "0.368372",
+"anger": "0.583847"
 },
 {
 "title": "It would have starved a Gnat --",
@@ -21555,7 +26162,15 @@ Poem.create!([
 "To gad my little Being out --",
 "And not begin -- again --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "438",
+"score": "-0.464582",
+"label": "negative",
+"sadness": "0.426352",
+"joy": "0.277021",
+"fear": "0.10962",
+"disgust": "0.17176",
+"anger": "0.161084"
 },
 {
 "title": "Faith -- is the Pierless Bridge",
@@ -21576,7 +26191,15 @@ Poem.create!([
 "To Our far, vacillating Feet",
 "A first Necessity."
 ],
-"linecount": "12"
+"linecount": "12",
+"text_characters": "332",
+"score": "0.448843",
+"label": "positive",
+"sadness": "0.058559",
+"joy": "0.68409",
+"fear": "0.121038",
+"disgust": "0.112206",
+"anger": "0.091352"
 },
 {
 "title": "Hope is a strange invention --",
@@ -21592,7 +26215,15 @@ Poem.create!([
 "But its unique momentum",
 "Embellish all we own --"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "197",
+"score": "0.924802",
+"label": "positive",
+"sadness": "0.103695",
+"joy": "0.391428",
+"fear": "0.284516",
+"disgust": "0.011144",
+"anger": "0.039831"
 },
 {
 "title": "Robbed by Death -- but that was easy --",
@@ -21618,7 +26249,15 @@ Poem.create!([
 "Then -- seesawing -- coolly -- on it --",
 "Trying if it split --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "450",
+"score": "-0.919185",
+"label": "negative",
+"sadness": "0.609556",
+"joy": "0.087445",
+"fear": "0.112313",
+"disgust": "0.05516",
+"anger": "0.400624"
 },
 {
 "title": "Between the form of Life and Life",
@@ -21633,7 +26272,15 @@ Poem.create!([
 "The corkless is superior --",
 "I know for I have tried"
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "218",
+"score": "0.675469",
+"label": "positive",
+"sadness": "0.12808",
+"joy": "0.733402",
+"fear": "0.047279",
+"disgust": "0.04048",
+"anger": "0.055591"
 },
 {
 "title": "A Death blow is a Life blow to Some",
@@ -21644,7 +26291,15 @@ Poem.create!([
 "Who had they lived, had died but when",
 "They died, Vitality begun."
 ],
-"linecount": "4"
+"linecount": "4",
+"text_characters": "144",
+"score": "-0.994019",
+"label": "negative",
+"sadness": "0.78587",
+"joy": "0.022396",
+"fear": "0.303136",
+"disgust": "0.017805",
+"anger": "0.104693"
 },
 {
 "title": "If the foolish, call them \"flowers\"",
@@ -21675,7 +26330,15 @@ Poem.create!([
 "Stars, amid profound Galaxies --",
 "At that grand \"Right hand\"!"
 ],
-"linecount": "20"
+"linecount": "20",
+"text_characters": "548",
+"score": "0.650266",
+"label": "positive",
+"sadness": "0.021276",
+"joy": "0.774722",
+"fear": "0.01561",
+"disgust": "0.139906",
+"anger": "0.091014"
 },
 {
 "title": "The Butterfly's Assumption Gown",
@@ -21689,7 +26352,15 @@ Poem.create!([
 "And be of Buttercups the friend",
 "In a New England Town --"
 ],
-"linecount": "6"
+"linecount": "6",
+"text_characters": "173",
+"score": "0.290943",
+"label": "positive",
+"sadness": "0.076936",
+"joy": "0.693521",
+"fear": "0.051341",
+"disgust": "0.141879",
+"anger": "0.092563"
 },
 {
 "title": "Oh Sumptuous moment",
@@ -21706,7 +26377,15 @@ Poem.create!([
 "Ask him unto the Gallows led --",
 "With morning in the sky --"
 ],
-"linecount": "9"
+"linecount": "9",
+"text_characters": "232",
+"score": "-0.678271",
+"label": "negative",
+"sadness": "0.314481",
+"joy": "0.441859",
+"fear": "0.179891",
+"disgust": "0.012423",
+"anger": "0.151285"
 },
 {
 "title": "As Children bid the Guest \"Good Night\"",
@@ -21722,7 +26401,15 @@ Poem.create!([
 "My flowers from a hundred cribs",
 "Will peep, and prance again."
 ],
-"linecount": "8"
+"linecount": "8",
+"text_characters": "250",
+"score": "0.695858",
+"label": "positive",
+"sadness": "0.092204",
+"joy": "0.780843",
+"fear": "0.011437",
+"disgust": "0.109385",
+"anger": "0.039671"
 },
 {
 "title": "He told a homely tale",
@@ -21748,6 +26435,14 @@ Poem.create!([
 "Have missed a Barefoot Citizen --",
 "I've ransomed it -- alive --"
 ],
-"linecount": "16"
+"linecount": "16",
+"text_characters": "435",
+"score": "-0.757363",
+"label": "negative",
+"sadness": "0.539115",
+"joy": "0.158711",
+"fear": "0.014182",
+"disgust": "0.113678",
+"anger": "0.244073"
 }
 ])

@@ -20,7 +20,14 @@ ActiveRecord::Schema.define(version: 2022_01_15_220319) do
     t.string "author"
     t.jsonb "lines", default: [], array: true
     t.integer "linecount"
-    t.string "notes"
+    t.integer "text_characters"
+    t.float "score"
+    t.string "label"
+    t.float "sadness"
+    t.float "joy"
+    t.float "fear"
+    t.float "disgust"
+    t.float "anger"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
