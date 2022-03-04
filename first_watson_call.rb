@@ -4,7 +4,7 @@ require "ibm_watson/natural_language_understanding_v1"
 include IBMWatson
 
 authenticator = Authenticators::IamAuthenticator.new(
-  apikey: "CoIqo7JpvBR_0AY3Mn71IjgiPLN-DMP7B3xkSStmEhoJ"
+  apikey: 
 )
 
 natural_language_understanding = NaturalLanguageUnderstandingV1.new(
